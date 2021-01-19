@@ -1,0 +1,1 @@
+FR: création de collections
