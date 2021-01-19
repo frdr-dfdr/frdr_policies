@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="{% if '/en/' in page.canonical_url %}en{% else %}fr{% endif %}" xml:lang="{% if '/en/' in page.canonical_url %}en{% else %}fr{% endif %}">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}"/>
+        <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+        <link rel="stylesheet" href="{{ config.extra.repo_url }}/static/css/jquery-ui-1.10.3.custom/redmond/jquery-ui-1.10.3.custom.css" type="text/css"/>
+        <link rel="stylesheet" href="{{ config.extra.repo_url }}/static/css/bootstrap/bootstrap.min.css" type="text/css"/>
+        <link rel="stylesheet" href="{{ config.extra.repo_url }}/static/css/bootstrap/dspace-theme.css" type="text/css"/>
+        <link rel="stylesheet" href="{{ config.extra.prefix }}css/docs-theme.css" type="text/css"/>
+        <link rel="stylesheet" href="{{ config.extra.prefix }}css/frdr_header.css" type="text/css"/>
+        <script type="text/javascript" src="{{ config.extra.repo_url }}/static/js/jquery/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="{{ config.extra.repo_url }}/static/js/jquery/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="{{ config.extra.repo_url }}/static/js/bootstrap/bootstrap.min.js"></script>
+        <script type="text/javascript" src="{{ config.extra.repo_url }}/static/js/frdr-site.js"></script>
+        <script type="text/javascript" src="{{ config.extra.repo_url }}/utils.js"></script>
+        <script type="text/javascript" src="{{ config.extra.repo_url }}/static/js/ekko-lightbox/5.1.1/ekko-lightbox.js"></script>
+    </head>
+    <body id="content" onload="checkForHashOnLoad(-64)">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+          <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" aria-expanded="false" data-target="#navbar-collapse-1" data-toggle="collapse">
+                <span class="sr-only">Toggle Navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="{{config.extra.repo_url}}?locale={% if '/en/' in page.canonical_url %}en{% else %}fr{% endif %}"><span class="navbar-highlight"><img class="site-logo" src="{% if '/en/' in page.canonical_url %}{{ config.extra.prefix }}img/sitelogo_en.png{% else %}{{ config.extra.prefix }}img/sitelogo_fr.png{% endif %}" alt="FRDR-DFDR"></span></a>
+              <div class="navbar-brand demo-text" style="display:none;"> DEMO </div>
+            </div>
+
+            <div class="navbar-collapse collapse" id="navbar-collapse-1" uib-collapse="isCollapsed" style="height: 0px;" aria-expanded="false" aria-hidden="true">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                    <a href="." class="dropdown-toggle" data-toggle="dropdown">{% if '/en/' in page.canonical_url %}EN{% else %}FR{% endif %}
+                    <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+			{% if '/en/' in page.canonical_url %}
+                        <li><a href="/docs/fr/a_propos/">Français</a></li>
+			{% else %}
+                        <li><a href="/docs/en/about/">English</a></li>
+			{% endif %}
+                    </ul>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                    <a href="{% if '/en/' in page.canonical_url %}/docs/en/about/{% else %}/docs/fr/a_propos/{% endif %}">{% if '/en/' in page.canonical_url %}About{% else %}À propos{% endif %}</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        {% if '/en/' in page.canonical_url %}Help{% else %}Aide{% endif %}
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu" role="menu">
+                      {% if '/en/' in page.canonical_url %}
+                      <li role="menuitem"><a href="/docs/en/before_depositing/">Get An Account</a></li>
+                      <li role="menuitem"><a href="/docs/en/">Documentation</a></li>
+                      <li role="menuitem"><a href="https://www.youtube.com/watch?v=U4Qaia4KZAU&list=PLX9EpizS4A0suoSV2N0nn9parl96xHPkz" target="_blank" rel="noopener">Video Tutorials</a></li>
+                      <li role="menuitem"><a href="/docs/en/contact_support/">Contact Us</a></li>
+                      {% else %}
+                      <li role="menuitem"><a href="/docs/fr/avant_de_déposer/">Obtenez un compte</a></li>
+                      <li role="menuitem"><a href="/docs/fr/">Documentation</a></li>
+                      <li role="menuitem"><a href="https://www.youtube.com/watch?v=U4Qaia4KZAU&list=PLX9EpizS4A0suoSV2N0nn9parl96xHPkz" target="_blank" rel="noopener">Tutoriels vidéos</a></li>
+                      <li role="menuitem"><a href="/docs/fr/contactez_nous/">Contactez nous</a></li>
+                      {% endif %}
+                    </ul>
+                  </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                    <a href="/repo/PublishDashboard?locale={% if '/en/' in page.canonical_url %}en{% else %}fr{% endif %}">{% if '/en/' in page.canonical_url %}Deposit Data{% else %}Déposer des données{% endif %}</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{% if '/en/' in page.canonical_url %}Account {% else %}Compte{% endif %}<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/repo/profile">{% if '/en/' in page.canonical_url %}Profile{% else %}Profil{% endif %}</a></li>
+
+{% if '/en/' in page.canonical_url %}{% else %}{% endif %}
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="/repo/logout"> {% if '/en/' in page.canonical_url %}Log Out{% else %}Déconnexion{% endif %} </a>
+                        </li>
+                      </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                    <a href="mailto:support@frdr-dfdr.ca">{% if '/en/' in page.canonical_url %}Feedback{% else %}Commentaires{% endif %}</a>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+    <div class="container row">
+        <div class="col-md-3 frdr-sidebar">
+        {% if nav|length>1 %}
+            <ul>
+            {% for nav_item in nav %}
+                {% if 'En' in nav_item.title and '/en/' in page.canonical_url %}
+                    {% for nav_item in nav_item.children %}
+                        <li class="{% if nav_item.active%}current{%endif%}">
+                            <a href="{{ base_url}}/{{ nav_item.url }}">{{ nav_item.title }}</a>
+                            {% if nav_item.active %}
+                            <ul id="current">
+                                {% for toc_item in page.toc %}
+                                        <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+                                        {% for toc_item in toc_item.children %}
+                                            <li class="second-level"><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+                                            {% for toc_item in toc_item.children %}
+                                                <li class="third-level"><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+                                            {% endfor %}
+                                        {% endfor %}
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                        </li>
+                    {% endfor %}
+                {% elif 'Fr' in nav_item.title and '/fr/' in page.canonical_url %}
+                    {% for nav_item in nav_item.children %}
+                        <li class="{% if nav_item.active%}current{%endif%}">
+                            <a href="{{ base_url}}/{{ nav_item.url }}">{{ nav_item.title }}</a>
+                            {% if nav_item.active %}
+                            <ul>
+                                {% for toc_item in page.toc %}
+                                        <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+                                        {% for toc_item in toc_item.children %}
+                                            <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+                                        {% endfor %}
+                                {% endfor %}
+                            </ul>
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                {% endif %}
+                </li>
+            {% endfor %}
+            </ul>
+        {% endif %}
+        </div>
+    <div class="col-md-9">
+        <h1>{{ page.title }}</h1>
+        {{ page.content }}
+    </div>
+    </div>
+
+    <div class="frdr-jumbo-footer">
+      <div class="container">
+        <div class="col-md-2"></div>
+        <div class="col-md-8" style="text-align:center">
+        <a href="{% if '/en/' in page.canonical_url %}https://portagenetwork.ca/{% else %}https://portagenetwork.ca/fr/{% endif %}" target="_blank"><img alt="Portage" src="/repo/image/portage_logo.png"></a>
+        <a href="{% if '/en/' in page.canonical_url %}http://www.carl-abrc.ca/{% else %}http://www.carl-abrc.ca/fr/{% endif %}" target="_blank"><img alt="Canadian Association of Research Libraries" src="/repo/image/logo_carl_enfr.png"></a>
+        <a href="{% if '/en/' in page.canonical_url %}http://www.computecanada.ca/{% else %}https://www.computecanada.ca/?lang=fr{% endif %}" target="_blank"><img alt="Compute Canada" src="/repo/image/logo_cc_enfr.png"></a>
+        <a href="http://www.globus.org/" target="_blank"><img alt="Globus" src="/repo/image/globus_logo.png" width="140px"></a>
+        </div>
+        <div class="col-md-2"></div>
+      </div>
+      <div class="container">
+        <div class="col-md-12">
+        <footer>
+          <br>
+          {% if '/en/' in page.canonical_url %}
+          &copy; 2017 - 2021 Canadian Association of Research Libraries and Compute Canada<br/>
+          Compute Canada and CARL respect the privacy of individuals and will only collect, use, and disclose Personal Information in keeping with information access and privacy law.<br/>
+          <a href="{{ config.site_url }}en/privacy_policy/">Privacy Policy</a>
+          {% else %}
+          &copy; 2017 - 2021 Association des bibliothèques de recherche du Canada & Calcul Canada<br/>
+          Calcul Canada et ABRC respectent la vie privée des personnes et ne collecteront, utiliseront et ne divulgueront les renseignements personnels que dans le respect des lois sur l'accès à l'information et la protection de la vie privée.<br/>
+          <a href="{{ config.site_url }}fr/politique_de_confidentialité/">Politique de confidentialité</a>
+          {% endif %}
+        </footer>
+        </div>
+      </div>
+    </div>
+
+    </body>
+<script>
+  // Show all demo tagged divs if we are in demo environment
+  if (window.location.href.indexOf("demo") != -1) {
+    var demodivs = document.getElementsByClassName("demo-text");
+    for (i = 0; i < demodivs.length; i++) {
+      demodivs[i].style.display = "inline";
+    }
+  }
+</script>
+ <!-- Google Analytics -->
+ <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','_gaTracker');
+    window.ga_debug= {trace: true};
+ </script>
+ <script>
+    _gaTracker('create', googleanalytics_tracking_id, {'cookieDomain': googleanalytics_cookie_domain });
+    _gaTracker('send', 'pageview');    
+ </script>
+ <script>
+    $(document).ready(function() {
+        // Always show a way for the user to close the lightbox.
+        $(".screenshot-lightbox").click(function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox({
+                alwaysShowClose: true
+            });
+        });
+    });
+ </script>
+</html>
