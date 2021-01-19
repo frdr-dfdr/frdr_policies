@@ -16,8 +16,8 @@ extra_css:
 extra:
     repo_url: https://www.frdr-dfdr.ca/repo/
     prefix: "/"
-    default_page_en: en/about/
-    default_page_fr: fr/a_propos/
+    default_page_en: en/terms_of_use/
+    default_page_fr: fr/conditions_d'utilisation/
     language_map:
         en:
             "Terms of Use": fr/conditions_d'utilisation.md
