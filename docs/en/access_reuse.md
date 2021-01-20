@@ -1,4 +1,3 @@
-# Access and Reuse Policy
 
 ## 1.0 Scope & Purpose
 
