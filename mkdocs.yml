@@ -16,11 +16,11 @@ nav:
     - French:
         - "Conditions d'utilisation": fr/conditions_d'utilisation.md
         - "Confidentialité": fr/confidentialité.md
-        - "Accès et réutilisation": fr/accès_réutilisation.md
-        - "Création de collections": fr/création_collections.md
-        - "Rétention et de suppression des données": fr/rétention_des_données.md
-        - "Soumission de données": fr/soumission_données.md
-        - "Moissonnage de métadonnées": fr/moissonnage_métadonnées.md
+        - "Politique en matière d’accès et de réutilisation": fr/accès_réutilisation.md
+        - "Politique en matière de création de collections": fr/création_collections.md
+        - "Politique en matière de rétention et de suppression des données": fr/rétention_des_données.md
+        - "Politique en matière de soumission de données": fr/soumission_données.md
+        - "Politique en matière de moissonnage de métadonnées": fr/moissonnage_métadonnées.md
         - "Glossaire terminologique": fr/glossaire.md
 
 extra_css:
@@ -43,9 +43,9 @@ extra:
         fr:
             "Conditions d'utilisation": en/terms_of_use.md
             "Confidentialité": en/privacy.md
-            "Accès et réutilisation": en/access_reuse.md
-            "Création de collections": en/collections_development.md
-            "Rétention et de suppression des données": en/data_retention.md
-            "Soumission de données": en/data_submission.md
-            "Moissonnage de métadonnées": en/metadata_harvesting.md
+            "Politique en matière d’accès et de réutilisation": en/access_reuse.md
+            "Politique en matière de création de collections": en/collections_development.md
+            "Politique en matière de rétention et de suppression des données": en/data_retention.md
+            "Politique en matière de soumission de données": en/data_submission.md
+            "Politique en matière de moissonnage de métadonnées": en/metadata_harvesting.md
             "Glossaire terminologique": en/glossary.md
