@@ -1,7 +1,7 @@
 
 ## 1.0	Scope & Purpose
 
-This policy governs submissions to the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, and the services available on or at the Site (taken together, the Service), including eligibility of deposit, roles and responsibilities, and rights and ownership of Content submitted to the Service. This policy should be consulted in accordance with the Terms of Use, Privacy Policy, the Glossary of Terms, and any other relevant policies.
+This policy governs submissions to the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, and the services available on or at the Site (taken together, the Service), including eligibility of deposit, roles and responsibilities, and rights and ownership of Content submitted to the Service. This policy should be consulted in accordance with the [Terms of Use](/policies/en/terms_of_use/), [Privacy Policy](/policies/en/privacy/), the [Glossary of Terms](/policies/en/glossary/), and any other relevant policies.
 
 ## 2.0 Eligible Submitters
 
@@ -9,7 +9,7 @@ The Service accepts Content from Principal Investigators (PIs), or their sponsor
 
 ## 3.0 Moderation of Data
 
-All Content must adhere to the Collections Development policy and will be subject to review by a Curator who will check the submission for completeness and accuracy as such that it can reasonably be reused by an informed third party. Disagreements between Submitters and Curators in the curation process will be mediated by the Portage Service Manager.
+All Content must adhere to the [Collections Development policy](/policies/en/collections_development/) and will be subject to review by a Curator who will check the submission for completeness and accuracy as such that it can reasonably be reused by an informed third party. Disagreements between Submitters and Curators in the curation process will be mediated by the Portage Service Manager.
 
 Curators will assess Content using the following criteria as a guide:
 
@@ -26,7 +26,7 @@ The Submitter is responsible for reviewing the Terms of Use and any other releva
 
 Curators are responsible for taking reasonable steps to review and approve Content such that it adheres to the Collections Development Policy, and the data quality standards described above. Curators will take reasonable steps to identify Personal Information contained in Content; however, Curators are not responsible for ensuring that the Submission is free from Personal Information. Submitters are solely responsible for ensuring that Content is suitable for open dissemination, and that it complies with these Terms of Use, the FRDR Collections Development Policy, research ethics approvals, and applicable laws.
 
-The Service is responsible for ensuring the successful ingest, secure storage, indexing for search and discovery, and accessibility for download of Content. The Service is not responsible for omissions, mistakes in the data, or legal infringements (i.e., applicable privacy or copyright laws). Upon receipt of notification that Content infringes on copyright or privacy laws or any other applicable legislation, the Service will review and, as appropriate, remove the Content but retain the metadata landing page with an explanation for why the Content is no longer available. (see Data Retention and Deaccession Policy)
+The Service is responsible for ensuring the successful ingest, secure storage, indexing for search and discovery, and accessibility for download of Content. The Service is not responsible for omissions, mistakes in the data, or legal infringements (i.e., applicable privacy or copyright laws). Upon receipt of notification that Content infringes on copyright or privacy laws or any other applicable legislation, the Service will review and, as appropriate, remove the Content but retain the metadata landing page with an explanation for why the Content is no longer available. (see [Data Retention and Deaccession Policy](/policies/en/data_retention/))
 
 ## 5.0 Embargo
 
@@ -41,8 +41,7 @@ Submitters will receive a notification via email one month before the embargo is
 
 ## 6.0 Rights and Ownership
 
-Submitters and their licensors retain all ownership rights to their Content. By submitting Content to the Service, Submitters will be asked to consent to the Terms of Use which grants FRDR a worldwide, non-exclusive, royalty-free and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Content in connection with the Service. This includes, but is not limited to, the creation of copies, back-ups, and alteration of the data for the purposes of preservation. The Submitter further authorizes the Service Host to migrate the
-Content to any medium or format for the purpose of preservation.
+Submitters and their licensors retain all ownership rights to their Content. By submitting Content to the Service, Submitters will be asked to consent to the Terms of Use which grants FRDR a worldwide, non-exclusive, royalty-free and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Content in connection with the Service. This includes, but is not limited to, the creation of copies, back-ups, and alteration of the data for the purposes of preservation. The Submitter further authorizes the Service Host to migrate the Content to any medium or format for the purpose of preservation.
 
 ## 7.0 Implementation and Revision
 
