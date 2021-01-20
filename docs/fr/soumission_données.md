@@ -1,7 +1,7 @@
 
 ## 1.0	Champ d’application et objectif 
 
-La présente politique régit les soumissions au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, et les services disponibles sur le site ou à partir de celui-ci (collectivement, le service), y compris la recevabilité du dépôt, les rôles et responsabilités ainsi que les droits et la propriété par rapport au contenu soumis au service. La présente politique devrait être consultée parallèlement aux conditions d’utilisation, à la politique de confidentialité, au glossaire terminologique et à toute autre politique pertinente.
+La présente politique régit les soumissions au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, et les services disponibles sur le site ou à partir de celui-ci (collectivement, le service), y compris la recevabilité du dépôt, les rôles et responsabilités ainsi que les droits et la propriété par rapport au contenu soumis au service. La présente politique devrait être consultée parallèlement aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), [à la politique de confidentialité](/policies/fr/confidentialité/), au [glossaire terminologique](/policies/fr/glossaire/) et à toute autre politique pertinente.
 
 ## 2.0	Déposants admissibles
 
@@ -9,7 +9,7 @@ Le service accepte le contenu des chercheurs principaux, ou de leurs représenta
 
 ## 3.0	Modération de données
 
-Tous les contenus doivent être conformes à la politique en matière de création de collections et seront soumis à l’examen de curateurs qui en vérifieront l’exhaustivité et l’exactitude afin que ces contenus puissent être raisonnablement réutilisés par des intervenants externes informés. Les désaccords entre les déposants et les curateurs au cours du processus de curation feront l’objet d’une médiation par le directeur du service de Portage.
+Tous les contenus doivent être conformes à la [politique en matière de création de collections](/policies/fr/création_collections/) et seront soumis à l’examen de curateurs qui en vérifieront l’exhaustivité et l’exactitude afin que ces contenus puissent être raisonnablement réutilisés par des intervenants externes informés. Les désaccords entre les déposants et les curateurs au cours du processus de curation feront l’objet d’une médiation par le directeur du service de Portage.
 
 Les curateurs auront recours aux critères suivants pour les guider dans leur évaluation:
 
@@ -26,7 +26,7 @@ Le déposant a la responsabilité de revoir les conditions d’utilisation et to
 
 Les curateurs ont la responsabilité de prendre des mesures raisonnables pour examiner et approuver le contenu afin qu’il soit conforme à la politique en matière de création de collections et aux normes de qualité des données décrites précédemment. Les curateurs prendront des mesures raisonnables pour recenser les informations personnelles dans le contenu ; toutefois, les curateurs ne sont pas tenus de s’assurer que la soumission est exempte d’informations personnelles. Les déposants sont exclusivement responsables de s’assurer que le contenu est adapté à une diffusion ouverte et qu’il est conforme aux présentes conditions d’utilisation, à la politique en matière de création de collections du DFDR, aux approbations déontologiques de la recherche et aux lois applicables.
 
-Le service a la responsabilité d’assurer de l’ajout, du stockage sécurisé, de l’indexation pour la recherche et la découverte et de l’accessibilité pour le téléchargement du contenu. Le service n’est pas responsable des omissions, des erreurs dans les données ou des infractions légales (c’est-à-dire les infractions aux lois applicables en matière de confidentialité ou de droits d’auteur). Dès la réception d’un avis indiquant que le contenu enfreint des lois sur le droit d’auteur ou la protection de la confidentialité ou autres lois applicables, le service examinera l’affaire et, le cas échéant, supprimera le contenu en question, mais conservera la page de renvoi des métadonnées avec une explication des raisons pour lesquelles le contenu n’est plus disponible (voir la politique en matière de conservation et de suppression des données).
+Le service a la responsabilité d’assurer de l’ajout, du stockage sécurisé, de l’indexation pour la recherche et la découverte et de l’accessibilité pour le téléchargement du contenu. Le service n’est pas responsable des omissions, des erreurs dans les données ou des infractions légales (c’est-à-dire les infractions aux lois applicables en matière de confidentialité ou de droits d’auteur). Dès la réception d’un avis indiquant que le contenu enfreint des lois sur le droit d’auteur ou la protection de la confidentialité ou autres lois applicables, le service examinera l’affaire et, le cas échéant, supprimera le contenu en question, mais conservera la page de renvoi des métadonnées avec une explication des raisons pour lesquelles le contenu n’est plus disponible (voir la [politique en matière de conservation et de suppression des données](/policies/fr/rétention_des_données/)).
 
 ## 5.0 Embargo
 
