@@ -3,7 +3,7 @@
 
 La présente politique couvre l’accès et la réutilisation du contenu soumis au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, et les services disponibles sur le site ou à partir de celui-ci (collectivement, le service), y compris l’octroi de licences, la citation et l’attribution, ainsi que les mesures et la protection de confidentialité. L’accès et la réutilisation du contenu provenant des fichiers de métadonnées de dépôts indépendants pouvant être découverts en effectuant une recherche sur le site sont régis par les conditions de licence du contenu du dépôt original. Consultez la Politique en matière de moissonnage de métadonnées pour des précisions sur les protocoles de moissonnage de métadonnées du service et les activités associées à la recherche et à la découverte de dépôts de données indépendants.
 
-La présente politique devrait être consultée parallèlement aux conditions d’utilisation, à la politique de confidentialité, au glossaire terminologique et à toute autre politique pertinente.
+La présente politique devrait être consultée parallèlement aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), [à la politique de confidentialité](/policies/fr/confidentialité/), au [glossaire terminologique](/policies/fr/glossaire/) et à toute autre politique pertinente.
 
 ## 2.0 Octroi de licence
 
@@ -11,9 +11,7 @@ Le service utilise le schéma Creative Commons pour articuler clairement la lice
 
 Les licences Creative Commons [CC0](https://wiki.creativecommons.org/wiki/CC0_FAQ) ou [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.fr) sont recommandées pour le contenu soumis au Service. D’autres licences Creative Commons ou d’autres conditions de licence peuvent également être envisagées à la discrétion d’un curateur.
 
-En vertu de la Politique en matière de soumission de données, des embargos peuvent être appliqués au contenu. La licence choisie s’appliquera aux données uniquement au moment de leur diffusion publique.
-
-Les utilisateurs du service ont la responsabilité de s’assurer que leur utilisation du contenu est conforme à la licence indiquée.
+En vertu de la [Politique en matière de soumission de données](/policies/fr/soumission_données/), des embargos peuvent être appliqués au contenu. La licence choisie s’appliquera aux données uniquement au moment de leur diffusion publique. Les utilisateurs du service ont la responsabilité de s’assurer que leur utilisation du contenu est conforme à la licence indiquée.
 
 ## 3.0 Accès
 
@@ -35,7 +33,7 @@ Les citations de contenu doivent inclure au minimum le créateur du contenu, le 
 
 Les mesures d’utilisation et d’accès sur le plan de l’objet et au dépôt collectées par le service pour le contenu mises à disposition au public seront redues disponibles sous une forme dépersonnalisée et agrégée.
 
-Des informations sur les utilisateurs et les déposants du service peuvent être collectées. Consultez la Politique de confidentialité pour des précisions. Le DFDR n’utilisera pas ces informations personnelles à d’autres fins que celles décrites dans la Politique de confidentialité.
+Des informations sur les utilisateurs et les déposants du service peuvent être collectées. Consultez la [Politique de confidentialité](/policies/fr/accès_réutilisation/) pour des précisions. Le DFDR n’utilisera pas ces informations personnelles à d’autres fins que celles décrites dans la Politique de confidentialité.
 
 ## 7.0 Application et révision
 
