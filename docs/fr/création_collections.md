@@ -1,13 +1,13 @@
 
 ## 1.0 Champ d’application et objectif
 
-La présente politique décrit la création de collections pour le site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/repo/?locale=fr">https://www.frdr-dfdr.ca/</a>, et pour les services disponibles sur le site ou à partir de celui-ci (collectivement, le service), y compris une définition du contenu acceptable, des exigences en matière de formatage et de langage et des contenus sensibles. La présente politique devrait être consultée parallèlement aux conditions d’utilisation, à la politique de confidentialité, au glossaire terminologique et à toute autre politique pertinente.
+La présente politique décrit la création de collections pour le site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/repo/?locale=fr">https://www.frdr-dfdr.ca/</a>, et pour les services disponibles sur le site ou à partir de celui-ci (collectivement, le service), y compris une définition du contenu acceptable, des exigences en matière de formatage et de langage et des contenus sensibles. La présente politique devrait être consultée parallèlement aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), [à la politique de confidentialité](/policies/fr/confidentialité/), au [glossaire terminologique](/policies/fr/glossaire/) et à toute autre politique pertinente.
 
 ## 2.0 Contenu acceptable
 
 Le service accepte le dépôt de collections de données de recherche ou d’ensembles de données. Les données de recherche sont des données qui sont utilisées comme sources primaires pour soutenir l’activité scientifique ou valider les résultats de la recherche. Un ensemble de données est une collection autonome de données avec sa documentation (désigné ci-après comme « contenu ») qui peut être comprise et utilisée sans référence à d’autres contenus et peut provenir de tous les domaines ou sujets. 
 
-Le contenu ne peut être soumis au service que par des « déposants admissibles » conformément à la politique en matière de soumission. Les déposants doivent avoir les droits de propriété intellectuelle sur le contenu et être légalement en mesure de le partager et d’accepter les conditions de soumission définies dans la politique en matière de soumission et les conditions d’utilisation. 
+Le contenu ne peut être soumis au service que par des « déposants admissibles » conformément à la politique en matière de soumission. Les déposants doivent avoir les droits de propriété intellectuelle sur le contenu et être légalement en mesure de le partager et d’accepter les conditions de soumission définies dans la [politique en matière de soumission](/policies/fr/soumission_données/) et les [conditions d’utilisation](/policies/fr/conditions_d'utilisation/). 
 
 Le contenu doit être soumis dans un état publiable. On s’attend à ce que le contenu soit tiré de projets achevés ou d’une phase achevée d’un projet en cours qui présente un intérêt indépendant.
 
