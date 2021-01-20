@@ -1,13 +1,13 @@
 
 ## 1.0 Scope & Purpose
 
-This policy outlines Collections Development for the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, and the services available on or at the Site (taken together, the Service), including a definition of acceptable Content and requirements around formatting and language and Content with sensitivities. This policy should be consulted in accordance with the Terms of Use, Privacy Policy, the Glossary of Terms, and any other relevant policies.
+This policy outlines Collections Development for the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, and the services available on or at the Site (taken together, the Service), including a definition of acceptable Content and requirements around formatting and language and Content with sensitivities. This policy should be consulted in accordance with the [Terms of Use](/policies/en/terms_of_use/), [Privacy Policy](/policies/en/privacy/), the [Glossary of Terms](/policies/en/glossary/), and any other relevant policies.
 
 ## 2.0 Acceptable Content
 
 The Service accepts for deposit collections of research data or datasets. Research data are data that are used as primary sources to support scholarly activity or validate research findings. A dataset is a self-contained collection of data together with its documentation (hereafter: “Content”) that can be understood and utilized without reference to other materials, and may come from any and all domains or subject areas. 
 
-Content may only be submitted to the Service by “Eligible Submitters” as defined by the Submission Policy. Submitters must have intellectual property rights to the Content and are legally able to share it and agree to submission terms defined in the Submission Policy and the Terms of Use. 
+Content may only be submitted to the Service by “Eligible Submitters” as defined by the Submission Policy. Submitters must have intellectual property rights to the Content and are legally able to share it and agree to submission terms defined in the [Data Submission Policy](/policies/en/data_submission/) and the [Terms of Use](/policies/en/terms_of_use/). 
 
 Content must be submitted in a publishable state. It is expected that Content will be drawn from completed projects, or from a completed phase of an ongoing project that is of independent interest.
 
