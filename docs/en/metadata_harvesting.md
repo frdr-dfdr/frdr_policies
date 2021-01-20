@@ -1,7 +1,7 @@
 
 ## 1.0	Scope & Purpose
 
-This policy governs the metadata harvesting protocols and activities associated with the search and discovery of third-party data repositories for the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, and the services available on or at the Site (taken together, the Service). This policy should be consulted in accordance with the Terms of Use, Privacy Policy, the Glossary of Terms, and any other relevant policies.
+This policy governs the metadata harvesting protocols and activities associated with the search and discovery of third-party data repositories for the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, and the services available on or at the Site (taken together, the Service). This policy should be consulted in accordance with the [Terms of Use](/policies/en/terms_of_use/), [Privacy Policy](/policies/en/privacy/), the [Glossary of Terms](/policies/en/glossary/), and any other relevant policies.
 
 ## 2.0	Background
 
