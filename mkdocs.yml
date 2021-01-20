@@ -6,12 +6,12 @@ theme:
 nav:
     - English:
         - "Terms of Use": en/terms_of_use.md
-        - "Privacy": en/privacy.md
-        - "Access and Reuse": en/access_reuse.md
-        - "Collections Development": en/collections_development.md
-        - "Data Retention and Deaccession": en/data_retention.md
-        - "Data Submission": en/data_submission.md
-        - "Metadata Harvesting": en/metadata_harvesting.md
+        - "Privacy Policy": en/privacy.md
+        - "Access and Reuse Policy": en/access_reuse.md
+        - "Collections Development Policy": en/collections_development.md
+        - "Data Retention and Deaccession Policy": en/data_retention.md
+        - "Data Submission Policy": en/data_submission.md
+        - "Metadata Harvesting Policy": en/metadata_harvesting.md
         - "Glossary of Terms": en/glossary.md
     - French:
         - "Conditions d'utilisation": fr/conditions_d'utilisation.md
@@ -33,12 +33,12 @@ extra:
     language_map:
         en:
             "Terms of Use": fr/conditions_d'utilisation.md
-            "Privacy": fr/confidentialité.md
-            "Access and Reuse": fr/accès_réutilisation.md
-            "Collections Development": fr/création_collections.md
-            "Data Retention and Deaccession": fr/rétention_des_données.md
-            "Data Submission": fr/soumission_données.md
-            "Metadata Harvesting": fr/moissonnage_métadonnées.md
+            "Privacy Policy": fr/confidentialité.md
+            "Access and Reuse Policy": fr/accès_réutilisation.md
+            "Collections Development Policy": fr/création_collections.md
+            "Data Retention and Deaccession Policy": fr/rétention_des_données.md
+            "Data Submission Policy": fr/soumission_données.md
+            "Metadata Harvesting Policy": fr/moissonnage_métadonnées.md
             "Glossary of Terms": fr/glossaire.md
         fr:
             "Conditions d'utilisation": en/terms_of_use.md
