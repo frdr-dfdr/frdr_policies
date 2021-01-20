@@ -1,7 +1,8 @@
 
 ## 1.0	Champ d’application et objectif
 
-La présente politique régit les protocoles et les activités de moissonnage de métadonnées associés à la recherche et à la découverte de dépôts de données indépendants pour le site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, et les services disponibles sur le site ou à partir de celui-ci (collectivement, le service). La présente politique devrait être consultée parallèlement aux conditions d’utilisation, à la politique de confidentialité, au glossaire terminologique et à toute autre politique pertinente.
+La présente politique régit les protocoles et les activités de moissonnage de métadonnées associés à la recherche et à la découverte de dépôts de données indépendants pour le site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, et les services disponibles sur le site ou à partir de celui-ci (collectivement, le service). La présente politique devrait être consultée parallèlement aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), [à la politique de confidentialité](/policies/fr/confidentialité/), au [glossaire terminologique](/policies/fr/glossaire/)
+ et à toute autre politique pertinente.
 
 ## 2.0	Contexte
 
