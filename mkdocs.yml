@@ -15,7 +15,7 @@ nav:
         - "Glossary of Terms": en/glossary.md
     - French:
         - "Conditions d'utilisation": fr/conditions_d'utilisation.md
-        - "Confidentialité": fr/confidentialité.md
+        - "Politique de confidentialité": fr/confidentialité.md
         - "Politique en matière d’accès et de réutilisation": fr/accès_réutilisation.md
         - "Politique en matière de création de collections": fr/création_collections.md
         - "Politique en matière de rétention et de suppression des données": fr/rétention_des_données.md
@@ -42,7 +42,7 @@ extra:
             "Glossary of Terms": fr/glossaire.md
         fr:
             "Conditions d'utilisation": en/terms_of_use.md
-            "Confidentialité": en/privacy.md
+            "Politique de confidentialité": en/privacy.md
             "Politique en matière d’accès et de réutilisation": en/access_reuse.md
             "Politique en matière de création de collections": en/collections_development.md
             "Politique en matière de rétention et de suppression des données": en/data_retention.md
