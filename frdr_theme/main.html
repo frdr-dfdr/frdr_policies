@@ -217,6 +217,10 @@
             $(".frdr-sidebar").hide();
         }
 
+        if (window.location.href.includes("hidefooter")) {
+            $(".frdr-jumbo-footer").hide();
+        }
+
         // Always show a way for the user to close the lightbox.
         $(".screenshot-lightbox").click(function(event) {
             event.preventDefault();
