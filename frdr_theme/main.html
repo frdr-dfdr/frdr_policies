@@ -204,6 +204,19 @@
  </script>
  <script>
     $(document).ready(function() {
+        console.log("Window: " + window.location.href);
+        if (window.location.href.includes("hidenav")) {
+            $("nav").hide();
+            $("#content" ).each(function () {
+                this.style.setProperty( 'padding-top', '0px', 'important' );
+                this.style.setProperty( 'margin-top', '0px', 'important' );
+            });
+        }
+
+        if (window.location.href.includes("hidesidebar")) {
+            $(".frdr-sidebar").hide();
+        }
+
         // Always show a way for the user to close the lightbox.
         $(".screenshot-lightbox").click(function(event) {
             event.preventDefault();
