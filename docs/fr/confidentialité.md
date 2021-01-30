@@ -1,4 +1,4 @@
-La Politique de confidentialité suivante s’applique au site Web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/repo/?locale=fr), et aux services offerts dans le site. Le service est offert par l’Association des bibliothèques de recherche du Canada (ABRC) (ci-après l’hébergeur du service">https://www.frdr-dfdr.ca/repo/?locale=fr</a>.
+La Politique de confidentialité suivante s’applique au site Web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/repo/?locale=fr">https://www.frdr-dfdr.ca/repo/?locale=fr</a>, et aux services offerts dans le site. Le service est offert par l’Association des bibliothèques de recherche du Canada (ABRC) (ci-après l’hébergeur du service).
 
 ## Énoncé de confidentialité
 
