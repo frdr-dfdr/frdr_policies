@@ -38,11 +38,11 @@
                     <a href="." class="dropdown-toggle" data-toggle="dropdown">{% if '/en/' in page.canonical_url %}EN{% else %}FR{% endif %}
                     <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-			{% if '/en/' in page.canonical_url %}
-                        <li><a href="/policies/fr/">Français</a></li>
-			{% else %}
-                        <li><a href="/policies/en/">English</a></li>
-			{% endif %}
+                        {% if '/en/' in page.canonical_url %}
+                        <li><a href="/docs/fr/a_propos/">Français</a></li>
+                        {% else %}
+                        <li><a href="/docs/en/about/">English</a></li>
+                        {% endif %}
                     </ul>
                 </ul>
 
@@ -60,16 +60,14 @@
                     <ul class="dropdown-menu" role="menu">
                       {% if '/en/' in page.canonical_url %}
                       <li role="menuitem"><a href="/docs/en/before_depositing/">Get An Account</a></li>
-                      <li role="menuitem"><a href="/docs/en/">Documentation</a></li>
+                      <li role="menuitem"><a href="/docs/en/preparing_your_data/">Documentation</a></li>
                       <li role="menuitem"><a href="/policies/en/">Policies</a></li>
                       <li role="menuitem"><a href="https://www.youtube.com/watch?v=U4Qaia4KZAU&list=PLX9EpizS4A0suoSV2N0nn9parl96xHPkz" target="_blank" rel="noopener">Video Tutorials</a></li>
-                      <li role="menuitem"><a href="/docs/en/contact_support/">Contact Us</a></li>
                       {% else %}
                       <li role="menuitem"><a href="/docs/fr/avant_de_déposer/">Obtenez un compte</a></li>
-                      <li role="menuitem"><a href="/docs/fr/">Documentation</a></li>
+                      <li role="menuitem"><a href="/docs/fr/préparation_de_vos_données/">Documentation</a></li>
                       <li role="menuitem"><a href="/policies/fr/">Politiques</a></li>
                       <li role="menuitem"><a href="https://www.youtube.com/watch?v=U4Qaia4KZAU&list=PLX9EpizS4A0suoSV2N0nn9parl96xHPkz" target="_blank" rel="noopener">Tutoriels vidéos</a></li>
-                      <li role="menuitem"><a href="/docs/fr/contactez_nous/">Contactez nous</a></li>
                       {% endif %}
                     </ul>
                   </li>
@@ -93,15 +91,15 @@
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                    <a href="{% if '/en/' in page.canonical_url %}/repo/contactus{% else %}/repo/contactus?locale=fr{% endif %}">{% if '/en/' in page.canonical_url %}Contact Us{% else %}Contactez Nous{% endif %}</a>
+                        <a href="{% if '/en/' in page.canonical_url %}/repo/contactus{% else %}/repo/contactus?locale=fr{% endif %}">{% if '/en/' in page.canonical_url %}Contact Us{% else %}Contactez-nous{% endif %}</a>
                     </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
         </nav>
     <div class="container row">
+        {% if nav|length>1 and not page.meta.hidesidebar %}
         <div class="col-md-3 frdr-sidebar">
-        {% if nav|length>1 %}
             <ul>
             {% for nav_item in nav %}
                 {% if 'En' in nav_item.title and '/en/' in page.canonical_url %}
@@ -143,8 +141,10 @@
                 </li>
             {% endfor %}
             </ul>
-        {% endif %}
         </div>
+        {% else %}
+        <div class="col-md-3"></div>
+        {% endif %}
     <div class="col-md-9">
         <h1>{{ page.title }}</h1>
         {{ page.content }}
@@ -169,11 +169,11 @@
           {% if '/en/' in page.canonical_url %}
           &copy; 2017 - 2021 Canadian Association of Research Libraries and Compute Canada<br/>
           Compute Canada and CARL respect the privacy of individuals and will only collect, use, and disclose Personal Information in keeping with information access and privacy law.<br/>
-          <a href="{{ config.site_url }}en/privacy/">Privacy Policy</a>
+          <a href="/policies/en/privacy/">Privacy Policy</a>
           {% else %}
           &copy; 2017 - 2021 Association des bibliothèques de recherche du Canada & Calcul Canada<br/>
           Calcul Canada et ABRC respectent la vie privée des personnes et ne collecteront, utiliseront et ne divulgueront les renseignements personnels que dans le respect des lois sur l'accès à l'information et la protection de la vie privée.<br/>
-          <a href="{{ config.site_url }}fr/confidentialité/">Politique de confidentialité</a>
+          <a href="/policies/fr/confidentialité/">Politique de confidentialité</a>
           {% endif %}
         </footer>
         </div>
@@ -190,21 +190,8 @@
     }
   }
 </script>
- <!-- Google Analytics -->
- <script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','_gaTracker');
-    window.ga_debug= {trace: true};
- </script>
- <script>
-    _gaTracker('create', googleanalytics_tracking_id, {'cookieDomain': googleanalytics_cookie_domain });
-    _gaTracker('send', 'pageview');    
- </script>
- <script>
+<script>
     $(document).ready(function() {
-        console.log("Window: " + window.location.href);
         if (window.location.href.includes("hidenav")) {
             $("nav").hide();
             $("#content" ).each(function () {
@@ -229,5 +216,5 @@
             });
         });
     });
- </script>
+</script>
 </html>
