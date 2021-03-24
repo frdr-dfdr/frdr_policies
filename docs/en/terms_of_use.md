@@ -79,9 +79,7 @@ All Submitters agree to the following:
 
 * <section id="embargo">Public Content is both openly accessible and discoverable through search. Submitters may request that public Content be embargoed for a period that will not exceed one year, unless otherwise approved by the Service Manager. Submitters must provide adequate reasoning for any embargo request, for example, if making Content publicly accessible would jeopardise a forthcoming publication. Embargo requests must have an explicit termination date. Embargo requests of one year or shorter will be granted at the discretion of a Curator. After the embargo period, the Content will become publicly accessible, unless otherwise mandated by data protection and privacy law.</section>
 
-* Content containing Personal Information should not be submitted to the Service unless the Submitter first provides the Service Host with evidence that the
-
-Submitter has the authority or consent to disclose that Personal Information to the Service Host and to the public via the Service.
+* Content containing Personal Information should not be submitted to the Service unless the Submitter first provides the Service Host with evidence that the Submitter has the authority or consent to disclose that Personal Information to the Service Host and to the public via the Service.
 
 * Under the current service offering, Sensitive Content that cannot be made publicly accessible should not be submitted to the Service unless the Submitter first provides the Service Host with evidence that the Submitter has the authority or consent to disclose that Content to the public via the Service.
 
