@@ -50,4 +50,4 @@ Les déposants et leurs concesseurs conservent tous les droits de propriété su
 
 La présente politique entre en vigueur à la date de son adoption. Elle sera révisée par le comité de pilotage du DFDR tous les deux ans ou de manière ponctuelle au besoin.
 
-Dernière révision : 2020-12-11
+Dernière révision : 2021-03-02
