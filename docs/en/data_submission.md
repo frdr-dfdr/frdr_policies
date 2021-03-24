@@ -5,11 +5,13 @@ This policy governs submissions to the Federated Research Data Repository (FRDR)
 
 ## 2.0 Eligible Submitters
 
-The Service accepts Content from Principal Investigators (PIs), or their sponsored designates, from any and all domains or subject areas. PIs must be a faculty member or a librarian at an eligible Canadian institution. Eligible Canadian institutions are those [eligible to apply for Tri-Agency funding](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/Eligibility-Admissibilite/ListEligibleInstitutions-ListEtablissementsAdmissible_eng.asp). PIs can sponsor designates, for example, external collaborators, graduate students, non-research staff, postdoctoral fellows, research assistants, researchers, undergraduate students, and visiting faculty, to submit Content on their behalf. Requests for deposit from other types of “Canadian researchers” (e.g., government or NGOs) who are not sponsored by a PI will be considered on a case-by-case basis.
+The Service accepts Content from Principal Investigators (PIs), or their sponsored designates, from any and all domains or subject areas. PIs must be a faculty member, librarian, or community-based researcher at an eligible Canadian institution or organization. Eligible Canadian institutions or organizations are those eligible to apply for Tri-Agency funding, including Indigenous Not-for-Profit organizations eligible for SSHRC funding and other Indigenous organizations which may be eligible for provisional or restricted SSHRC institutional eligibility (see [NSERC-eligible](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/Eligibility-Admissibilite/ListEligibleInstitutions-ListEtablissementsAdmissible_eng.asp), [CIHR-eligible](https://cihr-irsc.gc.ca/e/36374.html), and [SSHRC-eligible](https://www.sshrc-crsh.gc.ca/about-au_sujet/policies-politiques/statements-enonces/list_eligible_institutions-liste_etablissements-admissibles-eng.aspx) institutions and organizations). Indigenous groups, including Nations, communities, and organizations, are encouraged to contact the Service to confirm their eligibility to Submit Content. 
+
+PIs can sponsor designates, for example, graduate students, postdoctoral fellows, external collaborators, and research support staff to submit Content to the Service. Requests for deposit from Canadian Federal or Provincial departments or agencies  will be considered on a case-by-case basis.
 
 ## 3.0 Moderation of Data
 
-All Content must adhere to the [Collections Development policy](/policies/en/collections_development/) and will be subject to review by a Curator who will check the submission for completeness and accuracy as such that it can reasonably be reused by an informed third party. Disagreements between Submitters and Curators in the curation process will be mediated by the Portage Service Manager.
+All Content must adhere to the [Collections Development policy](/policies/en/collections_development/) and will be subject to curatorial review to check the submission for completeness and accuracy to ensure that it can be reasonably reused by an informed third party. Disagreements between Submitters and Curators in the curation process will be mediated by the Portage Service Manager.
 
 Curators will assess Content using the following criteria as a guide:
 
@@ -19,6 +21,7 @@ Curators will assess Content using the following criteria as a guide:
 * Linking research data documentation to author PIDs (e.g., ORCIDs) and, where relevant, grant information;
 * Linking research data documentation to other research products, e.g., data management plan, data paper, journal article;
 * Technical review, e.g., analysis of scripts and codes, ensuring that descriptions of any data cleaning, de-identification, or quality assurance processes are documented and included in the submission;
+
 
 ## 4.0 Responsibilities
 
@@ -47,4 +50,4 @@ Submitters and their licensors retain all ownership rights to their Content. By 
 
 This Policy enters into force on the date of its adoption. It will be reviewed by the FRDR Steering Committee every two years or at any time, as required.
 
-Last Revised: 2020-12-11
+Last Revised: 2021-03-02
