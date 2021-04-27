@@ -17,7 +17,7 @@ If you are not of the age of majority in your place of residence, do not agree w
 
 **Service**: The services available on or at the Site offered by the Service Host.
 
-**Service Host**: The legal entity responsible for offering the Service, being the Canadian Association of Research Libraries (CARL).
+**Service Host**: The legal entity responsible for offering the Service, being the New Digital Research Infrastructure Organization (NDRIO).
 
 **Site**: Federated Research Data Repository (FRDR) website, [https://www.frdr-dfdr.ca/](https://www.frdr-dfdr.ca/)
 
@@ -214,4 +214,4 @@ If you have any questions or concerns about the collection, use, or disclosure o
 
 You acknowledge and agree that the all rights, title and interest in and to the Sites, Service, any additional data added by the Service Host to the Content and any trademarks, search software, user guides, documentation and other intellectual property that is created by or on behalf the Service Host relating to the Site or Service, including the submission of Content, is owned solely by the Service Host and their licensees.
 
-Last Revised: 2020-04-17
+Last Revised: 2021-04-26

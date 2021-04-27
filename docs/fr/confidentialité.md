@@ -1,4 +1,4 @@
-La Politique de confidentialité suivante s’applique au site Web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/repo/?locale=fr">https://www.frdr-dfdr.ca/repo/?locale=fr</a>, et aux services offerts dans le site. Le service est offert par l’Association des bibliothèques de recherche du Canada (ABRC) (ci-après l’hébergeur du service).
+La Politique de confidentialité suivante s’applique au site Web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/repo/?locale=fr">https://www.frdr-dfdr.ca/repo/?locale=fr</a>, et aux services offerts dans le site. Le service est offert par la Nouvelle organisation d’infrastructure de recherche numérique (NOIRN) (ci-après l’hébergeur du service).
 
 ## Énoncé de confidentialité
 
@@ -26,7 +26,7 @@ On entend par :
 
 **Service**, les services disponibles dans le site proposés par l’hébergeur du service.
 
-**Hébergeur du service**, l’entité juridique chargée d’offrir le service, soit l’Association des bibliothèques de recherche du Canada (ABRC).
+**Hébergeur du service**, l’entité juridique chargée d’offrir le service, soit la Nouvelle organisation d’infrastructure de recherche numérique (NOIRN).
 
 **Site**, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse <a href="https://www.frdr-dfdr.ca/repo/?locale=fr">https://www.frdr-dfdr.ca/repo/?locale=fr</a>
 
@@ -166,4 +166,4 @@ Si vous avez des questions ou des préoccupations au sujet de la collecte, de l�
 
 L’hébergeur du service se réserve le droit de suspendre l’utilisation par toute partie (déposant ou utilisateur) du site ou du service si celle-ci se livre ou est soupçonnée de se livrer à des activités qui violent les lois applicables en matière d’accès à l’information et de protection de la vie privée.
 
-Dernière mise à jour : 2020-09-24
+Dernière mise à jour : 2021-04-26

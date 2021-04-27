@@ -20,7 +20,7 @@ On entend par:
 
 **Service**, les services disponibles dans le site proposés par l’hébergeur du service.
 
-**Hébergeur du service**, l’entité juridique chargée d’offrir le service, soit l’Association des bibliothèques de recherche du Canada (ABRC).
+**Hébergeur du service**, l’entité juridique chargée d’offrir le service, soit la Nouvelle organisation d’infrastructure de recherche numérique (NOIRN).
 
 **Site**, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse [https://www.frdr-dfdr.ca/repo/?locale=fr](https://www.frdr-dfdr.ca/repo/?locale=fr)
 
@@ -216,4 +216,4 @@ Si vous avez des questions ou des préoccupations au sujet de la collecte, de l�
 
 Vous reconnaissez et acceptez que tous les droits, titres et intérêts relatifs aux sites, au service, à toutes les données supplémentaires ajoutées par l’hébergeur du service au contenu et à tous marque de commerce, logiciel de recherche, guide d’utilisateur, documentation et autres droits de propriété intellectuelle créés par ou pour le compte de l’hébergeur du service concernant le site ou le service, notamment la soumission du contenu, demeurent la propriété exclusive de l’hébergeur du service et de ses titulaires de licence.
 
-Derrière révision: 2020-04-17
+Derrière révision: 2021-04-26
