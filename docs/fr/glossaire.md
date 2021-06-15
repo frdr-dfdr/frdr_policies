@@ -10,7 +10,7 @@
 
 **Service** : Les services mis à la disposition sur le site offert par l’hébergeur du service.
 
-**Hébergeur du service** : L’entité juridique chargée d’offrir le service, soit l’Association des bibliothèques de recherche du Canada (ABRC).
+**Hôte du service** : L’entité juridique responsable de l’offre du Service, à savoir la Nouvelle organisation d’infrastructure de recherche numérique (NOIRN).
 
 **Site** : Site web du Dépôt fédéré de données de recherche (DFDR) — https://www.frdr-dfdr.ca/
 
@@ -18,4 +18,4 @@
 
 **Utilisateur** : Une personne qui utilise le service en naviguant sur le site ou en téléchargeant du contenu.
 
-*Dernière révision : 2020-09-11*
+*Dernière révision : 2021-05-18*
