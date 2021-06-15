@@ -80,11 +80,9 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{% if '/en/' in page.canonical_url %}Account {% else %}Compte{% endif %}<span class="caret"></span></a>
                       <ul class="dropdown-menu">
                         <li><a href="/repo/profile">{% if '/en/' in page.canonical_url %}Profile{% else %}Profil{% endif %}</a></li>
-
-{% if '/en/' in page.canonical_url %}{% else %}{% endif %}
                         <li role="separator" class="divider"></li>
                         <li>
-                            <a href="/repo/logout"> {% if '/en/' in page.canonical_url %}Log Out{% else %}Déconnexion{% endif %} </a>
+                            <a href="/repo/logout"> {% if '/en/' in page.canonical_url %}Log Out{% else %}Déconnexion{% endif %}</a>
                         </li>
                       </ul>
                     </li>
