@@ -36,7 +36,9 @@ You are not permitted to use the Site or Service to:
 
 * utilize, in any manner, the Site or Service to send unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of duplicative or unsolicited messages, whether commercial or otherwise;
 
-* use the Site or Service to harvest, collect, gather or assemble information or data regarding Users, Submitters or other persons, including e-mail addresses, without their consent;
+* use the Site or Service to harvest, collect, gather or assemble information or data regarding Users, Submitters or other persons, including e-mail addresses, without their permission;
+
+* intentionally re-identify any individual, group, organization, or any other entity, whose de-identified or anonymized data is included in the Content;
 
 * interfere with, disrupt, or create an undue burden on servers or networks connected to the Site or Service, or violate the regulations, policies or procedures of such networks;
 
@@ -61,7 +63,7 @@ All Submitters agree to the following:
 
 * The Submitter acknowledges that they are required to create an account with Globus in order to submit Content to the Service, which is subject to the Globus [Terms of Service](https://www.globus.org/legal/terms) and [Privacy Policy](https://www.globus.org/legal/privacy).
 
-* The Submitter is solely responsible for ensuring that Content is suitable for open dissemination, and that it complies with these Terms of Use, the FRDR Collections Development Policy, research ethics agreements, and applicable laws.
+* The Submitter is solely responsible for ensuring that Content is suitable for open dissemination, and that it complies with these Terms of Use, the FRDR Collections Development Policy, any relevant research ethics policies or approvals, any relevant institutional policies or obligations, and applicable laws.
 
 * In addition to the above, the Submitter represents, warrants and covenants, and can demonstrate to the Service Host’s full satisfaction upon request, that:
 
@@ -77,9 +79,9 @@ All Submitters agree to the following:
 
 * At the time of submission, Submitters may decide if their Content will be public or embargoed, unless otherwise mandated by data protection and privacy laws. Submitters must also select the license terms under which the Content will be provided for public access, being either one of the open license options offered during the Content submission process or, subject to Curator approval, custom license terms. By default Content is made available under the [Creative Commons Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
 
-* <section id="embargo">Public Content is both openly accessible and discoverable through search. Submitters may request that public Content be embargoed for a period that will not exceed one year, unless otherwise approved by the Service Manager. Submitters must provide adequate reasoning for any embargo request, for example, if making Content publicly accessible would jeopardise a forthcoming publication. Embargo requests must have an explicit termination date. Embargo requests of one year or shorter will be granted at the discretion of a Curator. After the embargo period, the Content will become publicly accessible, unless otherwise mandated by data protection and privacy law.</section>
+* <section id="embargo">Public Content is both openly accessible and discoverable through search. Submitters may request that public Content be embargoed for a period that will not exceed one year, unless otherwise approved by the Service Manager. Submitters must provide adequate reasoning for any embargo request, for example, if making Content publicly accessible would jeopardise a forthcoming publication. Embargo requests must have an explicit termination date. Embargo requests of one year or shorter will be granted at the discretion of a Curator. Embargo requests of more than one year will be considered on a case-by-case basis. Upon request of a Submitter, an Embargo may be extended at the discretion of the curator. After the embargo period, the Content will become publicly accessible, unless otherwise mandated by data protection and privacy law.</section>
 
-* Content containing Personal Information should not be submitted to the Service unless the Submitter first provides the Service Host with evidence that the Submitter has the authority or consent to disclose that Personal Information to the Service Host and to the public via the Service.
+* Content containing Personal Information should not be submitted to the Service unless the Submitter first attests to the Service Host with evidence that the Submitter has the authority or consent to disclose that Personal Information to the Service Host and to the public via the Service.
 
 * Under the current service offering, Sensitive Content that cannot be made publicly accessible should not be submitted to the Service unless the Submitter first provides the Service Host with evidence that the Submitter has the authority or consent to disclose that Content to the public via the Service.
 
@@ -214,4 +216,4 @@ If you have any questions or concerns about the collection, use, or disclosure o
 
 You acknowledge and agree that the all rights, title and interest in and to the Sites, Service, any additional data added by the Service Host to the Content and any trademarks, search software, user guides, documentation and other intellectual property that is created by or on behalf the Service Host relating to the Site or Service, including the submission of Content, is owned solely by the Service Host and their licensees.
 
-Last Revised: 2021-04-26
+Last Revised: 2020-04-17
