@@ -142,7 +142,7 @@ The Service will harvest publicly available metadata distributed across multiple
 
 * Curators will ensure that harvested metadata meets internationally accepted best practices and standards.
 
-* The Service will not transfer or ingest any research data in this process. If the data is openly available, Users will be able to access the data from the source repository.
+* The Service will not transfer or ingest any research data in this process with the exception of geospatial files available from open datasets which are downloaded to provide a geospatial preview of the file on FRDR. If the data is openly available, Users will be able to access the data from the source repository.
 
 * Metadata from the Service may be freely reused under the [Creative Commons Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -216,4 +216,4 @@ If you have any questions or concerns about the collection, use, or disclosure o
 
 You acknowledge and agree that the all rights, title and interest in and to the Sites, Service, any additional data added by the Service Host to the Content and any trademarks, search software, user guides, documentation and other intellectual property that is created by or on behalf the Service Host relating to the Site or Service, including the submission of Content, is owned solely by the Service Host and their licensees.
 
-Last Revised: 2020-04-17
+Last Revised: 2021-11-23
