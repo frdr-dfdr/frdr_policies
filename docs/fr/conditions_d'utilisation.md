@@ -146,7 +146,7 @@ Le service recueillera des métadonnées accessibles au public qui seront distri
 
 * Les curateurs veilleront à ce que les métadonnées recueillies soient conformes aux pratiques exemplaires et aux normes reconnues à l’échelle internationale.
 
-* Le service ne transférera ni n’intégrera de données de recherche lors de ce processus. Si les données sont ouvertement disponibles, les utilisateurs pourront y accéder à partir du référentiel source.
+* Le Service ne transférera ni n’ingérera de données de recherche dans le cadre de ce processus, à l’exception des fichiers géospatiaux disponibles à partir d’ensembles de données ouvertes qui sont téléchargés pour fournir un aperçu géospatial du fichier dans le DFDR. Si les données sont librement accessibles, les utilisateurs pourront y accéder à partir du dépôt source.
 
 * Les métadonnées du service peuvent être réutilisées librement dans le cadre de [l'affectation du domaine public Creative Commons (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -218,4 +218,4 @@ Si vous avez des questions ou des préoccupations au sujet de la collecte, de l�
 
 Vous reconnaissez et acceptez que tous les droits, titres et intérêts relatifs aux sites, au service, à toutes les données supplémentaires ajoutées par l’hébergeur du service au contenu et à tous marque de commerce, logiciel de recherche, guide d’utilisateur, documentation et autres droits de propriété intellectuelle créés par ou pour le compte de l’hébergeur du service concernant le site ou le service, notamment la soumission du contenu, demeurent la propriété exclusive de l’hébergeur du service et de ses titulaires de licence.
 
-Derrière révision: 2020-04-17
+Derrière révision: 2021-11-23
