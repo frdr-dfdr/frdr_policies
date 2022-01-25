@@ -13,6 +13,7 @@ nav:
         - "Data Retention and Deaccession Policy": en/data_retention.md
         - "Data Submission Policy": en/data_submission.md
         - "Metadata Harvesting Policy": en/metadata_harvesting.md
+        - "Preservation Policy": en/preservation.md
         - "Glossary of Terms": en/glossary.md
     - French:
         - "Conditions d'utilisation": fr/conditions_d'utilisation.md
@@ -22,6 +23,7 @@ nav:
         - "Politique en matière de rétention et de suppression des données": fr/rétention_des_données.md
         - "Politique en matière de soumission de données": fr/soumission_données.md
         - "Politique en matière de moissonnage de métadonnées": fr/moissonnage_métadonnées.md
+        - "Politique de préservation": fr/préservation.md
         - "Glossaire terminologique": fr/glossaire.md
 
 extra_css:
@@ -40,6 +42,7 @@ extra:
             "Data Retention and Deaccession Policy": fr/rétention_des_données/
             "Data Submission Policy": fr/soumission_données/
             "Metadata Harvesting Policy": fr/moissonnage_métadonnées/
+            "Preservation Policy": fr/préservation
             "Glossary of Terms": fr/glossaire/
         fr:
             "Conditions d'utilisation": en/terms_of_use/
@@ -49,4 +52,5 @@ extra:
             "Politique en matière de rétention et de suppression des données": en/data_retention/
             "Politique en matière de soumission de données": en/data_submission/
             "Politique en matière de moissonnage de métadonnées": en/metadata_harvesting/
+            "Politique de préservation": en/preservation.md
             "Glossaire terminologique": en/glossary/
