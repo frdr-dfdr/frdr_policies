@@ -42,7 +42,7 @@ extra:
             "Data Retention and Deaccession Policy": fr/rétention_des_données/
             "Data Submission Policy": fr/soumission_données/
             "Metadata Harvesting Policy": fr/moissonnage_métadonnées/
-            "Preservation Policy": fr/préservation
+            "Preservation Policy": fr/préservation/
             "Glossary of Terms": fr/glossaire/
         fr:
             "Conditions d'utilisation": en/terms_of_use/
@@ -52,5 +52,5 @@ extra:
             "Politique en matière de rétention et de suppression des données": en/data_retention/
             "Politique en matière de soumission de données": en/data_submission/
             "Politique en matière de moissonnage de métadonnées": en/metadata_harvesting/
-            "Politique de préservation": en/preservation.md
+            "Politique de préservation": en/preservation/
             "Glossaire terminologique": en/glossary/
