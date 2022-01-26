@@ -9,13 +9,13 @@ This policy should be consulted in accordance with the [Terms of Use](/policies/
 
 ## 2.0 Principles
 
-### 2.1 Organizational Commitment: 
+### 2.1 Organizational Commitment 
 
 The Digital Research Alliance of Canada supports Canada's research infrastructure by providing in FRDR a platform through which research data can be ingested, curated, preserved, discovered, cited, and shared. The Service’s digital preservation strategies are directed by this mandate to ensure the persistence of Content submitted to the Service over time. The digital preservation program will comply with the Service’s existing policies, procedures, and relevant applicable legislation. 
 
 A central component of the Service’s digital preservation strategy is the development of a distributed digital preservation network, which focuses on building capacity in Canadian memory institutions and preservation partners. The long-term preservation of Canadian research data requires broad community support and participation, which is encouraged and maintained by the Alliance.
 
-### 2.2 Digital Preservation Values: 
+### 2.2 Digital Preservation Values
 
 The Service recognizes that appraisal and selection are key factors in the responsible stewardship of research data. Appraisal decisions are carried out according to current best practices established by the digital preservation community.
 The Service Host also recognizes that continuous, meaningful community engagement is vital to ensuring the accessibility and usability of its digital assets. The Service will document and share, where possible, digital preservation policies, procedures, and actions for internal review, peer review, and public dissemination for the purposes of transparency and accountability. 
