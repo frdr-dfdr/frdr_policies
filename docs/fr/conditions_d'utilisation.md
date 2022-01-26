@@ -24,7 +24,7 @@ On entend par:
 
 **Site**, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse [https://www.frdr-dfdr.ca/repo/?locale=fr](https://www.frdr-dfdr.ca/repo/?locale=fr)
 
-**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des ensembles de données connexes ou un chercheur qui collaborera avec les auteurs.
+**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des jeux de données connexes ou un chercheur qui collaborera avec les auteurs.
 
 **Utilisateur**, une personne qui utilise le service en naviguant dans le site ou en téléchargeant du contenu.
 
