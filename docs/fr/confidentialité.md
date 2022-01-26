@@ -30,13 +30,13 @@ On entend par :
 
 **Site**, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse <a href="https://www.frdr-dfdr.ca/repo/?locale=fr">https://www.frdr-dfdr.ca/repo/?locale=fr</a>
 
-**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des ensembles de données connexes ou un chercheur qui collaborera avec les auteurs.
+**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des jeux de données connexes ou un chercheur qui collaborera avec les auteurs.
 
 **Utilisateur**, une personne qui utilise le service en naviguant dans le site ou en téléchargeant du contenu. 
 
 ## 1.0 Collecte de renseignements personnels
 
-La plupart des services liés au DFDR ne nécessitent aucune forme d’inscription, ce qui vous permet de visiter et de parcourir le site et le service sans révéler votre identité à l’hébergeur du service. Cependant, certains aspects du site et du service peuvent nécessiter l’inscription, notamment lorsqu’un utilisateur souhaite télécharger plusieurs fichiers de données simultanément, ou des ensembles de données dont le volume dépasse une taille de fichier déterminée, à partir du service. Dans de telles situations, si vous choisissez de ne pas divulguer les renseignements personnels demandés par l’intermédiaire du site ou du service, il se peut que vous ne puissiez pas accéder à certaines parties du site ou du service, ou que l’hébergeur du service ne puisse pas répondre à votre demande.
+La plupart des services liés au DFDR ne nécessitent aucune forme d’inscription, ce qui vous permet de visiter et de parcourir le site et le service sans révéler votre identité à l’hébergeur du service. Cependant, certains aspects du site et du service peuvent nécessiter l’inscription, notamment lorsqu’un utilisateur souhaite télécharger plusieurs fichiers de données simultanément, ou des jeux de données dont le volume dépasse une taille de fichier déterminée, à partir du service. Dans de telles situations, si vous choisissez de ne pas divulguer les renseignements personnels demandés par l’intermédiaire du site ou du service, il se peut que vous ne puissiez pas accéder à certaines parties du site ou du service, ou que l’hébergeur du service ne puisse pas répondre à votre demande.
 
 Conformément aux lois applicables en matière de protection de la vie privée, l’hébergeur du service ne recueillera des renseignements personnels que dans le but de fournir le service aux utilisateurs et aux déposants ou de communiquer avec les utilisateurs et les déposants au sujet de demandes de renseignements ou de demandes d’assistance technique ou de clients.
 
@@ -86,7 +86,7 @@ L’hébergeur du service peut également recueillir, utiliser et traiter les re
 
 Conformément aux lois sur la protection des données et la protection de la vie privée, l’hébergeur du service ne divulguera les renseignements personnels que si la loi l’exige ou avec le consentement écrit exprès de la personne visée par les renseignements.
 
-<div class="clause"><span class="clause-number">3.1</span><span class="clause-text">Les commentaires des utilisateurs au sujet du contenu transmis par l’intermédiaire du formulaire Web à l’administrateur des ensembles de données seront communiqués au déposant dudit contenu.</span></div>
+<div class="clause"><span class="clause-number">3.1</span><span class="clause-text">Les commentaires des utilisateurs au sujet du contenu transmis par l’intermédiaire du formulaire Web à l’administrateur des jeux de données seront communiqués au déposant dudit contenu.</span></div>
 
 <div class="clause"><span class="clause-number">3.2</span><span class="clause-text">L’hébergeur du service ne vendra pas de renseignements personnels ni de listes d’adresses.</span></div>
 
