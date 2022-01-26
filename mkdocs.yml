@@ -1,5 +1,6 @@
 site_name: FRDR Policies
 site_url: http://127.0.0.1:8000/
+plausible_domain: test.frdr.ca
 theme:
     name: mkdocs
     custom_dir: 'frdr_theme'
@@ -12,6 +13,7 @@ nav:
         - "Data Retention and Deaccession Policy": en/data_retention.md
         - "Data Submission Policy": en/data_submission.md
         - "Metadata Harvesting Policy": en/metadata_harvesting.md
+        - "Preservation Policy": en/preservation.md
         - "Glossary of Terms": en/glossary.md
     - French:
         - "Conditions d'utilisation": fr/conditions_d'utilisation.md
@@ -21,6 +23,7 @@ nav:
         - "Politique en matière de rétention et de suppression des données": fr/rétention_des_données.md
         - "Politique en matière de soumission de données": fr/soumission_données.md
         - "Politique en matière de moissonnage de métadonnées": fr/moissonnage_métadonnées.md
+        - "Politique de préservation": fr/préservation.md
         - "Glossaire terminologique": fr/glossaire.md
 
 extra_css:
@@ -32,20 +35,22 @@ extra:
     default_page_fr: fr/conditions_d'utilisation/
     language_map:
         en:
-            "Terms of Use": fr/conditions_d'utilisation.md
-            "Privacy Policy": fr/confidentialité.md
-            "Access and Reuse Policy": fr/accès_réutilisation.md
-            "Collections Development Policy": fr/création_collections.md
-            "Data Retention and Deaccession Policy": fr/rétention_des_données.md
-            "Data Submission Policy": fr/soumission_données.md
-            "Metadata Harvesting Policy": fr/moissonnage_métadonnées.md
-            "Glossary of Terms": fr/glossaire.md
+            "Terms of Use": fr/conditions_d'utilisation/
+            "Privacy Policy": fr/confidentialité/
+            "Access and Reuse Policy": fr/accès_réutilisation/
+            "Collections Development Policy": fr/création_collections/
+            "Data Retention and Deaccession Policy": fr/rétention_des_données/
+            "Data Submission Policy": fr/soumission_données/
+            "Metadata Harvesting Policy": fr/moissonnage_métadonnées/
+            "Preservation Policy": fr/préservation/
+            "Glossary of Terms": fr/glossaire/
         fr:
-            "Conditions d'utilisation": en/terms_of_use.md
-            "Politique de confidentialité": en/privacy.md
-            "Politique en matière d’accès et de réutilisation": en/access_reuse.md
-            "Politique en matière de création de collections": en/collections_development.md
-            "Politique en matière de rétention et de suppression des données": en/data_retention.md
-            "Politique en matière de soumission de données": en/data_submission.md
-            "Politique en matière de moissonnage de métadonnées": en/metadata_harvesting.md
-            "Glossaire terminologique": en/glossary.md
+            "Conditions d'utilisation": en/terms_of_use/
+            "Politique de confidentialité": en/privacy/
+            "Politique en matière d’accès et de réutilisation": en/access_reuse/
+            "Politique en matière de création de collections": en/collections_development/
+            "Politique en matière de rétention et de suppression des données": en/data_retention/
+            "Politique en matière de soumission de données": en/data_submission/
+            "Politique en matière de moissonnage de métadonnées": en/metadata_harvesting/
+            "Politique de préservation": en/preservation/
+            "Glossaire terminologique": en/glossary/

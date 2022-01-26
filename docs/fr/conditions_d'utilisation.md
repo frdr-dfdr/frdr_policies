@@ -24,7 +24,7 @@ On entend par:
 
 **Site**, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse [https://www.frdr-dfdr.ca/repo/?locale=fr](https://www.frdr-dfdr.ca/repo/?locale=fr)
 
-**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des ensembles de données connexes ou un chercheur qui collaborera avec les auteurs.
+**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des jeux de données connexes ou un chercheur qui collaborera avec les auteurs.
 
 **Utilisateur**, une personne qui utilise le service en naviguant dans le site ou en téléchargeant du contenu.
 
@@ -40,7 +40,9 @@ Il est interdit d’utiliser le site ou le service pour :
 
 * utiliser, de quelque manière que ce soit, le site ou le service pour l’envoi de publicités non sollicitées ou non autorisées, de matériel promotionnel, de courrier poubelle, de pourriels, d’envois boule de neige, d’opérations pyramidales ou de toute autre forme de messages en double ou non sollicités, qu’ils soient de nature commerciale ou non;
 
-* utiliser le site ou le service pour recueillir ou rassembler des renseignements ou des données concernant des utilisateurs, des déposants ou d’autres personnes, notamment des adresses électroniques, sans leur consentement;
+* utiliser le site ou le service pour recueillir ou rassembler des renseignements ou des données concernant des utilisateurs, des déposants ou d’autres personnes, notamment des adresses électroniques, sans leur permission;
+
+* identifier à nouveau, de manière intentionnelle, un individu, un groupe ou une organisation ou toute autre entité dont les données dépersonnalisées ou anonymisées sont incluses dans le contenu;
 
 * perturber ou surcharger indûment les serveurs ou les réseaux reliés au site ou au service, ou enfreindre les réglementations, politiques ou procédures de ces réseaux;
 
@@ -66,7 +68,7 @@ Le déposant convient de ce qui suit :
 
 * Le déposant reconnaît qu’il est tenus de créer un compte auprès de Globus afin de soumettre du contenu au service, qui est assujetti [aux conditions d'utilisation](https://www.globus.org/legal/terms) et à la [politique de confidentialité](https://www.globus.org/legal/privacy) de Globus.
 
-* Il incombe uniquement au déposant de s’assurer que le contenu convient à la diffusion publique et qu’il respecte les présentes conditions d’utilisation, la politique de développement des collections du DFDR, les accords en matière de déontologie de la recherche et les lois applicables.
+* Il incombe uniquement au déposant de s’assurer que le contenu convient à la diffusion publique et qu’il respecte les présentes conditions d’utilisation, la politique de développement des collections du DFDR, toutes les politiques ou approbations pertinentes en matière d'éthique de la recherche, toutes les politiques ou obligations institutionnelles pertinentes et les lois applicables.
 
 * Outre ce qui précède, le déposant déclare, garantit et peut démontrer à la pleine satisfaction de l’hébergeur du service, sur demande :
 
@@ -82,9 +84,9 @@ Le déposant convient de ce qui suit :
 
 * Au moment de la communication, les déposants peuvent décider si leur contenu sera public ou frappé d’embargo, à moins que les lois sur la protection des données et la protection de la vie privée ne l’exigent. Les déposants doivent également choisir les conditions de licence en vertu desquelles le contenu sera accessible au public, soit l’une des options de licence ouverte offertes pendant le processus de présentation du contenu ou, sous réserve de l’approbation du curateur, les conditions de licence personnalisées. Par défaut, le contenu est mis à disposition dans le cadre de [l'affectation du domaine public Creative Commons (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
 
-* <section id="embargo">Le contenu public est à la fois librement accessible et repérable par la recherche. Les déposants peuvent demander que le contenu public soit frappé d’embargo pour une période ne dépassant pas un an, à moins d’approbation contraire du gestionnaire de services. Les déposants doivent motiver adéquatement toute demande d’embargo, comme par exemple le fait de rendre le contenu accessible au public mettrait en péril une publication à venir. Les demandes d’embargo doivent avoir une date d’expiration explicite. Les demandes d’embargo d’un an ou moins seront accordées à la discrétion d’un curateur. Après la période d’embargo, le contenu deviendra accessible au public, à moins d’indication contraire des lois sur la protection des données et la protection de la vie privée.</section>
+* <section id="embargo">Le contenu public est à la fois librement accessible et repérable par la recherche. Les déposants peuvent demander que le contenu public soit frappé d’embargo pour une période ne dépassant pas un an, à moins d’approbation contraire du gestionnaire de services. Les déposants doivent motiver adéquatement toute demande d’embargo, comme par exemple le fait de rendre le contenu accessible au public mettrait en péril une publication à venir. Les demandes d’embargo doivent avoir une date d’expiration explicite. Les demandes d’embargo d’un an ou moins seront accordées à la discrétion d’un curateur. Les demandes d'embargo de plus d'un an seront examinées au cas par cas. À la demande d'un déposant, un embargo peut être prolongé à la discrétion d'un curateur. Après la période d’embargo, le contenu deviendra accessible au public, à moins d’indication contraire des lois sur la protection des données et la protection de la vie privée.</section>
 
-* Le contenu comportant des renseignements personnels ne doit pas être soumis au service à moins que le déposant ne fournisse d’abord à l’hébergeur du service la preuve qu’il a le pouvoir ou le consentement de divulguer ces renseignements personnels à l’hébergeur du service et au public par l’entremise du service.
+* Le contenu comportant des renseignements personnels ne doit pas être soumis au service à moins que le déposant n’atteste d’abord à l’hébergeur du service la preuve qu’il a le pouvoir ou le consentement de divulguer ces renseignements personnels à l’hébergeur du service et au public par l’entremise du service.
 
 * Dans le cadre de l’offre de service actuelle le contenu de nature sensible ne doit pas être soumis au service à moins que le déposant ne fournisse d’abord à l’hébergeur du service la preuve qu’il a le pouvoir ou le consentement de divulguer ce contenu au public par l’entremise du service.
 
@@ -144,7 +146,7 @@ Le service recueillera des métadonnées accessibles au public qui seront distri
 
 * Les curateurs veilleront à ce que les métadonnées recueillies soient conformes aux pratiques exemplaires et aux normes reconnues à l’échelle internationale.
 
-* Le service ne transférera ni n’intégrera de données de recherche lors de ce processus. Si les données sont ouvertement disponibles, les utilisateurs pourront y accéder à partir du référentiel source.
+* Le Service ne transférera ni n’ingérera de données de recherche dans le cadre de ce processus, à l’exception des fichiers géospatiaux disponibles à partir d’ensembles de données ouvertes qui sont téléchargés pour fournir un aperçu géospatial du fichier dans le DFDR. Si les données sont librement accessibles, les utilisateurs pourront y accéder à partir du dépôt source.
 
 * Les métadonnées du service peuvent être réutilisées librement dans le cadre de [l'affectation du domaine public Creative Commons (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -216,4 +218,4 @@ Si vous avez des questions ou des préoccupations au sujet de la collecte, de l�
 
 Vous reconnaissez et acceptez que tous les droits, titres et intérêts relatifs aux sites, au service, à toutes les données supplémentaires ajoutées par l’hébergeur du service au contenu et à tous marque de commerce, logiciel de recherche, guide d’utilisateur, documentation et autres droits de propriété intellectuelle créés par ou pour le compte de l’hébergeur du service concernant le site ou le service, notamment la soumission du contenu, demeurent la propriété exclusive de l’hébergeur du service et de ses titulaires de licence.
 
-Derrière révision: 2021-04-26
+Derrière révision: 2021-11-23
