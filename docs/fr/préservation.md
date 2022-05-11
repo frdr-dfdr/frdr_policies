@@ -9,13 +9,13 @@ La présente politique devrait être consultée parallèlement aux [conditions d
  
 ## 2.0 Principes
  
-### 2.1 Engagement organisationnel :
+### 2.1 Engagement organisationnel
 
 L'Alliance de recherche numérique du Canada soutient l'infrastructure de recherche du Canada en fournissant par le DFDR une plateforme par laquelle les données de recherche peuvent être ingérées, organisées, préservées, découvertes, citées et partagées. Les stratégies de préservation numérique du service sont orientées par ce mandat afin d'assurer la pérennité du contenu consigné au service au fil du temps. Le programme de préservation numérique sera conforme aux politiques et procédures existantes du service et aux lois en vigueur en la matière.
  
 Un élément central de la stratégie de préservation numérique du service est la création d'un réseau de préservation numérique distribué mettant l'accent sur le renforcement des capacités des établissements de mémoire et des partenaires de préservation canadiens. La préservation à long terme des données de la recherche canadienne exige le soutien et la participation d'une communauté élargie ; cette démarche est encouragée et maintenue par l'Alliance.
  
-### 2.2 Valeurs liées à la préservation numérique :
+### 2.2 Valeurs liées à la préservation numérique
 
 Le service reconnaît que l'évaluation et la sélection sont des facteurs déterminants pour une gestion responsable des données de recherche. Les décisions d'évaluation sont prises conformément aux bonnes pratiques actuelles établies par la communauté de la préservation numérique.
 
