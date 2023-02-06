@@ -29,8 +29,47 @@
                     </button>
     
                     <div class="collapse navbar-collapse justify-content-md-end" id="navbarSupportedContent">
+                        
+                        <div class="container navbar-up">
+                            <!-- Search bar on larger screen -->
+                            <form action="{{config.extra.repo_url}}{{config.extra.frdr_search_relative_url}}" method="get">
+                                <div class="input-group d-none d-lg-flex">
+                                    <input type="hidden" name="lang" id="srch-lang" value="{% if '/en/' in page.canonical_url %}en{% else %}fr{% endif %}">               
+                                    <label for="srch-term" class="d-none"></label>
+                                    <input type="text" class="search_bar form-control" placeholder="{% if '/en/' in page.canonical_url %}Search for datasets{% else %}FR Search for datasets{% endif %}" name="query" id="srch-term"  style="font-size: 14px;">
+                                    <span class="input-group-append">
+                                    <button class="btn search-button" type="submit">
+                                        <span class="fas fa-search" aria-hidden="true"></span>
+                                    </button>
+                                    </span>
+                                </div>
+                            </form>
     
+                            <!-- Locale on larger screen -->
+                            {% if '/en/' in page.canonical_url %}
+                                <a class="btn alliance-btn-secondary lang-btn d-none d-lg-block" id="nav_switch_fr" href="{% if config.extra.language_map.en[page.title] is defined %}{{ config.site_url }}{{ config.extra.language_map.en[page.title] }}{% else %}{{ config.site_url }}{{config.extra.default_page_fr}}{% endif %}" >Français</a>
+                            {% else %}
+                                <a class="btn alliance-btn-secondary lang-btn d-none d-lg-block" id="nav_switch_en" href="{% if config.extra.language_map.fr[page.title] is defined %}{{ config.site_url }}{{ config.extra.language_map.fr[page.title] }}{% else %}{{ config.site_url }}{{config.extra.default_page_en}}{% endif %}" >English</a>
+                            {% endif %}
+                        </div>
+
                         <ul class="nav navbar-nav navbar-right">
+
+                            <!-- Search bar on smaller screen -->
+                            <li class="nav-item d-lg-none">
+                                <form action="{{config.extra.repo_url}}{{config.extra.frdr_search_relative_url}}" method="get">
+                                    <div class="input-group">
+                                        <input type="hidden" name="lang" id="srch-lang" value="{% if '/en/' in page.canonical_url %}en{% else %}fr{% endif %}">               
+                                        <label for="srch-term" class="d-none"></label>
+                                        <input type="text" class="search_bar form-control" placeholder="{% if '/en/' in page.canonical_url %}Search for datasets{% else %}FR Search for datasets{% endif %}" name="query" id="srch-term"  style="font-size: 14px;">
+                                        <span class="input-group-append">
+                                        <button class="btn search-button" type="submit">
+                                            <span class="fas fa-search" aria-hidden="true"></span>
+                                        </button>
+                                        </span>
+                                    </div>
+                                </form>                            
+                            </li>
 
                             <!-- Locale on smaller screen -->
                             <li class="nav-item d-lg-none">
@@ -97,12 +136,6 @@
                                 {% endif %}
                             </li>
                         </ul>
-                        <!-- Locale on larger screen -->
-                        {% if '/en/' in page.canonical_url %}
-                            <a class="btn alliance-btn-secondary lang-btn d-none d-lg-block" id="nav_switch_fr" href="{% if config.extra.language_map.en[page.title] is defined %}{{ config.site_url }}{{ config.extra.language_map.en[page.title] }}{% else %}{{ config.site_url }}{{config.extra.default_page_fr}}{% endif %}" >Français</a>
-                        {% else %}
-                            <a class="btn alliance-btn-secondary lang-btn d-none d-lg-block" id="nav_switch_en" href="{% if config.extra.language_map.fr[page.title] is defined %}{{ config.site_url }}{{ config.extra.language_map.fr[page.title] }}{% else %}{{ config.site_url }}{{config.extra.default_page_en}}{% endif %}" >English</a>
-                        {% endif %}
                     </div><!-- /.navbar-collapse -->
                 </div>
             </nav>
