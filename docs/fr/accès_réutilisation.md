@@ -39,5 +39,5 @@ Des informations sur les utilisateurs et les déposants du service peuvent être
 
 La présente politique entre en vigueur à la date de son adoption. Elle sera révisée par le comité de pilotage du DFDR tous les deux ans ou de manière ponctuelle au besoin.
 
-Dernière révision : 2020-12-11
+Dernière révision : 2023-03-14
 
