@@ -146,7 +146,7 @@ Le service recueillera des métadonnées accessibles au public qui seront distri
 
 * Les curateurs veilleront à ce que les métadonnées recueillies soient conformes aux pratiques exemplaires et aux normes reconnues à l’échelle internationale.
 
-* Le Service ne transférera ni n’ingérera de données de recherche dans le cadre de ce processus, à l’exception des fichiers géospatiaux disponibles à partir d’ensembles de données ouvertes qui sont téléchargés pour fournir un aperçu géospatial du fichier dans le DFDR. Si les données sont librement accessibles, les utilisateurs pourront y accéder à partir du dépôt source.
+* Le Service ne transférera ni n’ingérera de données de recherche dans le cadre de ce processus, à l’exception des fichiers géospatiaux disponibles à partir des jeux de données ouvertes qui sont téléchargés pour fournir un aperçu géospatial du fichier dans le DFDR. Si les données sont librement accessibles, les utilisateurs pourront y accéder à partir du dépôt source.
 
 * Les métadonnées du service peuvent être réutilisées librement dans le cadre de [l'affectation du domaine public Creative Commons (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
 

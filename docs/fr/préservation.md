@@ -22,7 +22,7 @@ Le service reconnaît que l'évaluation et la sélection sont des facteurs déte
 L'hébergeur du service reconnaît également qu'un engagement continu et significatif de la communauté est essentiel pour garantir l'accessibilité et la facilité d'utilisation de ses ressources numériques. Le service documentera et partagera, dans la mesure du possible, les politiques, les procédures et les actions de préservation numérique à des fins d'examen interne, d'examen par les pairs et de diffusion publique, dans un souci de transparence et de responsabilité.
 
 ## 3.0 Évaluation et sélection
-Tout le contenu soumis au service sera évalué en vue d'une préservation à long terme par l'hébergeur du service à l'aide d'un cadre d'évaluation élaboré pour soutenir les bonnes pratiques dans le domaine. Le contenu dont la valeur de préservation à long terme dépasse la durée de vie active de l'ensemble de données dans le dépôt, régi par la politique en matière de rétention et de suppression des données, peut être sélectionné pour la préservation à long terme.
+Tout le contenu soumis au service sera évalué en vue d'une préservation à long terme par l'hébergeur du service à l'aide d'un cadre d'évaluation élaboré pour soutenir les bonnes pratiques dans le domaine. Le contenu dont la valeur de préservation à long terme dépasse la durée de vie active du jeu de données dans le dépôt, régi par la politique en matière de rétention et de suppression des données, peut être sélectionné pour la préservation à long terme.
 
 Les déposantes et les déposants peuvent contribuer à l'évaluation et à la sélection en considérant ce qui sera nécessaire pour que d'autres puissent comprendre et reproduire leurs recherches. Elles et ils doivent s'assurer que les fichiers sont bien organisés et décrits afin de soutenir le travail des curatrices et curateurs et du coordonnatrice ou coordonnateur de la préservation, qui prendront les décisions d'évaluation au nom du service.
 
@@ -37,7 +37,7 @@ Dans tous les cas, le service conservera des copies des fichiers originaux publi
  
 ## 5.0 Accès
 
-Les métadonnées descriptives seront conservées indéfiniment pour tout le contenu, indépendamment de la disposition des données associées. Le service du DFDR tiendra un registre de tous les ensembles de données préservés transférés aux fournisseurs de services de préservation et s'efforcera de donner accès aux copies de préservation sur demande.
+Les métadonnées descriptives seront conservées indéfiniment pour tout le contenu, indépendamment de la disposition des données associées. Le service du DFDR tiendra un registre de tous les jeux de données préservés transférés aux fournisseurs de services de préservation et s'efforcera de donner accès aux copies de préservation sur demande.
  
 ## 6.0 Plan de succession
 

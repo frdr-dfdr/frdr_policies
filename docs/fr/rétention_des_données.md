@@ -12,9 +12,9 @@ Cette responsabilité comprend la prestation de moyens numériques pour préserv
 
 ## 3.0	Conservation 
 
-Tout le contenu accepté dans le dépôt est validé par des sommes de contrôle à la réception, soumis à un traitement de conservation sur le plan des bits par des contrôles de fixité et sauvegardé de manière sécurisée dans des lieux de stockage géographiquement répartis. Le contenu considéré comme ayant une valeur de recherche à long terme peut être évalué et sélectionné pour un traitement de conservation dans le but de préparer les données pour un stockage archivistique continu une fois que l’ensemble de données n’est plus actif dans le dépôt.
+Tout le contenu accepté dans le dépôt est validé par des sommes de contrôle à la réception, soumis à un traitement de conservation sur le plan des bits par des contrôles de fixité et sauvegardé de manière sécurisée dans des lieux de stockage géographiquement répartis. Le contenu considéré comme ayant une valeur de recherche à long terme peut être évalué et sélectionné pour un traitement de conservation dans le but de préparer les données pour un stockage archivistique continu une fois que le jeu de données n’est plus actif dans le dépôt.
 
-## 4.0	Suppression des ensembles de données 
+## 4.0	Suppression des jeux de données 
 
 Le service se réserve le droit de supprimer le contenu pour les raisons suivantes :
 
@@ -24,7 +24,7 @@ Le service se réserve le droit de supprimer le contenu pour les raisons suivant
 * Intégrité de la recherche 
 * Question de vie privée/confidentialité/éthique
 
-Après la publication du contenu sur le service, les déposants ne peuvent plus éditer, modifier, augmenter ou supprimer le contenu, sauf à la discrétion d’un curateur. La suppression pendant la période de rétention ne doit avoir lieu que s’il existe une raison légale ou autre justification valable pour que l’ensemble de données ne soit plus accessible au public et doit être approuvée par un curateur (conformément aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/)).
+Après la publication du contenu sur le service, les déposants ne peuvent plus éditer, modifier, augmenter ou supprimer le contenu, sauf à la discrétion d’un curateur. La suppression pendant la période de rétention ne doit avoir lieu que s’il existe une raison légale ou autre justification valable pour que le jeu de données ne soit plus accessible au public et doit être approuvée par un curateur (conformément aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/)).
 
 Si le contenu est retiré pour l’une des raisons mentionnées précédemment, le service se réserve le droit de conserver l’enregistrement des métadonnées de citation dans le dépôt. Une page de renvoi de base contenant les métadonnées de base de la citation et une déclaration de retrait sera mise à la disposition du public par l’intermédiaire de l’identifiant d’objet numérique (DOI) fourni dans la citation pour ce contenu. Les utilisateurs ne pourront pas consulter les fichiers ou les métadonnées supplémentaires qui étaient disponibles avant la suppression ; toutefois, les métadonnées de citation du contenu retiré pourront être consultées. Si le contenu est retiré pour des raisons juridiques ou éthiques, la déclaration de retrait dissimulera toute information qui pourrait contribuer au risque ou au préjudice potentiel créé par la divulgation. 
 

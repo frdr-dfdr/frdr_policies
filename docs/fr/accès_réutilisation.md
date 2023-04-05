@@ -27,7 +27,7 @@ Les questions concernant la réutilisation appropriée du contenu doivent être 
 
 Quelle que soit la licence appliquée au contenu, les utilisateurs doivent fournir une attribution appropriée lorsqu’ils réutilisent le contenu conformément aux pratiques exemplaires en milieu universitaire et en recherche. 
 
-Les citations de contenu doivent inclure au minimum le créateur du contenu, le titre de l’ensemble de données, l’année de publication et un identifiant d’objet numérique (DOI) indiquant l’emplacement du contenu. On encourage les utilisateurs à se servir des pratiques normalisées de citation de données, notamment celles de DataCite, pour faire référence au contenu dans les publications.
+Les citations de contenu doivent inclure au minimum le créateur du contenu, le titre du jeu de données, l’année de publication et un identifiant d’objet numérique (DOI) indiquant l’emplacement du contenu. On encourage les utilisateurs à se servir des pratiques normalisées de citation de données, notamment celles de DataCite, pour faire référence au contenu dans les publications.
 
 ## 6.0 Mesures et confidentialité
 
