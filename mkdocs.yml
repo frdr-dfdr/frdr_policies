@@ -12,7 +12,6 @@ nav:
         - "Collections Development Policy": en/collections_development.md
         - "Data Retention and Deaccession Policy": en/data_retention.md
         - "Data Submission Policy": en/data_submission.md
-        - "Metadata Harvesting Policy": en/metadata_harvesting.md
         - "Preservation Policy": en/preservation.md
         - "Glossary of Terms": en/glossary.md
     - French:
@@ -22,7 +21,6 @@ nav:
         - "Politique en matière de création de collections": fr/création_collections.md
         - "Politique en matière de rétention et de suppression des données": fr/rétention_des_données.md
         - "Politique en matière de soumission de données": fr/soumission_données.md
-        - "Politique en matière de moissonnage de métadonnées": fr/moissonnage_métadonnées.md
         - "Politique de préservation": fr/préservation.md
         - "Glossaire terminologique": fr/glossaire.md
 
@@ -42,7 +40,6 @@ extra:
             "Collections Development Policy": fr/création_collections/
             "Data Retention and Deaccession Policy": fr/rétention_des_données/
             "Data Submission Policy": fr/soumission_données/
-            "Metadata Harvesting Policy": fr/moissonnage_métadonnées/
             "Preservation Policy": fr/préservation/
             "Glossary of Terms": fr/glossaire/
         fr:
@@ -52,6 +49,5 @@ extra:
             "Politique en matière de création de collections": en/collections_development/
             "Politique en matière de rétention et de suppression des données": en/data_retention/
             "Politique en matière de soumission de données": en/data_submission/
-            "Politique en matière de moissonnage de métadonnées": en/metadata_harvesting/
             "Politique de préservation": en/preservation/
             "Glossaire terminologique": en/glossary/
