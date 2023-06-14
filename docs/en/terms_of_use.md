@@ -17,7 +17,7 @@ If you are not of the age of majority in your place of residence, do not agree w
 
 **Service**: The services available on or at the Site offered by the Service Host.
 
-**Service Host**: The legal entity responsible for offering the Service, being the New Digital Research Infrastructure Organization (NDRIO).
+**Service Host**: The legal entity responsible for offering the Service, being the Digital Research Alliance of Canada (Alliance).
 
 **Site**: Federated Research Data Repository (FRDR) website, [https://www.frdr-dfdr.ca/](https://www.frdr-dfdr.ca/)
 
@@ -136,31 +136,19 @@ All requests to temporarily or permanently withdraw from public access or remove
 
 While the Service Host will consider every request for editing, withdrawal or removal of the Content from the Service, the Service Host is not required to approve any such request. If the Service Host approves any such request, the Service Host will promptly notify the Submitter of such approval.
 
-## 7.0 Metadata
-
-The Service will harvest publicly available metadata distributed across multiple Canadian platforms and repositories.
-
-* Curators will ensure that harvested metadata meets internationally accepted best practices and standards.
-
-* The Service will not transfer or ingest any research data in this process with the exception of geospatial files available from open datasets which are downloaded to provide a geospatial preview of the file on FRDR. If the data is openly available, Users will be able to access the data from the source repository.
-
-* Metadata from the Service may be freely reused under the [Creative Commons Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
-
-* Except as otherwise authorized under these Terms of Use, including section 2 above, bulk downloading of email addresses or other contact information taken from the Service is not permitted.
-
-## 8.0 Privacy
+## 7.0 Privacy
 
 The Service Host respects the privacy of Users and Submitters and will only collect, use, and disclose Personal Information in accordance with the FRDR Privacy Policy, which forms part of these Terms of Use. The Service Host encourages all Users and Submitters to review the Privacy Policy and use it to help make informed decisions.
 
-## 9.0 General Provisions
+## 8.0 General Provisions
 
-### 9.1 Suspension and Termination
+### 8.1 Suspension and Termination
 
 The Service Host reserves the right to immediately and without notice suspend any person’s (Submitter or User) access to and use of the Site or Service if that person engages in, or is suspected of engaging in, activities that violate applicable laws or otherwise do not comply with these Terms of Use.
 
 The Service Host may, in its sole discretion, provide a period of 15 days to cure or cease activities that violate these Terms of Use. If the Service Host provides a cure period and the offending activities are not cured or do not cease within the cure period, or if the Service Host determines that the breach of these Terms of Use cannot be cured, your account or access to the Site and Service will be terminated.
 
-### 9.2 Disclaimers
+### 8.2 Disclaimers
 
 The Site, Service and Content are made available to Submitters and Users on an "AS IS" basis and you acknowledge and agree that your use of the Site, Service and Content are at your sole risk.
 
@@ -174,7 +162,7 @@ The Service Host does not represent, warrant or covenant that:
 
 Except as set forth herein, and to the maximum extent permitted by law, the Service Host disclaims any and all representations, warranties and conditions with respect to the Site, Service and Content, whether express, implied, statutory or otherwise, or arising by course of dealing or usage of trade, including, without limitation, warranties of title, non-infringement, quality, performance, compatibility, merchantability, and/or fitness for a particular purpose. The Service Host assumes no responsibility for, and is not liable for, any damage to your equipment, data or other property as a result of your access to, use of or browsing on the Site or Services or your downloading of any Content or other materials, or inability to do any of the foregoing.
 
-### 9.3 Liability and Indemnity
+### 8.3 Liability and Indemnity
 
 To the extent not prohibited by law, the Service Host will not be liable for any damages whatsoever, including direct, indirect, incidental, punitive, special, consequential or exemplary damages arising from, relating to or connected with:
 
@@ -190,21 +178,21 @@ This is a comprehensive limitation of liability that applies to all losses and d
 
 You will indemnify, defend and hold the Service Host harmless from and against any claim, demand, action, loss, cost, expense, liability, or damage, including, without limitation, all reasonable legal fees and costs, investigation costs and settlement expenses, arising from (i) the use or misuse of the Site or Service; (ii) your access to the Site, use of the Services, use of the Content or violation of these Terms of Use; (iii) any injury, death or damage to property caused or contributed to by you; or (iv) the infringement by you, or any third party using your account, of any intellectual property or other right of any third party in any way relating to the Terms of Use, the Site, Service or Content.
 
-### 9.4 Dispute Resolution
+### 8.4 Dispute Resolution
 
 These Terms of Use, your use of the Site and Service and all disputes arising from it in connection with these Terms of Use shall be exclusively governed by and interpreted in accordance with the laws of Ontario and the federal laws of Canada applicable in Ontario without regard to conflict of laws principles. You agree that, despite being available from a variety of jurisdictions, the Site and Service will be deemed solely based in the Province of Ontario, Canada; and the Site and Service will be deemed to be passive in nature and not giving rise to personal jurisdiction over the Service Host in jurisdictions other than the Province of Ontario. The parties irrevocably submit to the exclusive jurisdiction of the courts of the Province of Ontario for any actions or proceedings arising out of or relating to the enforcement of these Terms of Use. However, you agree that nothing in these Terms of Use precludes the Service Host from applying for injunctive remedies or other urgent legal relief in any jurisdiction.
 
-### 9.5 Entire Agreement and Severability
+### 8.5 Entire Agreement and Severability
 
 The Terms of Use, together with the Privacy Policy and other documents incorporated by reference into these Terms of Use, constitute the entire agreement between you and the Service Host with respect to the subject matter of these Terms of Use, and supersede all prior or contemporaneous agreements, negotiations communications and proposals (whether oral, written or electronic) between you and the Service Host with respect to the subject matter of these Terms of Use. If any provision of the Terms of Use is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the Terms of Use will otherwise remain in full force and effect and enforceable.
 
-### 9.6 Changes to Terms of Use
+### 8.6 Changes to Terms of Use
 
 The Service Host reserves the right, at their sole discretion, to modify or replace these Terms of Use at any time, in which case the modified or updated Terms of Use will supersede prior versions. If the Service Host makes changes to these Terms of Use, the updated Terms of Use will be posted on the Site.
 
 It is your responsibility to check the Terms of Use periodically for changes. Your continued use of the Site and/or Service following the posting of any changes to the Terms of Use constitutes acceptance of those changes.
 
-### 9.7 Contacting Us
+### 8.7 Contacting Us
 
 If you have any questions or comments with respect to the Site or Service, if you are unsure whether your intended use is in line with these Terms of Use, or if you seek
 
@@ -212,8 +200,8 @@ permission for a use that does not fall within these Terms of Use, please contac
 
 If you have any questions or concerns about the collection, use, or disclosure of Personal Information as regards FRDR, please view the Privacy Policy or contact us at [privacy@frdr-dfdr.ca](mailto:privacy@frdr-dfdr.ca).
 
-### 9.8 Proprietary Rights
+### 8.8 Proprietary Rights
 
 You acknowledge and agree that the all rights, title and interest in and to the Sites, Service, any additional data added by the Service Host to the Content and any trademarks, search software, user guides, documentation and other intellectual property that is created by or on behalf the Service Host relating to the Site or Service, including the submission of Content, is owned solely by the Service Host and their licensees.
 
-Last Revised: 2021-11-23
+Last Revised: 2023-06-14
