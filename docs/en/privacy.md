@@ -1,4 +1,4 @@
-The following Privacy Policy applies to the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a> and the services available on or at the Site. The Service is offered by the New Digital Research Infrastructure Organization (NDRIO) (hereafter: the Service Host).
+The following Privacy Policy applies to the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a> and the services available on or at the Site. The Service is offered by the Digital Research Alliance of Canada (Alliance) (hereafter: the Service Host).
 
 ## Privacy Statement
 
@@ -22,7 +22,7 @@ If you do not agree with some or all of this Privacy Policy, please do not use t
 
 **Service**: The services available on or at the Site offered by the Service Host.
 
-**Service Host**: The legal entity responsible for offering the Service, being the New Digital Research Infrastructure Organization (NDRIO). Site: Federated Research Data Repository (FRDR) website, <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>
+**Service Host**: The legal entity responsible for offering the Service, being the Digital Research Alliance of Canada (Alliance). Site: Federated Research Data Repository (FRDR) website, <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>
 
 **Submitter**: An individual who publishes Content to the Service. It is anticipated that, in the majority of cases, the Submitter will be an author of the Content or associated datasets or a researcher collaborating with the author(s).
 
@@ -160,4 +160,4 @@ Should you have any questions or concerns about the collection, use, or disclosu
 
 The Service Host reserves the right to suspend use by any party (Submitter or User) if that party engages in, or is suspected of engaging in, activities that violate applicable information access and privacy laws.
 
-Last Revised: 2021-04-26
+Last Revised: 2023-06-14

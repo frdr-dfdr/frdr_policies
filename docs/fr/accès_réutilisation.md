@@ -1,7 +1,7 @@
 
 ## 1.0 Champ d’application et objectif
 
-La présente politique couvre l’accès et la réutilisation du contenu soumis au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, et les services disponibles sur le site ou à partir de celui-ci (collectivement, le service), y compris l’octroi de licences, la citation et l’attribution, ainsi que les mesures et la protection de confidentialité. L’accès et la réutilisation du contenu provenant des fichiers de métadonnées de dépôts indépendants pouvant être découverts en effectuant une recherche sur le site sont régis par les conditions de licence du contenu du dépôt original. Consultez la Politique en matière de moissonnage de métadonnées pour des précisions sur les protocoles de moissonnage de métadonnées du service et les activités associées à la recherche et à la découverte de dépôts de données indépendants.
+La présente politique couvre l’accès et la réutilisation du contenu soumis au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, et les services disponibles sur le site ou à partir de celui-ci (collectivement, le service), y compris l’octroi de licences, la citation et l’attribution, ainsi que les mesures et la protection de confidentialité. L’accès et la réutilisation du contenu provenant des fichiers de métadonnées de dépôts indépendants pouvant être découverts en effectuant une recherche sur le site sont régis par les conditions de licence du contenu du dépôt original.
 
 La présente politique devrait être consultée parallèlement aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), [à la politique de confidentialité](/policies/fr/confidentialité/), au [glossaire terminologique](/policies/fr/glossaire/) et à toute autre politique pertinente.
 
@@ -39,5 +39,5 @@ Des informations sur les utilisateurs et les déposants du service peuvent être
 
 La présente politique entre en vigueur à la date de son adoption. Elle sera révisée par le comité de pilotage du DFDR tous les deux ans ou de manière ponctuelle au besoin.
 
-Dernière révision : 2020-12-11
+Dernière révision : 2023-06-12
 

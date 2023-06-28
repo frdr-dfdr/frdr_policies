@@ -20,7 +20,7 @@ On entend par:
 
 **Service**, les services disponibles dans le site proposés par l’hébergeur du service.
 
-**Hébergeur du service**, l’entité juridique chargée d’offrir le service, soit la Nouvelle organisation d’infrastructure de recherche numérique (NOIRN).
+**Hébergeur du service**, l’entité juridique responsable de l’offre du Service, à savoir la Alliance de recherche numérique du Canada (Alliance).
 
 **Site**, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse [https://www.frdr-dfdr.ca/repo/?locale=fr](https://www.frdr-dfdr.ca/repo/?locale=fr)
 
@@ -140,31 +140,19 @@ Toutes les demandes de retrait temporaire ou permanent de l’accès public ou d
 
 Bien que l’hébergeur du service examine chaque demande de modification, de retrait ou de suppression de contenu du service, celui-ci n’est pas tenu d’approuver ces demandes. Lorsque l’hébergeur du service approuve une telle demande, il en avisera promptement le déposant.
 
-## 7.0 Métadonnées
-
-Le service recueillera des métadonnées accessibles au public qui seront distribuées dans de multiples plateformes et dépôts canadiens.
-
-* Les curateurs veilleront à ce que les métadonnées recueillies soient conformes aux pratiques exemplaires et aux normes reconnues à l’échelle internationale.
-
-* Le Service ne transférera ni n’ingérera de données de recherche dans le cadre de ce processus, à l’exception des fichiers géospatiaux disponibles à partir des jeux de données ouvertes qui sont téléchargés pour fournir un aperçu géospatial du fichier dans le DFDR. Si les données sont librement accessibles, les utilisateurs pourront y accéder à partir du dépôt source.
-
-* Les métadonnées du service peuvent être réutilisées librement dans le cadre de [l'affectation du domaine public Creative Commons (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
-
-* Sauf autorisation contraire en vertu des présentes conditions d’utilisation, notamment la section 2.0 ci-dessus, le téléchargement en bloc d’adresses électroniques ou d’autres coordonnées provenant du service n’est pas autorisé. 
-
-## 8.0 Protection de la vie privée
+## 7.0 Protection de la vie privée
 
 L’hébergeur du service respecte la vie privée des utilisateurs et des déposants et ne recueillera, n’utilisera et ne divulguera de renseignements personnels qu’en conformité avec la politique de confidentialité du DFDR, qui fait partie des présentes conditions d’utilisation. L’hébergeur du service incite tous les utilisateurs et les déposants à examiner la politique de confidentialité et à s’en servir pour prendre des décisions éclairées.
 
-## 9.0 Dispositions générales
+## 8.0 Dispositions générales
 
-### 9.1 Suspension et résiliation
+### 8.1 Suspension et résiliation
 
 L’hébergeur du service se réserve le droit de suspendre immédiatement et sans préavis l’accès au site ou au service et l’utilisation de ceux-par toute personne (déposant ou utilisateur) lorsque celle-ci participe ou est soupçonnée de participer à des activités qui contreviennent aux lois applicables ou qui ne sont pas conformes aux présentes conditions d’utilisation.
 
 L’hébergeur du service peut, à sa seule discrétion, accorder un délai de 15 jours pour remédier aux activités qui contreviennent aux présentes conditions d’utilisation ou les faire cesser. Si l’hébergeur du service accorde une période de remédiation et que l’on ne remédie pas aux activités contrevenantes ou qu’on n’y met pas fin au cours de ladite période, ou si l’hébergeur du service détermine que l’on ne peut remédier à la contravention des présentes conditions d’utilisation, votre compte ou votre accès au site et au service sera résilié.
 
-### 9.2 Avis de non-responsabilité
+### 8.2 Avis de non-responsabilité
 
 Le site, le service et le contenu sont mis « TELS QUELS » à la disposition des déposants et des utilisateurs. Vous reconnaissez et convenez que l’utilisation que vous faites du site, du service et du contenu est à vos risques.
 
@@ -178,7 +166,7 @@ L’hébergeur du service ne saurait déclarer ou garantir (ni prendre d’engag
 
 Sauf dans les cas prévus aux présentes et dans la mesure où la loi le permet, l’hébergeur du service se dégage de toute déclaration, garantie ou condition relative au site, au service ou au contenu, qu’elle soit expresse, implicite, légale ou autre ou découle de la poursuite d’activités commerciales, notamment les garanties de titre, d’absence de contrefaçon, de qualité, de rendement, de compatibilité, de qualité marchande ou de réponse à une fin particulière. L’hébergeur du service ne saurait être tenu responsable et n’assume aucune responsabilité en ce qui a trait à tout dommage à votre équipement, à vos données ou à vos autres biens en raison de votre accès au site ou aux services, de votre utilisation de ceux-ci, de votre navigation dans ceux-ci ou de votre téléchargement de tout contenu ou de tout autre matériel, ou de votre incapacité à effectuer l’une ou l’autre des actions ci-dessus. 
 
-### 9.3 Responsabilité et indemnisation
+### 8.3 Responsabilité et indemnisation
 
 Dans la mesure où la loi ne l’interdit pas, l’hébergeur du service ne saurait être responsable de quelque dommage que ce soit, notamment les dommages directs, indirects, accessoires, punitifs, spéciaux ou exemplaires découlant de ce qui suit :
 
@@ -194,28 +182,28 @@ Il s’agit d’une limitation complète de la responsabilité qui s’applique 
 
 Vous êtes tenu(e) d’indemniser et de dégager de toute responsabilité l’hébergeur du service, et de prendre en charge sa défense, en cas de réclamation, de demande, d’action, de perte, de frais, de responsabilité ou de dommages, notamment les frais juridiques raisonnables et les frais en matière d’enquête et de règlement, découlant (i) de l’utilisation ou la mauvaise utilisation du site ou du service; (ii) de votre accès au site, de votre utilisation des services, de l’utilisation du contenu ou d’une contravention aux présentes conditions d’utilisation; (iii) de tout préjudice, du décès ou de dommages matériels occasionnés directement ou indirectement par vous; (iv) de la violation, par vous ou par un tiers utilisant votre compte, de toute propriété intellectuelle ou autre droit d’un tiers de quelque manière que ce soit relativement aux conditions d’utilisation, au site, au service ou au contenu. 
 
-### 9.4 Règlement des différends
+### 8.4 Règlement des différends
 
 Les présentes conditions d’utilisation, votre utilisation du site et du service et tous les différends qui en découlent relativement aux présentes sont exclusivement régis et interprétés conformément aux lois de l’Ontario et aux lois fédérales du Canada applicables en Ontario, sans égard aux conflits de principes de droit. Vous convenez que, même s’il est disponible dans divers territoires de compétence, le site et le service sont réputés être situés uniquement dans la province de l’Ontario, au Canada. En outre, le site et le service sont réputés être de nature passive et ne sauraient favoriser une compétence personnelle sur l’hébergeur du service dans des territoires de compétences autres que la province de l’Ontario. Les parties se soumettent irrévocablement à la compétence exclusive des tribunaux de la province de l’Ontario pour toute action ou procédure découlant de l’application des présentes conditions d’utilisation. Toutefois, vous convenez que rien dans les présentes ne saurait empêcher l’hébergeur du service de demander des recours injonctifs ou d’autres mesures judiciaires urgentes dans quelque territoire de compétence que ce soit.
 
-### 9.5 Intégralité de l’entente et divisibilité
+### 8.5 Intégralité de l’entente et divisibilité
 
 Les présentes conditions d’utilisation, ainsi que la politique de confidentialité et les autres documents incorporés par renvoi dans les présentes, constituent l’intégralité de l’entente conclue entre vous et l’hébergeur du service en ce qui a trait à l’objet des présentes et remplacent toutes les ententes, négociations, communications et propositions (verbales, écrites ou électroniques) antérieures ou existantes entre vous et l’hébergeur du service en ce qui a trait à l’objet des présentes.
 
-### 9.6 Modification des conditions d’utilisation
+### 8.6 Modification des conditions d’utilisation
 
 L’hébergeur du service se réserve le droit, à sa seule discrétion, de modifier ou de remplacer les présentes conditions d’utilisation à tout moment, auquel cas les conditions d’utilisation modifiées ou mises à jour remplaceront les versions précédentes. Si l’hébergeur du service apporte des modifications aux présentes, les conditions d’utilisation mises à jour seront affichées sur le site.
 
 Il vous incombe de vérifier périodiquement les conditions d’utilisation au cas où des modifications y auraient été apportées. Votre utilisation continue du site ou du service à la suite de l’affichage de modifications aux conditions d’utilisation constitue une acceptation de ces modifications.
 
-### 9.7 Pour nous joindre
+### 8.7 Pour nous joindre
 
 Si vous avez des questions ou des commentaires au sujet du site ou du service, si vous n’êtes pas certain(e) que votre utilisation prévue est conforme aux présentes conditions d’utilisation ou si vous demandez l’autorisation pour une utilisation qui sort du cadre des présentes conditions d’utilisation, veuillez communiquer avec nous au [support@frdr-dfdr.ca](mailto:support@frdr-dfdr.ca).
 
 Si vous avez des questions ou des préoccupations au sujet de la collecte, de l’utilisation ou de la divulgation de renseignements personnels concernant le DFDR, veuillez consulter la politique sur la protection de la vie privée ou communiquer avec nous au [privacy@frdr-dfdr.ca](mailto:privacy@frdr-dfdr.ca).
 
-### 9.8 Droits patrimoniaux
+### 8.8 Droits patrimoniaux
 
 Vous reconnaissez et acceptez que tous les droits, titres et intérêts relatifs aux sites, au service, à toutes les données supplémentaires ajoutées par l’hébergeur du service au contenu et à tous marque de commerce, logiciel de recherche, guide d’utilisateur, documentation et autres droits de propriété intellectuelle créés par ou pour le compte de l’hébergeur du service concernant le site ou le service, notamment la soumission du contenu, demeurent la propriété exclusive de l’hébergeur du service et de ses titulaires de licence.
 
-Derrière révision: 2021-11-23
+Derrière révision: 2023-06-14

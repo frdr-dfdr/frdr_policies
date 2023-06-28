@@ -1,7 +1,7 @@
 
 ## 1.0 Scope & Purpose
 
-This policy covers the access and reuse of Content submitted to the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, and the services available on or at the Site (taken together, the Service), including licensing, citation and attribution, and metrics and privacy. The access and reuse of Content from the metadata records of third-party repositories that are discoverable by searching the Site are governed by the license terms for the Content at the source repository. See the [Metadata Harvesting Policy](/policies/en/metadata_harvesting/) for complete information about the Service’s metadata harvesting protocols and activities associated with the search and discovery of third-party data repositories.
+This policy covers the access and reuse of Content submitted to the Federated Research Data Repository (FRDR) website (the Site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, and the services available on or at the Site (taken together, the Service), including licensing, citation and attribution, and metrics and privacy. The access and reuse of Content from the metadata records of third-party repositories that are discoverable by searching the Site are governed by the license terms for the Content at the source repository.
 
 This policy should be consulted in accordance with the [Terms of Use](/policies/en/terms_of_use/), [Privacy Policy](/policies/en/privacy/), the [Glossary of Terms](/policies/en/glossary/), and any other relevant policies.
 
@@ -39,5 +39,5 @@ Information about Users of and Submitters to the Service may be collected. See t
 
 This Policy enters into force on the date of its adoption. It will be reviewed by the FRDR Steering Committee every two years or at any time, as required.
 
-Last Revised: 2020-12-11
+Last Revised: 2023-06-12
 

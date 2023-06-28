@@ -10,7 +10,7 @@
 
 **Service**: The services available on or at the Site offered by the Service Host.
 
-**Service Host**: The legal entity responsible for offering the Service, being the New Digital Research Infrastructure Organization (NDRIO).
+**Service Host**: The legal entity responsible for offering the Service, being the Digital Research Alliance of Canada (Alliance).
 
 **Site**: Federated Research Data Repository (FRDR) website, https://www.frdr-dfdr.ca/
 
@@ -18,4 +18,4 @@
 
 **User**: An individual who makes use of the Service by either browsing the Site or downloading Content.
 
-*Last Revised: 2021-04-26*
+*Last Revised: 2023-06-12*
