@@ -5,11 +5,21 @@ These Terms of Use form a contract between the Service Host and you, the User or
 If you are not of the age of majority in your place of residence, do not agree with these Terms of Use or otherwise do not have the authority to enter into these Terms of Use, you must not access the Site or Service.
 
 ## 1.0 Definitions
+**Academic Organization**: An organization or entity involved in the conduct of academic research, such as a peer-reviewed scholarly journal. A Submitter may designate an Academic Organization involved in External Review of the Submitter’s Content by delegating to the Academic Organization the ability to assign External Reviewer(s) Content for External Review.
+
+**Academic Organization Staff Member**: An individual, acting in their capacity as a staff member of an Academic Organization designated by the Submitter, with the ability to assign one or more External Reviewers to Content for External Review.
+
 **Collaborators**: Submitters may designate other FRDR users as Collaborators on a submission. Collaborators will be able to edit Content prior to publication.
 
 **Content**: Data and associated material (e.g., metadata records, software code, ReadMe text, etc.) uploaded to the Service by Submitters.
 
 **Curator**: An individual who has responsibility for managing a set of Content in the Service. This may include but is not limited to making acceptance decisions on submission of Content, auditing and improving metadata, and migrating the Content if necessary.
+
+**External Review**: Examination of Content by one (or more) individual(s) who is/are not involved in the Creation of the content. 
+
+**External Reviewer**: An individual assigned by the Submitter, or by a staff member of an academic publication designated by the Submitter, to conduct External Review. 
+
+**External Review Feature**: The feature within the FRDR service with which a Submitter may assign one or more External Reviewer(s) to Content for External Review, or with which the Submitter may designate an Academic Organization the ability to assign External Reviewers to Content for External Review. 
 
 **FRDR**: Federated Research Data Repository
 
@@ -64,6 +74,10 @@ All Submitters agree to the following:
 * The Submitter acknowledges that they are required to create an account with Globus in order to submit Content to the Service, which is subject to the Globus [Terms of Service](https://www.globus.org/legal/terms) and [Privacy Policy](https://www.globus.org/legal/privacy).
 
 * The Submitter is solely responsible for ensuring that Content is suitable for open dissemination, and that it complies with these Terms of Use, the FRDR Collections Development Policy, any relevant research ethics policies or approvals, any relevant institutional policies or obligations, and applicable laws.
+
+* Submitters may choose to use the External Review Feature provided by the Service. Content will be placed under embargo and the Submitter may assign one or more External Reviewer(s) to the Content, or designate an Academic Organization the ability to assign one or more External Reviewer(s) to the Content,ahead of public release.
+
+* When using the External Review Feature, the Submitter is solely responsible for any decisions or actions regarding access to Content by External Reviewers designated by the Submitter or designated by Academic Organization Staff Person(s) acting on behalf of Academic Organization(s) designated by the Submitter. By using the External Review feature, the Submitter acknowledges and agrees that any loss or harm suffered as a result of actions or decisions made by an External Reviewer is the sole responsibility of the External Reviewer and not the Service. The Service does not assume any liability or responsibility for the actions, decisions, or content provided by External Reviewers. The Submitter uses the External Review feature at their own risk. By using the External Review Feature, the Submitter assumes all risks associated with the use of the feature and agrees to release the Service, its affiliates, and personnel from any claims, damages, or losses arising out of or in connection with External Review.
 
 * In addition to the above, the Submitter represents, warrants and covenants, and can demonstrate to the Service Host’s full satisfaction upon request, that:
 
@@ -204,4 +218,4 @@ If you have any questions or concerns about the collection, use, or disclosure o
 
 You acknowledge and agree that the all rights, title and interest in and to the Sites, Service, any additional data added by the Service Host to the Content and any trademarks, search software, user guides, documentation and other intellectual property that is created by or on behalf the Service Host relating to the Site or Service, including the submission of Content, is owned solely by the Service Host and their licensees.
 
-Last Revised: 2023-06-14
+Last Revised: 2023-06-17

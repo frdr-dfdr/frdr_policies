@@ -14,17 +14,27 @@ On entend par:
 
 **Curateur**, la personne chargée de gérer un ensemble de contenu dans le service. Cela peut notamment comprendre la prise de décisions quant à l’acceptation de la présentation du contenu, la vérification et l’amélioration des métadonnées, et la migration du contenu, au besoin.
 
+**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des jeux de données connexes ou un chercheur qui collaborera avec les auteurs.
+
 **DFDR**, le Dépôt fédéré de données de recherche.
+
+**Évaluation externe**, Évaluation du contenu par une ou plusieurs personnes ne participant pas à la création du contenu.
+
+**Évaluateur externe**, Personne chargée par le déposant, ou par un membre du personnel d’une publication universitaire désigné par le déposant, de mener une évaluation externe.
+
+**Fonction d’évaluation externe**, Fonction du service du DFDR grâce à laquelle un déposant peut affecter un ou plusieurs évaluateurs externes au contenu destiné à une évaluation externe, ou grâce à laquelle le déposant peut désigner un organisme universitaire habilitée à affecter des évaluateurs externes pour l’évaluation externe du contenu.
+
+**Hébergeur du service**, l’entité juridique responsable de l’offre du Service, à savoir la Alliance de recherche numérique du Canada (Alliance).
+
+**Membre du personnel de l’organisme universitaire**, Personne, agissant en sa qualité de membre du personnel d’un organisme universitaire désigné par le déposant, ayant la capacité d’affecter un ou plusieurs évaluateurs externes au contenu destiné à une évaluation externe.
+
+**Organisme universitaire**, Un organisme ou une entité participant à des travaux de recherche universitaires tels qu’une revue scientifique évaluée par les pairs. Un déposant peut déléguer à un organisme universitaire participant à l’évaluation externe de son contenu la capacité de désigner un ou plusieurs évaluateurs externes pour l’évaluation externe du contenu.
 
 **Renseignements personnels**, les renseignements consignés qui identifient une personne.
 
 **Service**, les services disponibles dans le site proposés par l’hébergeur du service.
 
-**Hébergeur du service**, l’entité juridique responsable de l’offre du Service, à savoir la Alliance de recherche numérique du Canada (Alliance).
-
 **Site**, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse [https://www.frdr-dfdr.ca/repo/?locale=fr](https://www.frdr-dfdr.ca/repo/?locale=fr)
-
-**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des jeux de données connexes ou un chercheur qui collaborera avec les auteurs.
 
 **Utilisateur**, une personne qui utilise le service en naviguant dans le site ou en téléchargeant du contenu.
 
@@ -69,6 +79,10 @@ Le déposant convient de ce qui suit :
 * Le déposant reconnaît qu’il est tenus de créer un compte auprès de Globus afin de soumettre du contenu au service, qui est assujetti [aux conditions d'utilisation](https://www.globus.org/legal/terms) et à la [politique de confidentialité](https://www.globus.org/legal/privacy) de Globus.
 
 * Il incombe uniquement au déposant de s’assurer que le contenu convient à la diffusion publique et qu’il respecte les présentes conditions d’utilisation, la politique de développement des collections du DFDR, toutes les politiques ou approbations pertinentes en matière d'éthique de la recherche, toutes les politiques ou obligations institutionnelles pertinentes et les lois applicables.
+
+* Les déposants peuvent choisir d’utiliser la fonction d’évaluation externe fournie par le Service. Le contenu sera placé à un embargo, et le déposant pourra affecter un ou plusieurs évaluateurs externes au contenu, ou désigner un organisme universitaire habilité à affecter un ou plusieurs évaluateurs externes au contenu, avant qu’il ne soit rendu public.
+
+* Lorsqu’il utilise la fonction d’évaluation externe, le déposant est seul responsable de toute décision ou action concernant l’accès au contenu par les évaluateurs externes qu’il a désignés ou ceux désignés par le ou les membres du personnel de l’organisme universitaire agissant pour le compte de l’organisme universitaire désigné par le déposant. En utilisant la fonction d’évaluation externe, le déposant reconnaît et accepte que toute perte ou tout préjudice subi à la suite de mesures ou de décisions prises par un évaluateur externe relève de la seule responsabilité de l’évaluateur externe, et non du Service. Le Service n’assume aucune responsabilité quant aux mesures, décisions ou contenus fournis par les évaluateurs externes. Le déposant utilise la fonction d’évaluation externe à ses propres risques. En utilisant la fonction d’évaluation externe, le déposant assume tous les risques y afférents et décharge le Service, ses filiales et son personnel de toute responsabilité liée à l’évaluation externe, notamment les réclamations, les dommages et les pertes.
 
 * Outre ce qui précède, le déposant déclare, garantit et peut démontrer à la pleine satisfaction de l’hébergeur du service, sur demande :
 
@@ -206,4 +220,4 @@ Si vous avez des questions ou des préoccupations au sujet de la collecte, de l�
 
 Vous reconnaissez et acceptez que tous les droits, titres et intérêts relatifs aux sites, au service, à toutes les données supplémentaires ajoutées par l’hébergeur du service au contenu et à tous marque de commerce, logiciel de recherche, guide d’utilisateur, documentation et autres droits de propriété intellectuelle créés par ou pour le compte de l’hébergeur du service concernant le site ou le service, notamment la soumission du contenu, demeurent la propriété exclusive de l’hébergeur du service et de ses titulaires de licence.
 
-Derrière révision: 2023-06-14
+Derrière révision: 2023-06-17
