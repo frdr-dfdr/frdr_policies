@@ -30,6 +30,6 @@ Should a User identify content erroneously indexed by the Service, the User shou
 
 ## 6.0 Implementation and Revision
 
-This Policy enters into force on the date of its adoption. It will be reviewed by the FRDR Steering Committee every two years or at any time, as required.
+Policy enters into force on the date of its adoption. It will be reviewed every two years or at any time, as required.
 
-Last Revised: 2020-12-11
+Last Revised: 2023-11-28

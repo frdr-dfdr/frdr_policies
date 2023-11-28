@@ -23,6 +23,6 @@ Content with sensitivities, defined as data or metadata where the release may ca
 
 ## 5.0 Implementation and Revision
 
-This Policy enters into force on the date of its adoption. It will be reviewed by the FRDR Steering Committee every two years or at any time, as required.
+This Policy enters into force on the date of its adoption. It will be reviewed every two years or at any time, as required.
 
-Last Revised: 2020-12-11
+Last Revised: 2023-11-28

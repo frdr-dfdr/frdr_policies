@@ -48,6 +48,6 @@ Submitters and their licensors retain all ownership rights to their Content. By 
 
 ## 7.0 Implementation and Revision
 
-This Policy enters into force on the date of its adoption. It will be reviewed by the FRDR Steering Committee every two years or at any time, as required.
+Policy enters into force on the date of its adoption. It will be reviewed every two years or at any time, as required.
 
-Last Revised: 2021-05-18
+Last Revised: 2023-11-28
