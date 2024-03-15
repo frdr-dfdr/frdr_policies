@@ -36,7 +36,7 @@ On entend par :
 
 ## 1.0 Collecte de renseignements personnels
 
-La plupart des services liés au DFDR ne nécessitent aucune forme d’inscription, ce qui vous permet de visiter et de parcourir le site et le service sans révéler votre identité à l’hébergeur du service. Cependant, certains aspects du site et du service peuvent nécessiter l’inscription, notamment lorsqu’un utilisateur souhaite télécharger plusieurs fichiers de données simultanément, ou des jeux de données dont le volume dépasse une taille de fichier déterminée, à partir du service. Dans de telles situations, si vous choisissez de ne pas divulguer les renseignements personnels demandés par l’intermédiaire du site ou du service, il se peut que vous ne puissiez pas accéder à certaines parties du site ou du service, ou que l’hébergeur du service ne puisse pas répondre à votre demande.
+La plupart des services liés au DFDR ne nécessitent aucune forme d’inscription, ce qui vous permet de visiter et de parcourir le site et le service sans révéler votre identité à l’hébergeur du service. Cependant, certains aspects du site et du service peuvent nécessiter l’inscription ou la divulgation de coordonnées (ex. : adresse courriel), notamment lorsqu’une utilisatrice ou un utilisateur souhaite télécharger plusieurs fichiers de données simultanément, ou des jeux de données dont le volume dépasse une taille de fichier déterminée, à partir du service. Dans de telles situations, si vous choisissez de ne pas divulguer les renseignements personnels demandés par l’intermédiaire du site ou du service, il se peut que vous ne puissiez pas accéder à certaines parties du site ou du service, ou que l’hébergeur du service ne puisse pas répondre à votre demande.
 
 Conformément aux lois applicables en matière de protection de la vie privée, l’hébergeur du service ne recueillera des renseignements personnels que dans le but de fournir le service aux utilisateurs et aux déposants ou de communiquer avec les utilisateurs et les déposants au sujet de demandes de renseignements ou de demandes d’assistance technique ou de clients.
 
@@ -60,7 +60,7 @@ Conformément aux lois sur la protection des données et sur la protection de la
 
 * ajout de collaborateurs à une soumission
 
-* réponse aux demandes des utilisateurs et des déposants, notamment les demandes de service à la clientèle et de soutien technique
+* réponse aux utilisatrices et utilisateurs et aux déposantes et déposants, notamment aux demandes de service à la clientèle, de soutien technique et autres
 
 * administration de la rétroaction volontaire reçue des utilisateurs
 
@@ -166,4 +166,4 @@ Si vous avez des questions ou des préoccupations au sujet de la collecte, de l�
 
 L’hébergeur du service se réserve le droit de suspendre l’utilisation par toute partie (déposant ou utilisateur) du site ou du service si celle-ci se livre ou est soupçonnée de se livrer à des activités qui violent les lois applicables en matière d’accès à l’information et de protection de la vie privée.
 
-Dernière mise à jour : 2023-06-14
+Dernière mise à jour : 2024-03-27

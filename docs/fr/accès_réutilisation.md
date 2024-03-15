@@ -15,7 +15,7 @@ En vertu de la [Politique en matière de soumission de données](/policies/fr/so
 
 ## 3.0 Accès
 
-La majorité du contenu sera immédiatement disponible pour le téléchargement via le navigateur pour tous les utilisateurs sans nécessiter d’inscription. Dans certains cas, les fichiers volumineux seront accessibles uniquement via Globus Transfer nécessitant une inscription ainsi que le téléchargement et l’installation d’un logiciel gratuit pour s’en servir.
+La majorité du contenu sera immédiatement disponible pour le téléchargement via le navigateur pour tous les utilisateurs sans nécessiter d’inscription. Pour télécharger plusieurs fichiers à la fois, l’utilisatrice ou l’utilisateur peut générer un fichier ZIP contenant une copie des fichiers de données de son choix. Le service lui enverra, à son adresse courriel, un lien de téléchargement. Les fichiers ZIP générés par les utilisatrices ou utilisateurs et les adresses courriel seront régulièrement supprimés par le service. Dans certains cas, les fichiers volumineux seront accessibles uniquement via Globus Transfer nécessitant une inscription ainsi que le téléchargement et l’installation d’un logiciel gratuit pour s’en servir.
 
 ## 4.0 Réutilisation
 
@@ -39,5 +39,5 @@ Des informations sur les utilisateurs et les déposants du service peuvent être
 
 La présente politique entre en vigueur à la date de son adoption. Elle sera révisée tous les deux ans ou de manière ponctuelle au besoin.
 
-Dernière révision : 2023-11-28
+Dernière révision : 2024-03-27
 
