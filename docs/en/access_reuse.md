@@ -15,7 +15,7 @@ As outlined in the [Data Submission Policy](/policies/en/data_submission/), emba
 
 ## 3.0 Access
 
-Most Content will be immediately available for download in the browser by any User without registration. In some cases, large files may only be accessible via Globus Transfer, which requires registration and a free software download and installation to use.
+Most Content will be immediately available for download in the browser by any User without registration. To download many files at once, a User may generate a Zip archive with a copy of the data files selected by the User. The Service will email a link to download the Zip archive to a valid User email address. User-generated Zip archives and email addresses will be purged regularly by the Service. In some cases, large files may only be accessible via Globus Transfer, which requires registration and a free software download and installation to use.
 
 ## 4.0 Reuse
 
@@ -39,5 +39,5 @@ Information about Users of and Submitters to the Service may be collected. See t
 
 This Policy enters into force on the date of its adoption. It will be reviewed every two years or at any time, as required.
 
-Last Revised: 2023-11-28
+Last Revised: 2024-03-27
 

@@ -30,7 +30,7 @@ If you do not agree with some or all of this Privacy Policy, please do not use t
 
 ## 1.0 Collection of Personal Information
 
-Most of the services relating to FRDR do not require any form of registration, allowing you to visit and browse the Site and Service without telling the Service Host who you are. However, some aspects of the Site and Service may require registration, including where a User wishes to download multiple data files concurrently, or datasets over a defined file size, from the Service. In these situations, if you choose to withhold any Personal Information requested via the Site or Service, it may not be possible for you to gain access to certain parts of the Site or Service, or for the Service Host to respond to your query.
+Most of the services relating to FRDR do not require any form of registration, allowing you to visit and browse the Site and Service without telling the Service Host who you are. However, some aspects of the Site and Service may require registration and/or disclosure of contact information (e.g., email address), including where a User wishes to download multiple data files concurrently, or datasets over a defined file size, from the Service. In these situations, if you choose to withhold any Personal Information requested via the Site or Service, it may not be possible for you to gain access to certain parts of the Site or Service, or for the Service Host to respond to your query.
 
 In keeping with applicable privacy laws, the Service Host will only collect Personal Information for the purpose of providing the Service to Users and Submitters or to communicate with Users and Submitters regarding inquiries for information or customer or technical service requests.
 
@@ -54,7 +54,7 @@ In keeping with data protection and privacy law, the Service Host will only use 
 
 * adding Collaborators to a submission
 
-* responding to inquiries from Users and Submitters, including customer service and technical support requests
+* responding to Users and Submitters, including customer service, technical support, and other requests
 
 * administration of voluntary feedback received from Users
 
@@ -160,4 +160,4 @@ Should you have any questions or concerns about the collection, use, or disclosu
 
 The Service Host reserves the right to suspend use by any party (Submitter or User) if that party engages in, or is suspected of engaging in, activities that violate applicable information access and privacy laws.
 
-Last Revised: 2023-06-14
+Last Revised: 2024-03-27
