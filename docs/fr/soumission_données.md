@@ -25,7 +25,9 @@ Les curateurs auront recours aux critères suivants pour les guider dans leur é
 
 ## 4.0 Responsabilités
 
-Le déposant a la responsabilité de revoir les conditions d’utilisation et toute autre politique pertinente, y compris les politiques de son établissement ainsi que de s’assurer que le contenu est conforme à ces politiques et convient à une diffusion ouverte. Les auteurs doivent participer au processus de curation, y compris répondre aux demandes de renseignements des curateurs et curatrices sur le contenu. Les auteurs doivent faire des efforts de bonne foi, s’il y a lieu, pour améliorer la communication conformément aux directives des curateurs et curatrices. Les améliorations proposées pourraient comprendre la détermination des options de licence les moins restrictives ou d’autres modifications à la présentation pour rendre le contenu plus ÉQUITABLE [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
+Le déposant a la responsabilité de revoir les conditions d’utilisation et toute autre politique pertinente, y compris les politiques de son établissement ainsi que de s’assurer que le contenu est conforme à ces politiques et convient à une diffusion ouverte. La déposante ou le déposant est responsable de compléter son ou ses dépôts dans le DFDR. Tout dépôt restant inachevé ou incomplet pendant plus d’un an pourra être supprimé après un (1) an d’inactivité.
+
+Les auteurs doivent participer au processus de curation, y compris répondre aux demandes de renseignements des curateurs et curatrices sur le contenu. Les auteurs doivent faire des efforts de bonne foi, s’il y a lieu, pour améliorer la communication conformément aux directives des curateurs et curatrices. Les améliorations proposées pourraient comprendre la détermination des options de licence les moins restrictives ou d’autres modifications à la présentation pour rendre le contenu plus ÉQUITABLE [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
 
 Les curateurs ont la responsabilité de prendre des mesures raisonnables pour examiner et approuver le contenu afin qu’il soit conforme à la politique en matière de création de collections et aux normes de qualité des données décrites précédemment. Les curateurs prendront des mesures raisonnables pour recenser les informations personnelles dans le contenu ; toutefois, les curateurs ne sont pas tenus de s’assurer que la soumission est exempte d’informations personnelles. Les déposants sont exclusivement responsables de s’assurer que le contenu est adapté à une diffusion ouverte et qu’il est conforme aux présentes conditions d’utilisation, à la politique en matière de création de collections du DFDR, aux approbations déontologiques de la recherche et aux lois applicables.
 
@@ -50,4 +52,4 @@ Les déposants et leurs concesseurs conservent tous les droits de propriété su
 
 La présente politique entre en vigueur à la date de son adoption. Elle sera révisée tous les deux ans ou de manière ponctuelle au besoin.
 
-Dernière révision : 2023-11-28
+Dernière révision : 2024-03-27
