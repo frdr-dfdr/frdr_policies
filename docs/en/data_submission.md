@@ -25,7 +25,9 @@ Curators will assess Content using the following criteria as a guide:
 
 ## 4.0 Responsibilities
 
-The Submitter is responsible for reviewing the Terms of Use and any other relevant policies, including the Submitter's own institutional policies, and ensuring that Content complies with these policies and is suitable for open dissemination. Submitters are responsible for participating in the Curation process, including responding to queries from Curators about the Content. Submitters are expected to make good faith efforts, as appropriate, to improve the submission in accordance with guidance from Curators. Such proposed improvements may include identifying the least restrictive licensing options, or other modifications to the submission to make the Content more FAIR [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
+The Submitter is responsible for reviewing the Terms of Use and any other relevant policies, including the Submitter's own institutional policies, and ensuring that Content complies with these policies and is suitable for open dissemination. The Submitter is responsible for completing their deposit(s) within FRDR. Any deposit that remains unfinished or incomplete for a period exceeding one year will be subject to deletion following one (1) year of inactivity.
+
+Submitters are responsible for participating in the Curation process, including responding to queries from Curators about the Content. Submitters are expected to make good faith efforts, as appropriate, to improve the submission in accordance with guidance from Curators. Such proposed improvements may include identifying the least restrictive licensing options, or other modifications to the submission to make the Content more FAIR [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
 
 Curators are responsible for taking reasonable steps to review and approve Content such that it adheres to the Collections Development Policy, and the data quality standards described above. Curators will take reasonable steps to identify Personal Information contained in Content; however, Curators are not responsible for ensuring that the Submission is free from Personal Information. Submitters are solely responsible for ensuring that Content is suitable for open dissemination, and that it complies with these Terms of Use, the FRDR Collections Development Policy, research ethics approvals, and applicable laws.
 
@@ -50,4 +52,4 @@ Submitters and their licensors retain all ownership rights to their Content. By 
 
 Policy enters into force on the date of its adoption. It will be reviewed every two years or at any time, as required.
 
-Last Revised: 2023-11-28
+Last Revised: 2024-03-27
