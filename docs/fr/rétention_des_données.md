@@ -1,7 +1,7 @@
 
 ## 1.0	Portée et objectif
 
-La présente politique couvre la rétention, la préservation et le déréférencement du contenu soumis au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, ainsi que les services offerts sur le site ou à partir de celui-ci (collectivement, le service). Elle emploie la terminologie établie dans le glossaire et est conforme aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), [à la politique de confidentialité](/policies/fr/confidentialité/), au [glossaire terminologique](/policies/fr/glossaire/) et à toute autre politique pertinente.
+La présente politique couvre la rétention, la préservation et le déréférencement du contenu soumis au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, ainsi que les services offerts sur le site ou à partir de celui-ci (collectivement, le service). Elle emploie la terminologie établie dans le [glossaire](/policies/fr/glossaire/) et est conforme aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), à la [politique de confidentialité](/policies/fr/confidentialité/) et à toute autre politique pertinente.
 
 
 ## 2.0	Rétention des données
