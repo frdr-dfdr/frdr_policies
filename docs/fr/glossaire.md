@@ -18,11 +18,11 @@
 
 **Hôte du service** : L’entité juridique responsable de l’offre du service, à savoir l’Alliance de recherche numérique du Canada (Alliance).
 
-**Migration** : « Processus visant à contrer l’obsolescence technologique par le transfert de ressources numériques entre différentes générations de matériel ou de logiciel informatiques. Le but de la migration est de préserver le contenu intellectuel d’objets numériques ainsi que la capacité de la clientèle à l’extraire, à le visualiser ou à autrement l’utiliser malgré l’évolution constante des technologies » (Digital Preservation Coalition).
+**Migration** : « Processus visant à contrer l’obsolescence technologique par le transfert de ressources numériques entre différentes générations de matériel ou de logiciel informatiques. Le but de la migration est de préserver le contenu intellectuel d’objets numériques ainsi que la capacité de la clientèle à l’extraire, à le visualiser ou à autrement l’utiliser malgré l’évolution constante des technologies » ([Digital Preservation Coalition](https://www.dpconline.org/handbook/glossary)).
 
 **Normalisation** : Activité par laquelle certains types d’objets numériques sont convertis en un seul et unique format de fichier non exclusif et favorisant la préservation. Par exemple, la normalisation des fichiers JPG, PNG et GIF au format TIFF.
 
-**Préservation à long terme** : « Série d’activités gérées visant à garantir un accès continu aux matériels numériques aussi longtemps que nécessaire » (Digital Preservation Coalition). Combinant politiques, stratégies et mesures, la préservation numérique vise à ce que le contenu authentifié demeure accessible au fil du temps, malgré les défaillances des supports et les évolutions technologiques (American Library Association).
+**Préservation à long terme** : « Série d’activités gérées visant à garantir un accès continu aux matériels numériques aussi longtemps que nécessaire » ([Digital Preservation Coalition](https://www.dpconline.org/handbook/glossary#D)). Combinant politiques, stratégies et mesures, la préservation numérique vise à ce que le contenu authentifié demeure accessible au fil du temps, malgré les défaillances des supports et les évolutions technologiques ([American Library Association](http://www.ala.org/alcts/resources/preserv/defdigpres0408)).
 
 **Renseignement personnel** : Tout renseignement enregistré permettant l’identification d’une personne.
 
@@ -32,7 +32,7 @@
 
 **Site** : Site Web du Dépôt fédéré de données de recherche (DFDR) – https://www.frdr-dfdr.ca/
 
-**Somme de contrôle** : Méthode de vérification de l’intégrité d’un fichier numérique habituellement utilisée pour surveiller sa fixité au fil du temps. On l’appelle souvent « empreinte numérique » parce qu’à chaque manifestation d’un fichier particulier, son algorithme produit une chaîne alphanumérique unique. Si le contenu du fichier devait être modifié de quelque façon, la somme de contrôle du fichier serait recalculée et produirait une nouvelle chaîne. C’est ce mécanisme qui permet de vérifier en continu la fixité de fichiers et de repérer les duplications. (Scholars Portal)
+**Somme de contrôle** : Méthode de vérification de l’intégrité d’un fichier numérique habituellement utilisée pour surveiller sa fixité au fil du temps. On l’appelle souvent « empreinte numérique » parce qu’à chaque manifestation d’un fichier particulier, son algorithme produit une chaîne alphanumérique unique. Si le contenu du fichier devait être modifié de quelque façon, la somme de contrôle du fichier serait recalculée et produirait une nouvelle chaîne. C’est ce mécanisme qui permet de vérifier en continu la fixité de fichiers et de repérer les duplications. ([Scholars Portal](https://learn.scholarsportal.info/all-guides/handling-digital-archives/concepts/))
 
 **Utilisateur(-trice)** : Personne qui utilise le service en naviguant sur le site ou en téléchargeant du contenu.
 
