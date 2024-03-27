@@ -19,7 +19,7 @@ nav:
         - "Politique de confidentialité": fr/confidentialité.md
         - "Politique en matière d’accès et de réutilisation": fr/accès_réutilisation.md
         - "Politique en matière de création de collections": fr/création_collections.md
-        - "Politique en matière de rétention et de suppression des données": fr/rétention_des_données.md
+        - "Politique en matière de rétention et de déréférencement des données": fr/rétention_des_données.md
         - "Politique en matière de soumission de données": fr/soumission_données.md
         - "Politique de préservation": fr/préservation.md
         - "Glossaire terminologique": fr/glossaire.md
@@ -47,7 +47,7 @@ extra:
             "Politique de confidentialité": en/privacy/
             "Politique en matière d’accès et de réutilisation": en/access_reuse/
             "Politique en matière de création de collections": en/collections_development/
-            "Politique en matière de rétention et de suppression des données": en/data_retention/
+            "Politique en matière de rétention et de déréférencement des données": en/data_retention/
             "Politique en matière de soumission de données": en/data_submission/
             "Politique de préservation": en/preservation/
             "Glossaire terminologique": en/glossary/
