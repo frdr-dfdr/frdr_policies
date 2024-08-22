@@ -293,7 +293,7 @@
                         <div class="content mt-2 row">
                             <a href="{% if '/en/' in page.canonical_url %}https://alliancecan.ca/en{% else %}https://alliancecan.ca/fr{% endif %}">
                                 <small class="d-block text-center">
-                                    © <script>document.write(new Date().getFullYear())</script>
+                                    © <script>document.write(new Date().getFullYear().toString())</script>
                                     {% if '/en/' in page.canonical_url %}Digital Research Alliance of Canada{% else %}Alliance de recherche numérique du Canada{% endif %}
                                 </small>
                             </a>
@@ -307,8 +307,8 @@
 <script>
   // Show all demo tagged divs if we are in demo environment
   if (window.location.href.indexOf("demo") != -1) {
-    var demodivs = document.getElementsByClassName("demo-text");
-    for (i = 0; i < demodivs.length; i++) {
+    const demodivs = document.getElementsByClassName("demo-text");
+    for (let i = 0; i < demodivs.length; i++) {
       demodivs[i].style.display = "inline";
     }
   }
