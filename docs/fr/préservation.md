@@ -25,10 +25,11 @@ La méthode de préservation du contenu du service est sous-tendue par les princ
 ## 5.0 Activités de préservation
 
 Dans tous les cas, le service préserve des copies des fichiers originaux publiés ainsi que les autres formes créées durant le processus de préservation dans l’optique de lutter contre l’obsolescence technologique. Le service exécute également les activités de préservation numérique suivantes :
-Suivi : L’équipe du service calcule des sommes de contrôle pour chaque fichier et les conserve. L’intégrité des fichiers est assurée en permanence au moyen de vérifications de la fixité.
-Reproduction : Les copies de préservation sont stockées à plusieurs endroits dispersés géographiquement.
-Migration : Lorsque c’est nécessaire et possible, le contenu est converti dans de nouveaux formats de fichier pour en assurer l’accessibilité en permanence.
-Préservation : Les copies de préservation du contenu sont conservées à long terme conformément à la [politique en matière de rétention et de déréférencement des données](/policies/fr/rétention_des_données/) du service. 
+
+1. Suivi : L’équipe du service calcule des sommes de contrôle pour chaque fichier et les conserve. L’intégrité des fichiers est assurée en permanence au moyen de vérifications de la fixité.
+2. Reproduction : Les copies de préservation sont stockées à plusieurs endroits dispersés géographiquement.
+3. Migration : Lorsque c’est nécessaire et possible, le contenu est converti dans de nouveaux formats de fichier pour en assurer l’accessibilité en permanence.
+4. Préservation : Les copies de préservation du contenu sont conservées à long terme conformément à la [politique en matière de rétention et de déréférencement des données](/policies/fr/rétention_des_données/) du service. 
 
 ## 6.0 Sélection et évaluation
 
