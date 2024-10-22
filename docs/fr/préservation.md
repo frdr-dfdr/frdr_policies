@@ -15,12 +15,12 @@ L’Alliance de recherche numérique du Canada appuie l’infrastructure de rech
 ## 4.0 Principes
 La méthode de préservation du contenu du service est sous-tendue par les principes suivants, qui contribuent à maintenir l’authenticité et l’accessibilité du contenu.
 
-Normes et bonnes pratiques : Les activités de préservation du service concordent avec les normes, modèles et pratiques en vigueur.
-Authenticité et intégrité : Le service met en place des stratégies de préservation, des identifiants pérennes et des mécanismes de traçabilité des documents pour assurer l’authenticité du contenu. L’intégrité est quant à elle assurée au moyen de vérifications de la fixité et par la consignation des mesures de préservation appliquées au contenu.
-Métadonnées : Le service recueille des métadonnées (de nature administrative, technique et descriptive) pour permettre la compréhension et l’utilisation du contenu.
-Accès : L’équipe du service tient un registre des jeux de données préservés qui sont confiés à des fournisseurs de service de préservation et s’efforce de donner accès à des copies de préservation sur demande. Les métadonnées descriptives sur le contenu sont conservées, même quand les données connexes sont éliminées.
-Capacité technique : Le service investit dans le matériel informatique, les logiciels et les dispositifs de stockage appropriés et s’occupe de leur maintenance pour assurer la pérennité du contenu.
-Participation de la communauté et collaboration : Le service mobilise le milieu de la préservation numérique et les parties prenantes au point de vue local, national et international.
+* Normes et bonnes pratiques : Les activités de préservation du service concordent avec les normes, modèles et pratiques en vigueur.
+* Authenticité et intégrité : Le service met en place des stratégies de préservation, des identifiants pérennes et des mécanismes de traçabilité des documents pour assurer l’authenticité du contenu. L’intégrité est quant à elle assurée au moyen de vérifications de la fixité et par la consignation des mesures de préservation appliquées au contenu.
+* Métadonnées : Le service recueille des métadonnées (de nature administrative, technique et descriptive) pour permettre la compréhension et l’utilisation du contenu.
+* Accès : L’équipe du service tient un registre des jeux de données préservés qui sont confiés à des fournisseurs de service de préservation et s’efforce de donner accès à des copies de préservation sur demande. Les métadonnées descriptives sur le contenu sont conservées, même quand les données connexes sont éliminées.
+* Capacité technique : Le service investit dans le matériel informatique, les logiciels et les dispositifs de stockage appropriés et s’occupe de leur maintenance pour assurer la pérennité du contenu.
+* Participation de la communauté et collaboration : Le service mobilise le milieu de la préservation numérique et les parties prenantes au point de vue local, national et international.
 
 ## 5.0 Activités de préservation
 
