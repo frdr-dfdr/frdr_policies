@@ -1,57 +1,51 @@
 
-## 1.0 Champ d’application et objectif
- 
-La présente politique régit la préservation à long terme du contenu soumis au site Web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, et les services disponibles sur ou à partir du site (ensemble, le service). Le contenu jugé approprié pour la préservation à long terme sera traité et confié à un réseau de fournisseurs de services de préservation (FSP) engagés dans la préservation continue des données de recherche canadiennes. La présente politique accompagne la [Politique en matière de rétention et de déréférencement des données](/policies/fr/rétention_des_données/) qui régit les rôles et les responsabilités du service quant au maintien d'un accès raisonnable à tout le contenu disponible par l'intermédiaire du service.
- 
-La politique en matière de préservation a pour but d'établir que le service prendra toutes les mesures raisonnables pour s'assurer que le contenu sélectionné pour une préservation à long terme sera conservé indéfiniment et restera fiable et accessible.
- 
-La présente politique devrait être consultée parallèlement aux [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), [à la politique de confidentialité](/policies/fr/confidentialité/), au [glossaire terminologique](/policies/fr/glossaire/) et à toute autre politique pertinente.
- 
-## 2.0 Principes
- 
-### 2.1 Engagement organisationnel
+## 1.0 Portée et objectif
 
-L'Alliance de recherche numérique du Canada soutient l'infrastructure de recherche du Canada en fournissant par le DFDR une plateforme par laquelle les données de recherche peuvent être ingérées, organisées, préservées, découvertes, citées et partagées. Les stratégies de préservation numérique du service sont orientées par ce mandat afin d'assurer la pérennité du contenu consigné au service au fil du temps. Le programme de préservation numérique sera conforme aux politiques et procédures existantes du service et aux lois en vigueur en la matière.
- 
-Un élément central de la stratégie de préservation numérique du service est la création d'un réseau de préservation numérique distribué mettant l'accent sur le renforcement des capacités des établissements de mémoire et des partenaires de préservation canadiens. La préservation à long terme des données de la recherche canadienne exige le soutien et la participation d'une communauté élargie ; cette démarche est encouragée et maintenue par l'Alliance.
- 
-### 2.2 Valeurs liées à la préservation numérique
+La présente politique régit la préservation à long terme du contenu publié sur le site Web du [Dépôt fédéré de données de recherche (DFDR)](https://www.frdr-dfdr.ca) (le site) ainsi que les services qui y sont offerts (collectivement, le service). Le contenu que l’on juge se prêter à une préservation à long terme sera traité, puis confié à un réseau de fournisseurs de service de préservation se chargeant de préserver durablement les données de recherche canadiennes. 
+La Politique de préservation vise à ce que l’équipe du service prenne toutes les mesures raisonnables nécessaires pour préserver à long terme le contenu sélectionné à cette fin, et pour maintenir sa fiabilité et son accessibilité.
 
-Le service reconnaît que l'évaluation et la sélection sont des facteurs déterminants pour une gestion responsable des données de recherche. Les décisions d'évaluation sont prises conformément aux bonnes pratiques actuelles établies par la communauté de la préservation numérique.
+## 2.0 Politiques et documents connexes
 
-L'hébergeur du service reconnaît également qu'un engagement continu et significatif de la communauté est essentiel pour garantir l'accessibilité et la facilité d'utilisation de ses ressources numériques. Le service documentera et partagera, dans la mesure du possible, les politiques, les procédures et les actions de préservation numérique à des fins d'examen interne, d'examen par les pairs et de diffusion publique, dans un souci de transparence et de responsabilité.
+Il faut appliquer la présente politique en respectant les [conditions d’utilisation](/policies/fr/conditions_d'utilisation/), la [politique de confidentialité](/policies/fr/confidentialité/), le [glossaire terminologique](/policies/fr/glossaire/) du service et les autres politiques applicables du service, comme la [politique en matière de rétention et de déréférencement des données](/policies/fr/rétention_des_données/), qui régit les fonctions relatives au maintien d’un accès raisonnable à l’ensemble du contenu disponible par l’intermédiaire du service. La politique s’articule avec la planification de la préservation et les processus de l’Alliance de recherche numérique du Canada.
 
-## 3.0 Évaluation et sélection
-Tout le contenu soumis au service sera évalué en vue d'une préservation à long terme par l'hébergeur du service à l'aide d'un cadre d'évaluation élaboré pour soutenir les bonnes pratiques dans le domaine. Le contenu dont la valeur de préservation à long terme dépasse la durée de vie active du jeu de données dans le dépôt, régi par la politique en matière de rétention et de suppression des données, peut être sélectionné pour la préservation à long terme.
+## 3.0 Mandat
 
-Les déposantes et les déposants peuvent contribuer à l'évaluation et à la sélection en considérant ce qui sera nécessaire pour que d'autres puissent comprendre et reproduire leurs recherches. Elles et ils doivent s'assurer que les fichiers sont bien organisés et décrits afin de soutenir le travail des curatrices et curateurs et du coordonnatrice ou coordonnateur de la préservation, qui prendront les décisions d'évaluation au nom du service.
+L’Alliance de recherche numérique du Canada appuie l’infrastructure de recherche nationale en fournissant dans le DFDR une plateforme permettant d’importer, d’organiser, de préserver, de trouver, de citer et de diffuser des données de recherche. Le service façonne ses stratégies de préservation numérique en fonction de ce mandat afin d’assurer la pérennité du contenu qui lui est soumis au fil du temps. Le programme de préservation numérique respecte les politiques et procédures du service ainsi que les lois applicables.
 
-## 4.0 Activités de préservation
+## 4.0 Principes
+La méthode de préservation du contenu du service est sous-tendue par les principes suivants, qui contribuent à maintenir l’authenticité et l’accessibilité du contenu.
 
-Dans tous les cas, le service conservera des copies des fichiers originaux publiés, ainsi que toute autre manifestation créée au cours du traitement de préservation afin de pallier l'obsolescence technologique. Le service s'efforcera de suivre les normes internationales et les bonnes pratiques établies pour mener à bien les activités de préservation numérique suivantes :
+Normes et bonnes pratiques : Les activités de préservation du service concordent avec les normes, modèles et pratiques en vigueur.
+Authenticité et intégrité : Le service met en place des stratégies de préservation, des identifiants pérennes et des mécanismes de traçabilité des documents pour assurer l’authenticité du contenu. L’intégrité est quant à elle assurée au moyen de vérifications de la fixité et par la consignation des mesures de préservation appliquées au contenu.
+Métadonnées : Le service recueille des métadonnées (de nature administrative, technique et descriptive) pour permettre la compréhension et l’utilisation du contenu.
+Accès : L’équipe du service tient un registre des jeux de données préservés qui sont confiés à des fournisseurs de service de préservation et s’efforce de donner accès à des copies de préservation sur demande. Les métadonnées descriptives sur le contenu sont conservées, même quand les données connexes sont éliminées.
+Capacité technique : Le service investit dans le matériel informatique, les logiciels et les dispositifs de stockage appropriés et s’occupe de leur maintenance pour assurer la pérennité du contenu.
+Participation de la communauté et collaboration : Le service mobilise le milieu de la préservation numérique et les parties prenantes au point de vue local, national et international.
 
-* Surveillance : Les sommes de contrôle seront calculées pour les fichiers individuels et préservées pour assurer l'intégrité continue des fichiers.
-* Reproduction : Des copies de préservation seront stockées dans des emplacements multiples, géographiquement répartis.
-* Migration : Les fichiers de données seront transférés vers de nouveaux formats de fichiers, lorsque cela est nécessaire et possible, afin de garantir une accessibilité permanente.
-* Continuation des actions : Les copies de préservation des fichiers de données seront conservées indéfiniment.
- 
-## 5.0 Accès
+## 5.0 Activités de préservation
 
-Les métadonnées descriptives seront conservées indéfiniment pour tout le contenu, indépendamment de la disposition des données associées. Le service du DFDR tiendra un registre de tous les jeux de données préservés transférés aux fournisseurs de services de préservation et s'efforcera de donner accès aux copies de préservation sur demande.
- 
-## 6.0 Plan de succession
+Dans tous les cas, le service préserve des copies des fichiers originaux publiés ainsi que les autres formes créées durant le processus de préservation dans l’optique de lutter contre l’obsolescence technologique. Le service exécute également les activités de préservation numérique suivantes :
+Suivi : L’équipe du service calcule des sommes de contrôle pour chaque fichier et les conserve. L’intégrité des fichiers est assurée en permanence au moyen de vérifications de la fixité.
+Reproduction : Les copies de préservation sont stockées à plusieurs endroits dispersés géographiquement.
+Migration : Lorsque c’est nécessaire et possible, le contenu est converti dans de nouveaux formats de fichier pour en assurer l’accessibilité en permanence.
+Préservation : Les copies de préservation du contenu sont conservées à long terme conformément à la [politique en matière de rétention et de déréférencement des données](/policies/fr/rétention_des_données/) du service. 
 
-Le service reconnaît que la préservation de contenu numérique est un processus actif nécessitant une gestion et des ressources durables. Ainsi, des partenariats avec des établissements de mémoire et des fournisseurs de services de préservation canadiens ont été mobilisés pour assurer le stockage et la maintenance continus de tout le contenu sélectionné pour la préservation.
+## 6.0 Sélection et évaluation
 
-Les rôles et les responsabilités des établissements de mémoire et des fournisseurs de services de préservation au Canada dans le cadre du service sont susceptibles de changer et peuvent être modifiés de temps à autre.
- 
-## 7.0 Retrait
+L’hôte du service évalue le contenu publié dans le service en vue de sa préservation à long terme en se fondant sur un cadre d’orientation pensé en fonction des pratiques exemplaires du domaine. Il est possible de sélectionner du contenu pour une préservation à long terme quand cette préservation est jugée utile après la vie active du jeu de données dans le dépôt d’après la [politique en matière de rétention et de déréférencement des données](/policies/fr/rétention_des_données/).
+Les déposantes et déposants peuvent contribuer au processus d’évaluation et de sélection en réfléchissant à ce qui sera nécessaire pour comprendre et reproduire leurs travaux de recherche. Elles et ils doivent bien organiser et décrire les fichiers pour faciliter le travail des curatrices et curateurs et de la coordonnatrice ou du coordonnateur de la préservation, qui prendront les décisions au nom du service relativement à l’évaluation.
 
-Conformément à la politique en matière de rétention et de suppression des données, les éléments peuvent être retirés du stockage de préservation à la discrétion du service.
-Si un contenu est retiré pour des raisons juridiques ou éthiques, la déclaration de retrait ne contiendra aucune information susceptible de poser un risque ou un préjudice potentiel associé à la divulgation.
+## 7.0 Planification de la relève
 
-## 8.0 Application et révision
+L’équipe du service est consciente que la préservation du contenu numérique est un processus actif qui nécessite une gestion et des ressources durables. C’est pourquoi elle s’associe à des fournisseurs de service de préservation et à des établissements de mémoire canadiens pour assurer en permanence le stockage et la maintenance du contenu à préserver.
+Les fonctions et obligations de ces fournisseurs et établissements peuvent faire l’objet de modifications de temps à autre.
 
-La présente politique entre en vigueur à la date de son adoption. Elle sera révisée tous les deux ans ou de manière ponctuelle au besoin.
+## 8.0 Déréférencement et rétention des données
 
-Dernière révision : 2023-11-28
+Comme l’indique la [politique en matière de rétention et de déréférencement des données](/policies/fr/rétention_des_données/), l’équipe du service peut, à sa discrétion, déréférencer du contenu stocké.
+
+## 9.0 Application et révision
+
+La politique entre en vigueur à sa date d’adoption. Elle sera révisée tous les deux ans, ou au besoin.
+
+Dernière mise à jour : 2024-08-28
