@@ -22,7 +22,7 @@ The following principles underpin the Service’s approach to the preservation o
 * Metadata: The Service will capture and document metadata, (administrative, technical, and descriptive), so the Content can be understood and used.
 * Access: The Service will maintain a registry of all preserved datasets transferred to PSPs and will endeavour to provide access to preservation copies upon request. Descriptive metadata will be retained for all Content, regardless of the disposition of associated data.
 * Technical Capacity: The Service will invest and maintain the appropriate hardware, software, and storage to ensure the long-term viability of the Content. 
-Community Engagement and Collaboration: The Service will engage with the digital preservation community and stakeholders at the local, national, and international level.
+* Community Engagement and Collaboration: The Service will engage with the digital preservation community and stakeholders at the local, national, and international level.
 
 ## 5.0 Preservation Activities
 
