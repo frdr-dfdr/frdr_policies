@@ -38,6 +38,15 @@ extra:
     default_toc_icon: "fa-file"
 
     toc_icons:
+      "Conditions d'utilisation": "fa-clipboard-list"
+      "Politique de confidentialité": "fa-lock"
+      "Politique en matière d’accès et de réutilisation": "fa-recycle"
+      "Politique en matière de création de collections": "fa-th-large"
+      "Politique en matière de rétention et de déréférencement des données": "fa-database"
+      "Politique en matière de soumission de données": "fa-file-upload"
+      "Politique de préservation": "fa-archive"
+      "Moissonnage Métadonnées": "fa-copy"
+      "Glossaire terminologique": "fa-sort-alpha-down"
 
     toc_items:
       "Conditions d'utilisation":
@@ -181,6 +190,7 @@ extra:
             "Data Retention and Deaccession Policy": fr/rétention_des_données/
             "Data Submission Policy": fr/soumission_données/
             "Preservation Policy": fr/préservation/
+            "Metadata Harvesting": fr/moissonnage_métadonnées/
             "Glossary of Terms": fr/glossaire/
         fr:
             "Conditions d'utilisation": en/terms_of_use/
@@ -190,6 +200,7 @@ extra:
             "Politique en matière de rétention et de déréférencement des données": en/data_retention/
             "Politique en matière de soumission de données": en/data_submission/
             "Politique de préservation": en/preservation/
+            "Moissonnage Métadonnées": en/metadata_harvesting/
             "Glossaire terminologique": en/glossary/
 
 markdown_extensions:

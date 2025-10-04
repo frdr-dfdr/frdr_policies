@@ -44,6 +44,7 @@ extra:
             "Data Retention and Deaccession Policy": fr/rétention_des_données/
             "Data Submission Policy": fr/soumission_données/
             "Preservation Policy": fr/préservation/
+            "Metadata Harvesting": fr/moissonnage_métadonnées/
             "Glossary of Terms": fr/glossaire/
         fr:
             "Conditions d'utilisation": en/terms_of_use/
@@ -53,10 +54,20 @@ extra:
             "Politique en matière de rétention et de déréférencement des données": en/data_retention/
             "Politique en matière de soumission de données": en/data_submission/
             "Politique de préservation": en/preservation/
+            "Moissonnage Métadonnées": en/metadata_harvesting/
             "Glossaire terminologique": en/glossary/
     default_toc_icon: "fa-file"
 
     toc_icons:
+      "Terms of Use": "fa-clipboard-list"
+      "Privacy Policy": "fa-lock"
+      "Access and Reuse Policy": "fa-recycle"
+      "Collections Development Policy": "fa-th-large"
+      "Data Retention and Deaccession Policy": "fa-database"
+      "Data Submission Policy": "fa-file-upload"
+      "Preservation Policy": "fa-archive"
+      "Metadata Harvesting": "fa-copy"
+      "Glossary of Terms": "fa-sort-alpha-down"
 
     toc_items:
       "Terms of Use":
