@@ -1,3 +1,5 @@
+# Glossary of Terms
+
 **Appraisal**: is the process of determining whether a dataset has sufficient long-term archival value to merit acquisition, processing, and preservation.
 
 **Checksum**: a method of verifying the integrity of digital files. Checksums are commonly used for the monitoring of a file’s fixity over time. Checksums are often called a “digital fingerprint” because the checksum algorithm used provides a unique alphanumeric string for a particular manifestation of a file. If a file’s contents are modified in any way, re-calculating the file’s checksum will provide a different alphanumeric string. This allows for the continuous monitoring of fixity, as well as the identification of duplicate files. ([Scholars Portal](https://learn.scholarsportal.info/all-guides/handling-digital-archives/concepts/)).

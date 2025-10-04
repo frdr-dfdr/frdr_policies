@@ -1,0 +1,200 @@
+site_name: FRDR Documentation
+docs_dir: 'docs/fr/'
+site_dir: 'site/fr/'
+site_url: https://dev6-web-c1.frdr.ca/policies/
+plausible_domain: dev6-web-c1.frdr.ca
+theme:
+  name: mkdocs
+  language: fr
+  custom_dir: 'frdr_theme'
+  features:
+    - search.suggest
+nav:
+  - "Conditions d'utilisation": conditions_d'utilisation.md
+  - "Politique de confidentialité": confidentialité.md
+  - "Politique en matière d’accès et de réutilisation": accès_réutilisation.md
+  - "Politique en matière de création de collections": création_collections.md
+  - "Politique en matière de rétention et de déréférencement des données": rétention_des_données.md
+  - "Politique en matière de soumission de données": soumission_données.md
+  - "Politique de préservation": préservation.md
+  - "Moissonnage Métadonnées": moissonnage_métadonnées.md
+  - "Glossaire terminologique": glossaire.md
+
+extra:
+    lang: fr
+    alternate:
+        - name: English
+          link: /policies/en/
+          lang: en
+        - name: Francais
+          link: /policies/fr/
+          lang: fr
+    repo_url: https://dev6-web-c1.frdr.ca/repo
+    frdr_search_relative_url: /search
+    prefix: /policies/
+    lang_prefix: /policies/fr/
+    default_page_en: en/terms_of_use/
+    default_page_fr: fr/conditions_d'utilisation/
+    default_toc_icon: "fa-file"
+
+    toc_icons:
+
+    toc_items:
+      "Conditions d'utilisation":
+        "1.0 Définitions":
+          url: "#10-definitions"
+        "2.0 Utilisation permise du site et des services":
+          url: "#20-utilisation-permise-du-site-et-des-services"
+        "3.0 Responsabilités des déposants":
+          url: "#30-responsabilites-des-deposants"
+        "4.0 Publication du contenu":
+          url: "#40-publication-du-contenu"
+        "5.0 Responsabilités des utilisateurs":
+          url: "#50-responsabilites-des-utilisateurs"
+        "6.0 Demandes de retrait, de suppression ou de modification du contenu":
+          url: "#60-demandes-de-retrait-de-suppression-ou-de-modification-du-contenu"
+        "7.0 Protection de la vie privée":
+          url: "#70-protection-de-la-vie-privee"
+        "8.0 Dispositions générales":
+          url: "#80-dispositions-generales"
+
+      "Politique de confidentialité":
+        "Énoncé de confidentialité":
+          url: "#enonce-de-confidentialite"
+        "Définitions":
+          url: "#definitions"
+        "1.0 Collecte de renseignements personnels":
+          url: "#10-collecte-de-renseignements-personnels"
+        "2.0 Utilisation des renseignements personnels":
+          url: "#20-utilisation-des-renseignements-personnels"
+        "3.0 Divulgation de renseignements personnels":
+          url: "#30-divulgation-de-renseignements-personnels"
+        "4.0 Stockage des renseignements personnels":
+          url: "#40-stockage-des-renseignements-personnels"
+        "5.0 Sécurité des renseignements personnels":
+          url: "#50-securite-des-renseignements-personnels"
+        "6.0 Protocole en cas d’atteinte à la vie privée":
+          url: "#60-protocole-en-cas-datteinte-a-la-vie-privee"
+        "7.0 Accès aux renseignements personnels ou correction ou suppression de ceux-ci":
+          url: "#70-acces-aux-renseignements-personnels-ou-correction-ou-suppression-de-ceux-ci"
+        "8.0 Mises à jour de la présente politique de confidentialité":
+          url: "#80-mises-a-jour-de-la-presente-politique-de-confidentialite"
+        "9.0 Liens vers d’autres sites":
+          url: "#90-liens-vers-dautres-sites"
+        "Pour nous joindre":
+          url: "#pour-nous-joindre"
+
+      "Politique en matière d’accès et de réutilisation":
+        "1.0 Champ d’application et objectif":
+          url: "#10-champ-dapplication-et-objectif"
+        "2.0 Octroi de licence":
+          url: "#20-octroi-de-licence"
+        "3.0 Accès":
+          url: "#30-acces"
+        "4.0 Réutilisation":
+          url: "#40-reutilisation"
+        "5.0 Citation et attribution":
+          url: "#50-citation-et-attribution"
+        "6.0 Mesures et confidentialité":
+          url: "#60-mesures-et-confidentialite"
+        "7.0 Application et révision":
+          url: "#70-application-et-revision"
+
+      "Politique en matière de création de collections":
+        "1.0 Champ d’application et objectif":
+          url: "#10-champ-dapplication-et-objectif"
+        "2.0 Contenu acceptable":
+          url: "#20-contenu-acceptable"
+        "3.0 Formats et langage":
+          url: "#30-formats-et-langage"
+        "4.0 Contenus sensibles":
+          url: "#40-contenus-sensibles"
+        "5.0 Application et révision":
+          url: "#50-application-et-revision"
+
+      "Politique en matière de rétention et de déréférencement des données":
+        "1.0 Portée et objectif":
+          url: "#10-portee-et-objectif"
+        "2.0 Rétention des données":
+          url: "#20-retention-des-donnees"
+        "3.0 Déréférencement de jeux de données":
+          url: "#30-dereferencement-de-jeux-de-donnees"
+        "4.0 Application et révision":
+          url: "#40-application-et-revision"
+
+      "Politique en matière de soumission de données":
+        "1.0 Champ d’application et objectif":
+          url: "#10-champ-dapplication-et-objectif"
+        "2.0 Déposants admissibles":
+          url: "#20-deposants-admissibles"
+        "3.0 Modération de données":
+          url: "#30-moderation-de-donnees"
+        "4.0 Responsabilités":
+          url: "#40-responsabilites"
+        "5.0 Embargo":
+          url: "#50-embargo"
+        "6.0 Droits et propriété":
+          url: "#60-droits-et-propriete"
+        "7.0 Application et révision":
+          url: "#70-application-et-revision"
+
+      "Politique de préservation":
+        "1.0 Portée et objectif":
+          url: "#10-portee-et-objectif"
+        "2.0 Politiques et documents connexes":
+          url: "#20-politiques-et-documents-connexes"
+        "3.0 Mandat":
+          url: "#30-mandat"
+        "4.0 Principes":
+          url: "#40-principes"
+        "5.0 Activités de préservation":
+          url: "#50-activites-de-preservation"
+        "6.0 Sélection et évaluation":
+          url: "#60-selection-et-evaluation"
+        "7.0 Planification de la relève":
+          url: "#70-planification-de-la-releve"
+        "8.0 Déréférencement et rétention des donnée":
+          url: "#80-dereferencement-et-retention-des-donnees"
+        "9.0 Application et révision":
+          url: "#90-application-et-revision"
+
+      "Moissonnage Métadonnées":
+        "1.0 Champ d’application et objectif":
+          url: "#10-champ-dapplication-et-objectif"
+        "2.0 Contexte":
+          url: "#20-contexte"
+        "3.0 Moissonnage de métadonnées de dépôt":
+          url: "#30-moissonnage-de-metadonnees-de-depot"
+        "4.0 Critères de moissonnage":
+          url: "#40-criteres-de-moissonnage"
+        "5.0 Utilisation de métadonnées moissonnées":
+          url: "#50-utilisation-de-metadonnees-moissonnees"
+        "6.0 Application et révision":
+          url: "#60-application-et-revision"
+
+    language_map:
+        en:
+            "Terms of Use": fr/conditions_d'utilisation/
+            "Privacy Policy": fr/confidentialité/
+            "Access and Reuse Policy": fr/accès_réutilisation/
+            "Collections Development Policy": fr/création_collections/
+            "Data Retention and Deaccession Policy": fr/rétention_des_données/
+            "Data Submission Policy": fr/soumission_données/
+            "Preservation Policy": fr/préservation/
+            "Glossary of Terms": fr/glossaire/
+        fr:
+            "Conditions d'utilisation": en/terms_of_use/
+            "Politique de confidentialité": en/privacy/
+            "Politique en matière d’accès et de réutilisation": en/access_reuse/
+            "Politique en matière de création de collections": en/collections_development/
+            "Politique en matière de rétention et de déréférencement des données": en/data_retention/
+            "Politique en matière de soumission de données": en/data_submission/
+            "Politique de préservation": en/preservation/
+            "Glossaire terminologique": en/glossary/
+
+markdown_extensions:
+    - pymdownx.extra
+
+plugins:
+  - search:
+      lang: fr

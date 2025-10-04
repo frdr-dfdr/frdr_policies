@@ -1,3 +1,5 @@
+# Glossaire terminologique
+
 **Collaborateur(-trice)s** : Les déposantes et déposants peuvent désigner d’autres utilisatrices ou utilisateurs du DFDR comme collaboratrices ou collaborateurs sur une soumission. Les collaboratrices et collaborateurs pourront modifier le contenu avant la publication.
 
 **Contenu** : Les données et le matériel connexe (par exemple, les fichiers de métadonnées, le code logiciel, le texte ReadMe, etc.) téléversés au service par les déposants.

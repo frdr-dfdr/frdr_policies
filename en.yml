@@ -1,0 +1,221 @@
+site_name: FRDR Documentation
+docs_dir: 'docs/en/'
+site_dir: 'site/en/'
+site_url: https://dev6-web-c1.frdr.ca/policies/
+plausible_domain: dev6-web-c1.frdr.ca
+theme:
+  name: mkdocs
+  language: en
+  custom_dir: 'frdr_theme'
+  features:
+    - search.suggest
+nav:
+  - "Terms of Use": terms_of_use.md
+  - "Privacy Policy": privacy.md
+  - "Access and Reuse Policy": access_reuse.md
+  - "Collections Development Policy": collections_development.md
+  - "Data Retention and Deaccession Policy": data_retention.md
+  - "Data Submission Policy": data_submission.md
+  - "Preservation Policy": preservation.md
+  - "Metadata Harvesting": metadata_harvesting.md
+  - "Glossary of Terms": glossary.md
+
+extra:
+    lang: en
+    alternate:
+        - name: English
+          link: /policies/en/
+          lang: en
+        - name: Francais
+          link: /policies/fr/
+          lang: fr
+    repo_url: https://dev6-web-c1.frdr.ca/repo
+    frdr_search_relative_url: /search
+    prefix: /policies/
+    lang_prefix: /policies/en/
+    default_page_en: en/terms_of_use/
+    default_page_fr: fr/conditions_d'utilisation/
+    language_map:
+        en:
+            "Terms of Use": fr/conditions_d'utilisation/
+            "Privacy Policy": fr/confidentialité/
+            "Access and Reuse Policy": fr/accès_réutilisation/
+            "Collections Development Policy": fr/création_collections/
+            "Data Retention and Deaccession Policy": fr/rétention_des_données/
+            "Data Submission Policy": fr/soumission_données/
+            "Preservation Policy": fr/préservation/
+            "Glossary of Terms": fr/glossaire/
+        fr:
+            "Conditions d'utilisation": en/terms_of_use/
+            "Politique de confidentialité": en/privacy/
+            "Politique en matière d’accès et de réutilisation": en/access_reuse/
+            "Politique en matière de création de collections": en/collections_development/
+            "Politique en matière de rétention et de déréférencement des données": en/data_retention/
+            "Politique en matière de soumission de données": en/data_submission/
+            "Politique de préservation": en/preservation/
+            "Glossaire terminologique": en/glossary/
+    default_toc_icon: "fa-file"
+
+    toc_icons:
+
+    toc_items:
+      "Terms of Use":
+        "1.0 Definitions":
+          url: "#10-definitions"
+        "2.0 Permitted Use of the Site and Services":
+          url: "#20-permitted-use-of-the-site-and-services"
+        "3.0 Submitter Responsibilities":
+          url: "#30-submitter-responsibilities"
+        "4.0 Publication of Content":
+          url: "#40-publication-of-content"
+        "5.0 User Responsibilities":
+          url: "#50-user-responsibilities"
+        "6.0 Requests for Withdrawal, Removal, or Alteration of Content":
+          url: "#60-requests-for-withdrawal-removal-or-alteration-of-content"
+        "7.0 Privacy":
+          url: "#70-privacy"
+        "8.0 General Provisions":
+          url: "#80-general-provisions"
+
+      "Privacy Policy":
+        "Privacy Statement":
+          url: "#privacy-statement"
+        "Definitions":
+          url: "#definitions"
+        "1.0 Collection of Personal Information":
+          url: "#10-collection-of-personal-information"
+        "2.0 Use of Personal Information":
+          url: "#20-use-of-personal-information"
+        "3.0 Disclosure of Personal Information":
+          url: "#30-disclosure-of-personal-information"
+        "4.0 Storage of Personal Information":
+          url: "#40-storage-of-personal-information"
+        "5.0 Security of Personal Information":
+          url: "#50-security-of-personal-information"
+        "6.0 Privacy Breach Protocol":
+          url: "#60-privacy-breach-protocol"
+        "7.0 Access, Correction or Removal of Personal Information":
+          url: "#70-access-correction-or-removal-of-personal-information"
+        "8.0 Updates to this Privacy Policy":
+          url: "#80-updates-to-this-privacy-policy"
+        "9.0 Links to Other Sites":
+          url: "#90-links-to-other-sites"
+        "Contact Us":
+          url: "#contact-us"
+
+      "Access and Reuse Policy":
+        "1.0 Scope & Purpose":
+          url: "#10-scope-purpose"
+        "2.0 Licensing":
+          url: "#20-licensing"
+        "3.0 Access":
+          url: "#30-access"
+        "4.0 Reuse":
+          url: "#40-reuse"
+        "5.0 Citation and Attribution":
+          url: "#50-citation-and-attribution"
+        "6.0 Metrics and Privacy":
+          url: "#60-metrics-and-privacy"
+        "7.0 Implementation and Revision":
+          url: "#70-implementation-and-revision"
+
+      "Collections Development Policy":
+        "1.0 Scope & Purpose":
+          url: "#10-scope-purpose"
+        "2.0 Acceptable Content":
+          url: "#20-acceptable-content"
+        "3.0 Formats and Language":
+          url: "#30-formats-and-language"
+        "4.0 Content with Sensitivities":
+          url: "#40-content-with-sensitivities"
+        "5.0 Implementation and Revision":
+          url: "#50-implementation-and-revision"
+
+      "Data Retention and Deaccession Policy":
+        "1.0 Scope & Purpose":
+          url: "#10-scope-purpose"
+        "2.0 Data Retention":
+          url: "#20-data-retention"
+        "3.0 Dataset Deaccession":
+          url: "#30-dataset-deaccession"
+        "4.0 Implementation and Revision":
+          url: "#40-implementation-and-revision"
+
+      "Data Submission Policy":
+        "1.0 Scope & Purpose":
+          url: "#10-scope-purpose"
+        "2.0 Eligible Submitters":
+          url: "#20-eligible-submitters"
+        "3.0 Moderation of Data":
+          url: "#30-moderation-of-data"
+        "4.0 Responsibilities":
+          url: "#40-responsibilities"
+        "5.0 Embargo":
+          url: "#50-embargo"
+        "6.0 Rights and Ownership":
+          url: "#60-rights-and-ownership"
+        "7.0 Implementation and Revision":
+          url: "#70-implementation-and-revision"
+
+      "Preservation Policy":
+        "1.0 Scope & Purpose":
+          url: "#10-scope-purpose"
+        "2.0 Related Policies and Documentation":
+          url: "#20-related-policies-and-documentation"
+        "3.0 Mandate":
+          url: "#30-mandate"
+        "4.0 Principles":
+          url: "#40-principles"
+        "5.0 Preservation Activities":
+          url: "#50-preservation-activities"
+        "6.0 Selection and Appraisal":
+          url: "#60-selection-and-appraisal"
+        "7.0 Succession Planning":
+          url: "#70-succession-planning"
+        "8.0 Deaccession and Data Retention":
+          url: "#80-deaccession-and-data-retention"
+        "9.0 Implementation and Revision":
+          url: "#90-implementation-and-revision"
+
+      "Metadata Harvesting":
+        "1.0 Scope & Purpose":
+          url: "#10-scope-purpose"
+        "2.0 Background":
+          url: "#20-background"
+        "3.0 Repository Metadata Harvesting":
+          url: "#30-repository-metadata-harvesting"
+        "4.0 Criteria for Harvesting":
+          url: "#40-criteria-for-harvesting"
+        "5.0 Use of Harvested Metadata":
+          url: "#50-use-of-harvested-metadata"
+        "6.0 Implementation and Revision":
+          url: "#60-implementation-and-revision"
+
+    language_map:
+        en:
+            "Terms of Use": fr/conditions_d'utilisation/
+            "Privacy Policy": fr/confidentialité/
+            "Access and Reuse Policy": fr/accès_réutilisation/
+            "Collections Development Policy": fr/création_collections/
+            "Data Retention and Deaccession Policy": fr/rétention_des_données/
+            "Data Submission Policy": fr/soumission_données/
+            "Preservation Policy": fr/préservation/
+            "Metadata Harvesting": fr/moissonnage_métadonnées/
+            "Glossary of Terms": fr/glossaire/
+        fr:
+            "Conditions d'utilisation": en/terms_of_use/
+            "Politique de confidentialité": en/privacy/
+            "Politique en matière d’accès et de réutilisation": en/access_reuse/
+            "Politique en matière de création de collections": en/collections_development/
+            "Politique en matière de rétention et de déréférencement des données": en/data_retention/
+            "Politique en matière de soumission de données": en/data_submission/
+            "Politique de préservation": en/preservation/
+            "Moissonnage Métadonnées": en/metadata_harvesting/
+            "Glossaire terminologique": en/glossary/
+
+markdown_extensions:
+    - pymdownx.extra
+
+plugins:
+  - search:
+      lang: en

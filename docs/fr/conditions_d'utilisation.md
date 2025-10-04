@@ -1,223 +1,384 @@
+# Conditions d'utilisation
+
 Le présent document (les conditions d’utilisation) définit vos droits et responsabilités lors de l’utilisation du site et du service (définis ci-dessous).
 
 Les présentes conditions d’utilisation constituent un contrat entre l’hébergeur du service et l’utilisateur ou le déposant (désigné ci-après par « vous »). En cochant une case indiquant votre acceptation des présentes conditions d’utilisation ou en accédant au site ou au service ou en utilisant ceux-ci, vous acceptez d’être lié par lesdites conditions d’utilisation et toutes les autres règles, politiques et procédures d’exploitation qui peuvent être publiées de temps à autre dans le site par l’hébergeur du service.
 
 Si vous n’êtes pas majeur dans votre lieu de résidence, si vous n’êtes pas d’accord avec les présentes conditions d’utilisation ou si par ailleurs vous n’avez pas le pouvoir de les accepter, vous ne devez pas accéder au site ou au service
 
-## 1.0 Définitions
+<hr />
 
-On entend par:
+<div class="card-shadow mb-3">
+    <div class="card-body">
+        <h2 id="10-definitions">1.0 Définitions</h2>
 
-**Collaborateurs**, les autres utilisateurs du DFDR désignés par les déposants en tant que collaborateurs dans le cadre d’une soumission. Les collaborateurs pourront modifier le contenu avant la publication.
+        <div class="mb-3">
+            On entend par:
+        </div>
 
-**Contenu**, les données et documents connexes (notamment les enregistrements de métadonnées, le code de logiciel et le texte Readme) téléversés dans le service par les déposants.
+        <div class="mb-3">
+            <strong>Collaborateurs</strong>, les autres utilisateurs du DFDR désignés par les déposants en tant que collaborateurs dans le cadre d’une soumission. Les collaborateurs pourront modifier le contenu avant la publication.
+        </div>
 
-**Curateur**, la personne chargée de gérer un ensemble de contenu dans le service. Cela peut notamment comprendre la prise de décisions quant à l’acceptation de la présentation du contenu, la vérification et l’amélioration des métadonnées, et la migration du contenu, au besoin.
+        <div class="mb-3">
+            <strong>Contenu</strong>, les données et documents connexes (notamment les enregistrements de métadonnées, le code de logiciel et le texte Readme) téléversés dans le service par les déposants.
+        </div>
 
-**Déposant**, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des jeux de données connexes ou un chercheur qui collaborera avec les auteurs.
+        <div class="mb-3">
+            <strong>Curateur</strong>, la personne chargée de gérer un ensemble de contenu dans le service. Cela peut notamment comprendre la prise de décisions quant à l’acceptation de la présentation du contenu, la vérification et l’amélioration des métadonnées, et la migration du contenu, au besoin.
+        </div>
 
-**DFDR**, le Dépôt fédéré de données de recherche.
+        <div class="mb-3">
+            <strong>Déposant</strong>, une personne qui publie du contenu pour le service. On prévoit que, dans la majorité des cas, le déposant sera un auteur du contenu ou des jeux de données connexes ou un chercheur qui collaborera avec les auteurs.
+        </div>
 
-**Évaluation externe**, Évaluation du contenu par une ou plusieurs personnes ne participant pas à la création du contenu.
+        <div class="mb-3">
+            <strong>DFDR</strong>, le Dépôt fédéré de données de recherche.
+        </div>
 
-**Évaluateur externe**, Personne chargée par le déposant, ou par un membre du personnel d’une publication universitaire désigné par le déposant, de mener une évaluation externe.
+        <div class="mb-3">
+            <strong>Évaluation externe</strong>, Évaluation du contenu par une ou plusieurs personnes ne participant pas à la création du contenu.
+        </div>
 
-**Fonction d’évaluation externe**, Fonction du service du DFDR grâce à laquelle un déposant peut affecter un ou plusieurs évaluateurs externes au contenu destiné à une évaluation externe, ou grâce à laquelle le déposant peut désigner un organisme universitaire habilitée à affecter des évaluateurs externes pour l’évaluation externe du contenu.
+        <div class="mb-3">
+            <strong>Évaluateur externe</strong>, Personne chargée par le déposant, ou par un membre du personnel d’une publication universitaire désigné par le déposant, de mener une évaluation externe.
+        </div>
 
-**Hébergeur du service**, l’entité juridique responsable de l’offre du Service, à savoir la Alliance de recherche numérique du Canada (Alliance).
+        <div class="mb-3">
+            <strong>Fonction d’évaluation externe</strong>, Fonction du service du DFDR grâce à laquelle un déposant peut affecter un ou plusieurs évaluateurs externes au contenu destiné à une évaluation externe, ou grâce à laquelle le déposant peut désigner un organisme universitaire habilitée à affecter des évaluateurs externes pour l’évaluation externe du contenu.
+        </div>
 
-**Membre du personnel de l’organisme universitaire**, Personne, agissant en sa qualité de membre du personnel d’un organisme universitaire désigné par le déposant, ayant la capacité d’affecter un ou plusieurs évaluateurs externes au contenu destiné à une évaluation externe.
+        <div class="mb-3">
+            <strong>Hébergeur du service</strong>, l’entité juridique responsable de l’offre du Service, à savoir la Alliance de recherche numérique du Canada (Alliance).
+        </div>
 
-**Organisme universitaire**, Un organisme ou une entité participant à des travaux de recherche universitaires tels qu’une revue scientifique évaluée par les pairs. Un déposant peut déléguer à un organisme universitaire participant à l’évaluation externe de son contenu la capacité de désigner un ou plusieurs évaluateurs externes pour l’évaluation externe du contenu.
+        <div class="mb-3">
+            <strong>Membre du personnel de l’organisme universitaire</strong>, Personne, agissant en sa qualité de membre du personnel d’un organisme universitaire désigné par le déposant, ayant la capacité d’affecter un ou plusieurs évaluateurs externes au contenu destiné à une évaluation externe.
+        </div>
 
-**Renseignements personnels**, les renseignements consignés qui identifient une personne.
+        <div class="mb-3">
+            <strong>Organisme universitaire</strong>, Un organisme ou une entité participant à des travaux de recherche universitaires tels qu’une revue scientifique évaluée par les pairs. Un déposant peut déléguer à un organisme universitaire participant à l’évaluation externe de son contenu la capacité de désigner un ou plusieurs évaluateurs externes pour l’évaluation externe du contenu.
+        </div>
 
-**Service**, les services disponibles dans le site proposés par l’hébergeur du service.
+        <div class="mb-3">
+            <strong>Renseignements personnels</strong>, les renseignements consignés qui identifient une personne.
+        </div>
 
-**Site**, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse [https://www.frdr-dfdr.ca/repo/?locale=fr](https://www.frdr-dfdr.ca/repo/?locale=fr)
+        <div class="mb-3">
+            <strong>Service</strong>, les services disponibles dans le site proposés par l’hébergeur du service.
+        </div>
 
-**Utilisateur**, une personne qui utilise le service en naviguant dans le site ou en téléchargeant du contenu.
+        <div class="mb-3">
+            <strong>Site</strong>, le site Web du Dépôt fédéré de données de recherche (DFDR), accessible à l’adresse <a href="https://www.frdr-dfdr.ca/repo/?locale=fr">https://www.frdr-dfdr.ca/repo/?locale=f</a>
+        </div>
 
-## 2.0 Utilisation permise du site et des services
+        <div class="mb-3">
+            <strong>Utilisateur</strong>, une personne qui utilise le service en naviguant dans le site ou en téléchargeant du contenu.
+        </div>
+    </div>
+</div>
 
-Toutes les personnes qui utilisent le site et le service, notamment les utilisateurs et les déposants, ne peuvent accéder au site et au service ou les utiliser qu’à des fins légitimes et conformément aux présentes conditions d’utilisation. Vous ne devez pas utiliser le site ou le service à des fins illégales ou frauduleuses ou de toute autre manière interdite par les présentes conditions d’utilisation.
+<div class="card-shadow mb-3">
+    <div class="card-body">
+        <h2 id="20-utilisation-permise-du-site-et-des-services">2.0 Utilisation permise du site et des services</h2>
 
-Sous réserve de votre conformité aux présentes conditions d’utilisation, l’hébergeur du service vous accorde une licence incessible, non exclusive, révocable et limitée pour l’accès au site et au service et l’utilisation de ceux-ci.
+        <div class="mb-3">
+            Toutes les personnes qui utilisent le site et le service, notamment les utilisateurs et les déposants, ne peuvent accéder au site et au service ou les utiliser qu’à des fins légitimes et conformément aux présentes conditions d’utilisation. Vous ne devez pas utiliser le site ou le service à des fins illégales ou frauduleuses ou de toute autre manière interdite par les présentes conditions d’utilisation.
+        </div>
 
-Il est interdit d’utiliser le site ou le service pour :
+        <div class="mb-3">
+            Sous réserve de votre conformité aux présentes conditions d’utilisation, l’hébergeur du service vous accorde une licence incessible, non exclusive, révocable et limitée pour l’accès au site et au service et l’utilisation de ceux-ci.
+        </div>
 
-* sauf autorisation préalable de l’hôte de service, téléverser, transmettre ou distribuer dans le site ou le service, ou par l’intermédiaire de ceux-ci, tout virus ou ver informatique ou tout logiciel destiné à endommager ou à modifier un système informatique ou des données informatiques;
+        <div class="mb-3">
+            Il est interdit d’utiliser le site ou le service pour :
+        </div>
 
-* utiliser, de quelque manière que ce soit, le site ou le service pour l’envoi de publicités non sollicitées ou non autorisées, de matériel promotionnel, de courrier poubelle, de pourriels, d’envois boule de neige, d’opérations pyramidales ou de toute autre forme de messages en double ou non sollicités, qu’ils soient de nature commerciale ou non;
+        <ul>
+            <li>sauf autorisation préalable de l’hôte de service, téléverser, transmettre ou distribuer dans le site ou le service, ou par l’intermédiaire de ceux-ci, tout virus ou ver informatique ou tout logiciel destiné à endommager ou à modifier un système informatique ou des données informatiques;</li>
 
-* utiliser le site ou le service pour recueillir ou rassembler des renseignements ou des données concernant des utilisateurs, des déposants ou d’autres personnes, notamment des adresses électroniques, sans leur permission;
+            <li>utiliser, de quelque manière que ce soit, le site ou le service pour l’envoi de publicités non sollicitées ou non autorisées, de matériel promotionnel, de courrier poubelle, de pourriels, d’envois boule de neige, d’opérations pyramidales ou de toute autre forme de messages en double ou non sollicités, qu’ils soient de nature commerciale ou non;</li>
 
-* identifier à nouveau, de manière intentionnelle, un individu, un groupe ou une organisation ou toute autre entité dont les données dépersonnalisées ou anonymisées sont incluses dans le contenu;
+            <li>utiliser le site ou le service pour recueillir ou rassembler des renseignements ou des données concernant des utilisateurs, des déposants ou d’autres personnes, notamment des adresses électroniques, sans leur permission;</li>
 
-* perturber ou surcharger indûment les serveurs ou les réseaux reliés au site ou au service, ou enfreindre les réglementations, politiques ou procédures de ces réseaux;
+            <li>identifier à nouveau, de manière intentionnelle, un individu, un groupe ou une organisation ou toute autre entité dont les données dépersonnalisées ou anonymisées sont incluses dans le contenu;</li>
 
-* tenter d’obtenir un accès non autorisé au site ou au service (ou à d’autres systèmes informatiques ou réseaux reliés au site ou utilisés conjointement avec celui-ci), que ce soit par l’extraction de mots de passe ou par tout autre moyen;
+            <li>perturber ou surcharger indûment les serveurs ou les réseaux reliés au site ou au service, ou enfreindre les réglementations, politiques ou procédures de ces réseaux;</li>
 
-* harceler tout autre utilisateur ou déposant du site ou du service ou en entraver l’utilisation et la jouissance par ceux-ci;
+            <li>tenter d’obtenir un accès non autorisé au site ou au service (ou à d’autres systèmes informatiques ou réseaux reliés au site ou utilisés conjointement avec celui-ci), que ce soit par l’extraction de mots de passe ou par tout autre moyen;</li>
 
-* utiliser des logiciels ou des agents ou des scripts automatisés, autres que ceux fournis par l’hébergeur du service, pour produire plusieurs comptes d’utilisateur ou de déposant, ou pour générer des recherches ou des demandes automatisées au site ou au service (ou pour dépouiller, recueillir ou extraire des données de ceux-ci);
+            <li>harceler tout autre utilisateur ou déposant du site ou du service ou en entraver l’utilisation et la jouissance par ceux-ci;</li>
 
-* sauf autorisation préalable de l’hébergeur du service, « capturer » ou « reproduire » toute partie du site ou du service ou utiliser des métabalises ou un code ou d’autres dispositifs contenant une référence à l’hébergeur du service, au site ou au service afin d’orienter toute personne vers d’autres sites Web à quelque fin que ce soit;
+            <li>utiliser des logiciels ou des agents ou des scripts automatisés, autres que ceux fournis par l’hébergeur du service, pour produire plusieurs comptes d’utilisateur ou de déposant, ou pour générer des recherches ou des demandes automatisées au site ou au service (ou pour dépouiller, recueillir ou extraire des données de ceux-ci);</li>
 
-* trafiquer, modifier ou copier sans autorisation expresse toute partie du site ou du service ou en faire un dérivé ou une ingénierie inverse;
+            <li>sauf autorisation préalable de l’hébergeur du service, « capturer » ou « reproduire » toute partie du site ou du service ou utiliser des métabalises ou un code ou d’autres dispositifs contenant une référence à l’hébergeur du service, au site ou au service afin d’orienter toute personne vers d’autres sites Web à quelque fin que ce soit;</li>
 
-* concéder par licence, aliéner ou louer toute partie du site ou du service.
+            <li>trafiquer, modifier ou copier sans autorisation expresse toute partie du site ou du service ou en faire un dérivé ou une ingénierie inverse;</li>
 
-Les documents se trouvant dans le site et le service peuvent contenir des liens vers des documents (notamment le contenu) se trouvant dans des sites Web de tiers (ou « documents liés »). L’hébergeur du service n’exerce pas pouvoir de direction ou de gestion sur ces documents liés et celui-ci n’est pas responsable du contenu des documents liés. Les liens vers d’autres sites Web sont fournis à des fins de commodité seulement et l’hébergeur du service ne saurait parrainer, approuver ou appuyer les documents liés. On incite les utilisateurs ou les déposants qui accèdent aux documents liés à examiner les modalités applicables aux sites Web de tiers, car les présentes conditions d’utilisation ne s’appliquent qu’au site et au service.
+            <li>concéder par licence, aliéner ou louer toute partie du site ou du service.</li>
+        </ul>
 
-## 3.0 Responsabilités des déposants
+        <div class="mb-3">
+            Les documents se trouvant dans le site et le service peuvent contenir des liens vers des documents (notamment le contenu) se trouvant dans des sites Web de tiers (ou « documents liés »). L’hébergeur du service n’exerce pas pouvoir de direction ou de gestion sur ces documents liés et celui-ci n’est pas responsable du contenu des documents liés. Les liens vers d’autres sites Web sont fournis à des fins de commodité seulement et l’hébergeur du service ne saurait parrainer, approuver ou appuyer les documents liés. On incite les utilisateurs ou les déposants qui accèdent aux documents liés à examiner les modalités applicables aux sites Web de tiers, car les présentes conditions d’utilisation ne s’appliquent qu’au site et au service.
+        </div>
+    </div>
+</div>
 
-Le déposant convient de ce qui suit :
 
-* Par la présente, le déposant confirme qu’il est légalement autorisé à utiliser le service, qu’il peut soumettre du contenu au service conformément à la politique sur la soumission de données du DFDR et qu’il assume l’entière responsabilité de l’utilisation par celui-ci du service.
 
-* Le déposant reconnaît qu’il est tenus de créer un compte auprès de Globus afin de soumettre du contenu au service, qui est assujetti [aux conditions d'utilisation](https://www.globus.org/legal/terms) et à la [politique de confidentialité](https://www.globus.org/legal/privacy) de Globus.
 
-* Il incombe uniquement au déposant de s’assurer que le contenu convient à la diffusion publique et qu’il respecte les présentes conditions d’utilisation, la politique de développement des collections du DFDR, toutes les politiques ou approbations pertinentes en matière d'éthique de la recherche, toutes les politiques ou obligations institutionnelles pertinentes et les lois applicables.
 
-* Les déposants peuvent choisir d’utiliser la fonction d’évaluation externe fournie par le Service. Le contenu sera placé à un embargo, et le déposant pourra affecter un ou plusieurs évaluateurs externes au contenu, ou désigner un organisme universitaire habilité à affecter un ou plusieurs évaluateurs externes au contenu, avant qu’il ne soit rendu public.
 
-* Lorsqu’il utilise la fonction d’évaluation externe, le déposant est seul responsable de toute décision ou action concernant l’accès au contenu par les évaluateurs externes qu’il a désignés ou ceux désignés par le ou les membres du personnel de l’organisme universitaire agissant pour le compte de l’organisme universitaire désigné par le déposant. En utilisant la fonction d’évaluation externe, le déposant reconnaît et accepte que toute perte ou tout préjudice subi à la suite de mesures ou de décisions prises par un évaluateur externe relève de la seule responsabilité de l’évaluateur externe, et non du Service. Le Service n’assume aucune responsabilité quant aux mesures, décisions ou contenus fournis par les évaluateurs externes. Le déposant utilise la fonction d’évaluation externe à ses propres risques. En utilisant la fonction d’évaluation externe, le déposant assume tous les risques y afférents et décharge le Service, ses filiales et son personnel de toute responsabilité liée à l’évaluation externe, notamment les réclamations, les dommages et les pertes.
 
-* Outre ce qui précède, le déposant déclare, garantit et peut démontrer à la pleine satisfaction de l’hébergeur du service, sur demande :
+<div class="card-shadow mb-3">
+    <div class="card-body">
+        <h2 id="30-responsabilites-des-deposants">3.0 Responsabilités des déposants</h2>
 
-    * qu’il est propriétaire du contenu visé par les présentes conditions d’utilisation ou a le droit de l’accorder par voie de licence;
+        <div class="mb-3">
+            Le déposant convient de ce qui suit :
+        </div>
 
-    * qu’il n’est assujetti à aucune obligation ou restriction légale, contractuelle ou autre qui l’empêcherait de convenir aux présentes conditions d’utilisation et de les exécuter pleinement;
 
-    * que le contenu ne viole ni ne détourne les droits d’un tiers, notamment les droits à la vie privée, les droits de publicité, les droits d’auteur (notamment les droits moraux), les marques de commerce, les droits sur les secrets commerciaux ou les renseignements confidentiels ou d’autres droits de propriété intellectuelle;
+        <ul>
+            <li>Par la présente, le déposant confirme qu’il est légalement autorisé à utiliser le service, qu’il peut soumettre du contenu au service conformément à la politique sur la soumission de données du DFDR et qu’il assume l’entière responsabilité de l’utilisation par celui-ci du service.</li>
 
-    * que le contenu n’est pas diffamatoire, harcelant, menaçant, haineux, violent, vulgaire, obscène, pornographique ou sexuellement suggestif, illégal ou autrement offensant;
+            <li>Le déposant reconnaît qu’il est tenus de créer un compte auprès de Globus afin de soumettre du contenu au service, qui est assujetti <a href="https://www.globus.org/legal/terms">aux conditions d'utilisation</a> et à la <a href="https://www.globus.org/legal/privacy">politique de confidentialité</a> de Globus.</li>
 
-    * qu’il a la permission d’utiliser le nom et, le cas échéant, l’image de chaque personne mentionnée ou utilisée dans le contenu et d’utiliser les renseignements personnels ou identificateurs de cette personne, comme le prévoient les présentes conditions d’utilisation.
+            <li>Il incombe uniquement au déposant de s’assurer que le contenu convient à la diffusion publique et qu’il respecte les présentes conditions d’utilisation, la politique de développement des collections du DFDR, toutes les politiques ou approbations pertinentes en matière d'éthique de la recherche, toutes les politiques ou obligations institutionnelles pertinentes et les lois applicables.</li>
 
-* Au moment de la communication, les déposants peuvent décider si leur contenu sera public ou frappé d’embargo, à moins que les lois sur la protection des données et la protection de la vie privée ne l’exigent. Les déposants doivent également choisir les conditions de licence en vertu desquelles le contenu sera accessible au public, soit l’une des options de licence ouverte offertes pendant le processus de présentation du contenu ou, sous réserve de l’approbation du curateur, les conditions de licence personnalisées. Par défaut, le contenu est mis à disposition dans le cadre de [l'affectation du domaine public Creative Commons (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
+            <li>Les déposants peuvent choisir d’utiliser la fonction d’évaluation externe fournie par le Service. Le contenu sera placé à un embargo, et le déposant pourra affecter un ou plusieurs évaluateurs externes au contenu, ou désigner un organisme universitaire habilité à affecter un ou plusieurs évaluateurs externes au contenu, avant qu’il ne soit rendu public.</li>
 
-* <section id="embargo">Le contenu public est à la fois librement accessible et repérable par la recherche. Les déposants peuvent demander que le contenu public soit frappé d’embargo pour une période ne dépassant pas un an, à moins d’approbation contraire du gestionnaire de services. Les déposants doivent motiver adéquatement toute demande d’embargo, comme par exemple le fait de rendre le contenu accessible au public mettrait en péril une publication à venir. Les demandes d’embargo doivent avoir une date d’expiration explicite. Les demandes d’embargo d’un an ou moins seront accordées à la discrétion d’un curateur. Les demandes d'embargo de plus d'un an seront examinées au cas par cas. À la demande d'un déposant, un embargo peut être prolongé à la discrétion d'un curateur. Après la période d’embargo, le contenu deviendra accessible au public, à moins d’indication contraire des lois sur la protection des données et la protection de la vie privée.</section>
+            <li>Lorsqu’il utilise la fonction d’évaluation externe, le déposant est seul responsable de toute décision ou action concernant l’accès au contenu par les évaluateurs externes qu’il a désignés ou ceux désignés par le ou les membres du personnel de l’organisme universitaire agissant pour le compte de l’organisme universitaire désigné par le déposant. En utilisant la fonction d’évaluation externe, le déposant reconnaît et accepte que toute perte ou tout préjudice subi à la suite de mesures ou de décisions prises par un évaluateur externe relève de la seule responsabilité de l’évaluateur externe, et non du Service. Le Service n’assume aucune responsabilité quant aux mesures, décisions ou contenus fournis par les évaluateurs externes. Le déposant utilise la fonction d’évaluation externe à ses propres risques. En utilisant la fonction d’évaluation externe, le déposant assume tous les risques y afférents et décharge le Service, ses filiales et son personnel de toute responsabilité liée à l’évaluation externe, notamment les réclamations, les dommages et les pertes.</li>
 
-* Le contenu comportant des renseignements personnels ne doit pas être soumis au service à moins que le déposant n’atteste d’abord à l’hébergeur du service la preuve qu’il a le pouvoir ou le consentement de divulguer ces renseignements personnels à l’hébergeur du service et au public par l’entremise du service.
+            <li>Outre ce qui précède, le déposant déclare, garantit et peut démontrer à la pleine satisfaction de l’hébergeur du service, sur demande :</li>
 
-* Dans le cadre de l’offre de service actuelle le contenu de nature sensible ne doit pas être soumis au service à moins que le déposant ne fournisse d’abord à l’hébergeur du service la preuve qu’il a le pouvoir ou le consentement de divulguer ce contenu au public par l’entremise du service.
+        <ul>
+                <li>qu’il est propriétaire du contenu visé par les présentes conditions d’utilisation ou a le droit de l’accorder par voie de licence;</li>
 
-* Il incombe aux déposants de fournir suffisamment de métadonnées et de renseignements contextuels pour veiller à ce que le contenu soit bien compris et facilement réutilisable. Les déposants et leurs concédants de licence conservent tous les droits de propriété sur leur contenu. En soumettant du contenu au service, le déposant accorde par les présentes à l’hébergeur du service une licence mondiale, non exclusive, sans redevance et cessible lui permettant d’utiliser, de reproduire, de distribuer et de préparer des œuvres dérivées du service, et d’afficher et d’exécuter le contenu dans le cadre du service. Cela comprend notamment la création de copies et la modification des données à des fins de conservation. Le déposant autorise en outre l’hébergeur du service à migrer le contenu vers n’importe quel support ou format à des fins de conservation.
+                <li>qu’il n’est assujetti à aucune obligation ou restriction légale, contractuelle ou autre qui l’empêcherait de convenir aux présentes conditions d’utilisation et de les exécuter pleinement;</li>
 
-* Le déposant accepte de payer tous redevances, frais, rémunérations et autres sommes dues ou payables découlant de l’utilisation du contenu ou de l’exercice des droits accordés à l’égard du contenu à l’hébergeur du service, aux utilisateurs ou à d’autres tiers dans le service ou par son entremise, notamment lorsque le déposant ne dispose pas des droits requis pour accorder les licences et les droits désignés dans les présentes conditions d’utilisation.
+                <li>que le contenu ne viole ni ne détourne les droits d’un tiers, notamment les droits à la vie privée, les droits de publicité, les droits d’auteur (notamment les droits moraux), les marques de commerce, les droits sur les secrets commerciaux ou les renseignements confidentiels ou d’autres droits de propriété intellectuelle;</li>
 
-* Après la soumission du contenu au service, les déposants ne pourront plus modifier directement le contenu, le retirer de l’accès public ou le supprimer. Les modifications, notamment le retrait ou la suppression du contenu, peuvent être demandées dans le cadre du processus décrit à la section 6.0 des présentes conditions d’utilisation.
+                <li>que le contenu n’est pas diffamatoire, harcelant, menaçant, haineux, violent, vulgaire, obscène, pornographique ou sexuellement suggestif, illégal ou autrement offensant;</li>
 
-## 4.0 Publication du contenu
+                <li>qu’il a la permission d’utiliser le nom et, le cas échéant, l’image de chaque personne mentionnée ou utilisée dans le contenu et d’utiliser les renseignements personnels ou identificateurs de cette personne, comme le prévoient les présentes conditions d’utilisation.</li>
+        </ul>
 
-En ce qui concerne le contenu hébergé dans le service, l’hébergeur du service fera des efforts commercialement raisonnables pour :
+            <li>Au moment de la communication, les déposants peuvent décider si leur contenu sera public ou frappé d’embargo, à moins que les lois sur la protection des données et la protection de la vie privée ne l’exigent. Les déposants doivent également choisir les conditions de licence en vertu desquelles le contenu sera accessible au public, soit l’une des options de licence ouverte offertes pendant le processus de présentation du contenu ou, sous réserve de l’approbation du curateur, les conditions de licence personnalisées. Par défaut, le contenu est mis à disposition dans le cadre de <a href="https://creativecommons.org/publicdomain/zero/1.0/">l'affectation du domaine public Creative Commons (CC0 1.0)</a>.</li>
 
-* mettre le contenu à la disposition du public conformément aux modalités de licence choisies par le déposant;
+            <li><section id="embargo">Le contenu public est à la fois librement accessible et repérable par la recherche. Les déposants peuvent demander que le contenu public soit frappé d’embargo pour une période ne dépassant pas un an, à moins d’approbation contraire du gestionnaire de services. Les déposants doivent motiver adéquatement toute demande d’embargo, comme par exemple le fait de rendre le contenu accessible au public mettrait en péril une publication à venir. Les demandes d’embargo doivent avoir une date d’expiration explicite. Les demandes d’embargo d’un an ou moins seront accordées à la discrétion d’un curateur. Les demandes d'embargo de plus d'un an seront examinées au cas par cas. À la demande d'un déposant, un embargo peut être prolongé à la discrétion d'un curateur. Après la période d’embargo, le contenu deviendra accessible au public, à moins d’indication contraire des lois sur la protection des données et la protection de la vie privée.</section></li>
 
-* utiliser des procédures de conservation conçues pour maintenir l’intégrité, la disponibilité et la réutilisabilité du contenu à long terme, sous réserve des politiques de récupération et de maintien de l’hébergeur du service et sous réserve de la disponibilité de financement et du soutien du service;
+            <li>Le contenu comportant des renseignements personnels ne doit pas être soumis au service à moins que le déposant n’atteste d’abord à l’hébergeur du service la preuve qu’il a le pouvoir ou le consentement de divulguer ces renseignements personnels à l’hébergeur du service et au public par l’entremise du service.</li>
 
-* transférer le contenu vers un autre référentiel adapté en cas d’arrêt du service;
+            <li>Dans le cadre de l’offre de service actuelle le contenu de nature sensible ne doit pas être soumis au service à moins que le déposant ne fournisse d’abord à l’hébergeur du service la preuve qu’il a le pouvoir ou le consentement de divulguer ce contenu au public par l’entremise du service.</li>
 
-* mettre le service à la disposition du public, sous réserve d’interruptions pour cause d’entretien, de mise à niveau ou de réparation, prévus ou non, des liaisons, des réseaux et de l’équipement de télécommunications. L’hébergeur du service ne saurait être tenu responsable en cas de suspension, de modification, d’interruption ou d’indisponibilité du service ou du contenu;
+            <li>Il incombe aux déposants de fournir suffisamment de métadonnées et de renseignements contextuels pour veiller à ce que le contenu soit bien compris et facilement réutilisable. Les déposants et leurs concédants de licence conservent tous les droits de propriété sur leur contenu. En soumettant du contenu au service, le déposant accorde par les présentes à l’hébergeur du service une licence mondiale, non exclusive, sans redevance et cessible lui permettant d’utiliser, de reproduire, de distribuer et de préparer des œuvres dérivées du service, et d’afficher et d’exécuter le contenu dans le cadre du service. Cela comprend notamment la création de copies et la modification des données à des fins de conservation. Le déposant autorise en outre l’hébergeur du service à migrer le contenu vers n’importe quel support ou format à des fins de conservation.</li>
 
-* enregistrer et maintenir les identificateurs d’objet numériques (DOI) pour le contenu;
+            <li>Le déposant accepte de payer tous redevances, frais, rémunérations et autres sommes dues ou payables découlant de l’utilisation du contenu ou de l’exercice des droits accordés à l’égard du contenu à l’hébergeur du service, aux utilisateurs ou à d’autres tiers dans le service ou par son entremise, notamment lorsque le déposant ne dispose pas des droits requis pour accorder les licences et les droits désignés dans les présentes conditions d’utilisation.</li>
 
-* mettre en œuvre les restrictions, notamment les restrictions d’embargo, imposées au contenu à la demande du déposant, sous réserve des lois applicables;
+            <li>Après la soumission du contenu au service, les déposants ne pourront plus modifier directement le contenu, le retirer de l’accès public ou le supprimer. Les modifications, notamment le retrait ou la suppression du contenu, peuvent être demandées dans le cadre du processus décrit à la section 6.0 des présentes conditions d’utilisation.</li>
+        </ul>
+    </div>
+</div>
 
-* appuyer les normes relatives aux métadonnées utilisées dans un éventail de disciplines;
 
-* fournir aux déposants une sélection d’options de licence générale ouverte pour le contenu et permettre la création de licences personnalisées, sous réserve de l’approbation du curateur;
 
-* examiner les soumissions et, au besoin, travailler avec les déposants pour s’assurer que le contenu contient suffisamment de métadonnées et de renseignements contextuels pour être compris adéquatement et facilement réutilisé.
 
-Il ne revient pas à l’hébergeur du service de s’assurer que le contenu soumis au service respecte les exigences énoncées dans les présentes conditions d’utilisation. L’hébergeur du service se réserve le droit, sans toutefois y être obligé, de surveiller ou d’examiner le contenu soumis au service. Si des renseignements personnels non repérés préalablement sont découverts dans le contenu soumis au service, un curateur pendra des mesures commercialement raisonnables pour en aviser le déposant.
+<div class="card-shadow mb-3">
+    <div class="card-body">
+        <h2 id="40-publication-du-contenu">4.0 Publication du contenu</h2>
 
-L’hébergeur du service se réserve le droit, sans préavis, à sa discrétion et sans qu’il en encoure de responsabilité, de modifier, de retirer de l’accès public ou de supprimer tout contenu qui viole les présentes conditions d’utilisation ou les lois applicables. En cas de retrait ou de suppression de contenu de l’accès public pour une violation des présentes conditions d’utilisation ou des lois applicables, l’hébergeur du service peut, à sa seule discrétion, conserver un enregistrement interrogeable de ce contenu dans le service, notamment les métadonnées associées à ce contenu et les motifs du retrait d’accès. 
+        <div class="mb-3">
+            En ce qui concerne le contenu hébergé dans le service, l’hébergeur du service fera des efforts commercialement raisonnables pour :
+        </div>
 
-## 5.0 Responsabilités des utilisateurs
+        <ul>
+            <li>mettre le contenu à la disposition du public conformément aux modalités de licence choisies par le déposant;</li>
 
-Les utilisateurs du service :
+            <li>utiliser des procédures de conservation conçues pour maintenir l’intégrité, la disponibilité et la réutilisabilité du contenu à long terme, sous réserve des politiques de récupération et de maintien de l’hébergeur du service et sous réserve de la disponibilité de financement et du soutien du service;</li>
 
-* doivent fournir une mention de la source et une référence appropriées du contenu conformément aux normes d’intégrité universitaires de leur domaine ou discipline;
+            <li>transférer le contenu vers un autre référentiel adapté en cas d’arrêt du service;</li>
 
-* doivent respecter les conditions de licence applicables spécifiées sur la page cible du contenu. Le téléchargement et l’utilisation du contenu ne cède aucun droit de propriété du contenu à l’utilisateur (sauf lorsque le contenu provient du CC0 1.0), notamment des droits de propriété intellectuelle;
+            <li>mettre le service à la disposition du public, sous réserve d’interruptions pour cause d’entretien, de mise à niveau ou de réparation, prévus ou non, des liaisons, des réseaux et de l’équipement de télécommunications. L’hébergeur du service ne saurait être tenu responsable en cas de suspension, de modification, d’interruption ou d’indisponibilité du service ou du contenu;</li>
 
-* sont les uniques responsables de leur utilisation du contenu.
+            <li>enregistrer et maintenir les identificateurs d’objet numériques (DOI) pour le contenu;</li>
 
-## 6.0 Demandes de retrait, de suppression ou de modification du contenu
+            <li>mettre en œuvre les restrictions, notamment les restrictions d’embargo, imposées au contenu à la demande du déposant, sous réserve des lois applicables;</li>
 
-Une fois que le contenu a été soumis au service, les déposants ne peuvent plus modifier directement celui-ci, le retirer de l’accès public ou le retirer du service. Ces demandes doivent être examinées par le personnel de soutien de la curatelle et seront accordées à la discrétion d’un curateur.
+            <li>appuyer les normes relatives aux métadonnées utilisées dans un éventail de disciplines;</li>
 
-Toutes les demandes de retrait temporaire ou permanent de l’accès public ou de suppression de contenu du service doivent être adressées à l’hébergeur du service. Toute personne qui souhaite que du contenu soit retiré de l’accès public ou du service, soit pour violation du droit d’auteur, soit pour d’autres motifs légitimes, doit communiquer avec [support@frdr-dfdr.ca](mailto:support@frdr-dfdr.ca). Toute personne qui souhaite faire modifier, retirer de l’accès public ou retirer du service du contenu contenant des renseignements personnels doit communiquer avec [privacy@frdr-dfdr.ca](mailto:privacy@frdr-dfdr.ca).
+            <li>fournir aux déposants une sélection d’options de licence générale ouverte pour le contenu et permettre la création de licences personnalisées, sous réserve de l’approbation du curateur;</li>
 
-Bien que l’hébergeur du service examine chaque demande de modification, de retrait ou de suppression de contenu du service, celui-ci n’est pas tenu d’approuver ces demandes. Lorsque l’hébergeur du service approuve une telle demande, il en avisera promptement le déposant.
+            <li>examiner les soumissions et, au besoin, travailler avec les déposants pour s’assurer que le contenu contient suffisamment de métadonnées et de renseignements contextuels pour être compris adéquatement et facilement réutilisé.</li>
+        </ul>
 
-## 7.0 Protection de la vie privée
+        <div class="mb-3">
+            Il ne revient pas à l’hébergeur du service de s’assurer que le contenu soumis au service respecte les exigences énoncées dans les présentes conditions d’utilisation. L’hébergeur du service se réserve le droit, sans toutefois y être obligé, de surveiller ou d’examiner le contenu soumis au service. Si des renseignements personnels non repérés préalablement sont découverts dans le contenu soumis au service, un curateur pendra des mesures commercialement raisonnables pour en aviser le déposant.
+        </div>
 
-L’hébergeur du service respecte la vie privée des utilisateurs et des déposants et ne recueillera, n’utilisera et ne divulguera de renseignements personnels qu’en conformité avec la politique de confidentialité du DFDR, qui fait partie des présentes conditions d’utilisation. L’hébergeur du service incite tous les utilisateurs et les déposants à examiner la politique de confidentialité et à s’en servir pour prendre des décisions éclairées.
+        <div class="mb-3">
+            L’hébergeur du service se réserve le droit, sans préavis, à sa discrétion et sans qu’il en encoure de responsabilité, de modifier, de retirer de l’accès public ou de supprimer tout contenu qui viole les présentes conditions d’utilisation ou les lois applicables. En cas de retrait ou de suppression de contenu de l’accès public pour une violation des présentes conditions d’utilisation ou des lois applicables, l’hébergeur du service peut, à sa seule discrétion, conserver un enregistrement interrogeable de ce contenu dans le service, notamment les métadonnées associées à ce contenu et les motifs du retrait d’accès.
+        </div>
+    </div>
+</div>
 
-## 8.0 Dispositions générales
 
-### 8.1 Suspension et résiliation
 
-L’hébergeur du service se réserve le droit de suspendre immédiatement et sans préavis l’accès au site ou au service et l’utilisation de ceux-par toute personne (déposant ou utilisateur) lorsque celle-ci participe ou est soupçonnée de participer à des activités qui contreviennent aux lois applicables ou qui ne sont pas conformes aux présentes conditions d’utilisation.
 
-L’hébergeur du service peut, à sa seule discrétion, accorder un délai de 15 jours pour remédier aux activités qui contreviennent aux présentes conditions d’utilisation ou les faire cesser. Si l’hébergeur du service accorde une période de remédiation et que l’on ne remédie pas aux activités contrevenantes ou qu’on n’y met pas fin au cours de ladite période, ou si l’hébergeur du service détermine que l’on ne peut remédier à la contravention des présentes conditions d’utilisation, votre compte ou votre accès au site et au service sera résilié.
 
-### 8.2 Avis de non-responsabilité
 
-Le site, le service et le contenu sont mis « TELS QUELS » à la disposition des déposants et des utilisateurs. Vous reconnaissez et convenez que l’utilisation que vous faites du site, du service et du contenu est à vos risques.
+<div class="card-shadow mb-3">
+    <div class="card-body">
+        <h2 id="50-responsabilites-des-utilisateurs">5.0 Responsabilités des utilisateurs</h2>
 
-L’hébergeur du service ne saurait déclarer ou garantir (ni prendre d’engagement en ce sens) que :
+        <div class="mb-3">
+            Les utilisateurs du service :
+        </div>
 
-* le site, le service ou le contenu satisferont à vos exigences ou que vous obtiendrez tout résultat, particulier ou non, de l’utilisation du site ou du service;
+        <ul>
+            <li>doivent fournir une mention de la source et une référence appropriées du contenu conformément aux normes d’intégrité universitaires de leur domaine ou discipline;</li>
 
-* l’accès au site ou au service sera ininterrompu, rapide, sécurisé ou exempt d’erreur;
+            <li>doivent respecter les conditions de licence applicables spécifiées sur la page cible du contenu. Le téléchargement et l’utilisation du contenu ne cède aucun droit de propriété du contenu à l’utilisateur (sauf lorsque le contenu provient du CC0 1.0), notamment des droits de propriété intellectuelle;</li>
 
-* la qualité ou la fiabilité du site, du service ou du contenu répondra à vos attentes ou que le contenu est exact, complet, fiable, utile, opportun ou à jour;
+            <li>sont les uniques responsables de leur utilisation du contenu.</li>
+        </ul>
+    </div>
+</div>
 
-Sauf dans les cas prévus aux présentes et dans la mesure où la loi le permet, l’hébergeur du service se dégage de toute déclaration, garantie ou condition relative au site, au service ou au contenu, qu’elle soit expresse, implicite, légale ou autre ou découle de la poursuite d’activités commerciales, notamment les garanties de titre, d’absence de contrefaçon, de qualité, de rendement, de compatibilité, de qualité marchande ou de réponse à une fin particulière. L’hébergeur du service ne saurait être tenu responsable et n’assume aucune responsabilité en ce qui a trait à tout dommage à votre équipement, à vos données ou à vos autres biens en raison de votre accès au site ou aux services, de votre utilisation de ceux-ci, de votre navigation dans ceux-ci ou de votre téléchargement de tout contenu ou de tout autre matériel, ou de votre incapacité à effectuer l’une ou l’autre des actions ci-dessus. 
+<div class="card-shadow mb-3">
+    <div class="card-body">
+        <h2 id="60-demandes-de-retrait-de-suppression-ou-de-modification-du-contenu">6.0 Demandes de retrait, de suppression ou de modification du contenu</h2>
 
-### 8.3 Responsabilité et indemnisation
+        <div class="mb-3">
+            Une fois que le contenu a été soumis au service, les déposants ne peuvent plus modifier directement celui-ci, le retirer de l’accès public ou le retirer du service. Ces demandes doivent être examinées par le personnel de soutien de la curatelle et seront accordées à la discrétion d’un curateur.
+        </div>
 
-Dans la mesure où la loi ne l’interdit pas, l’hébergeur du service ne saurait être responsable de quelque dommage que ce soit, notamment les dommages directs, indirects, accessoires, punitifs, spéciaux ou exemplaires découlant de ce qui suit :
+        <div class="mb-3">
+            Toutes les demandes de retrait temporaire ou permanent de l’accès public ou de suppression de contenu du service doivent être adressées à l’hébergeur du service. Toute personne qui souhaite que du contenu soit retiré de l’accès public ou du service, soit pour violation du droit d’auteur, soit pour d’autres motifs légitimes, doit communiquer avec <a href="mailto:support@frdr-dfdr.ca">support@frdr-dfdr.ca</a>. Toute personne qui souhaite faire modifier, retirer de l’accès public ou retirer du service du contenu contenant des renseignements personnels doit communiquer avec <a href="mailto:privacy@frdr-dfdr.ca">privacy@frdr-dfdr.ca</a>.
+        </div>
+        <div class="mb-3">
+            Bien que l’hébergeur du service examine chaque demande de modification, de retrait ou de suppression de contenu du service, celui-ci n’est pas tenu d’approuver ces demandes. Lorsque l’hébergeur du service approuve une telle demande, il en avisera promptement le déposant.
+        </div>
+    </div>
+</div>
 
-* l’utilisation du site, du service ou du contenu ou l’incapacité d’utiliser ceux-ci;
+<div class="card-shadow mb-3">
+    <div class="card-body">
+        <h2 id="70-protection-de-la-vie-privee">7.0 Protection de la vie privée</h2>
 
-* la divulgation ou la modification de votre compte ou l’accès non autorisé à celui-ci;
+        <div class="mb-3">
+            L’hébergeur du service respecte la vie privée des utilisateurs et des déposants et ne recueillera, n’utilisera et ne divulguera de renseignements personnels qu’en conformité avec la politique de confidentialité du DFDR, qui fait partie des présentes conditions d’utilisation. L’hébergeur du service incite tous les utilisateurs et les déposants à examiner la politique de confidentialité et à s’en servir pour prendre des décisions éclairées.
+        </div>
+    </div>
+</div>
 
-* les actions ou le défaut d’agir d’autres utilisateurs, déposants ou tiers pour quelque raison que ce soit;
+<div class="card-shadow mb-3">
+    <div class="card-body">
+        <h2 id="80-dispositions-generales">8.0 Dispositions générales</h2>
 
-* toute autre question découlant du site, du service, du contenu ou des présentes conditions d’utilisation, ou y étant liée.
+        <h3 id="81-suspension-et-resiliation">8.1 Suspension et résiliation</h3>
 
-Il s’agit d’une limitation complète de la responsabilité qui s’applique à tous les dommages de quelque nature que ce soit (qu’ils soient généraux, spéciaux, indirects, accessoires, exemplaires, punitifs ou autres, notamment la perte de données, de revenus ou de bénéfice ou le défaut de réaliser les avantages prévus), qu’il s’agisse de responsabilité assumée par contrat (notamment du fait d’une violation fondamentale), de responsabilité délictuelle (notamment du fait de négligence), de responsabilité stricte ou autre, même si l’hébergeur du service a été avisé ou aurait dû être au courant de la possibilité de tels dommages. Si vous n’êtes pas satisfait du site, du service, du contenu ou des présentes conditions d’utilisation, votre seul recours consiste à cesser d’utiliser le site et le service. Ce qui précède ne saurait avoir d’incidence sur la responsabilité qui ne peut être exclue ou limitée en vertu des lois applicables. Par conséquent, dans la mesure où l’exclusion des garanties ou des limitations de responsabilité ne s’applique pas dans certains territoires de compétence, la responsabilité de l’hébergeur du service sera limitée dans la mesure maximale permise par les lois applicables; en outre, la responsabilité de l’hébergeur du service à votre égard en vertu de toute théorie de responsabilité ne saurait en aucun cas dépasser le montant de cinquante dollars canadiens.
+        <div class="mb-3">
+            L’hébergeur du service se réserve le droit de suspendre immédiatement et sans préavis l’accès au site ou au service et l’utilisation de ceux-par toute personne (déposant ou utilisateur) lorsque celle-ci participe ou est soupçonnée de participer à des activités qui contreviennent aux lois applicables ou qui ne sont pas conformes aux présentes conditions d’utilisation.
+        </div>
 
-Vous êtes tenu(e) d’indemniser et de dégager de toute responsabilité l’hébergeur du service, et de prendre en charge sa défense, en cas de réclamation, de demande, d’action, de perte, de frais, de responsabilité ou de dommages, notamment les frais juridiques raisonnables et les frais en matière d’enquête et de règlement, découlant (i) de l’utilisation ou la mauvaise utilisation du site ou du service; (ii) de votre accès au site, de votre utilisation des services, de l’utilisation du contenu ou d’une contravention aux présentes conditions d’utilisation; (iii) de tout préjudice, du décès ou de dommages matériels occasionnés directement ou indirectement par vous; (iv) de la violation, par vous ou par un tiers utilisant votre compte, de toute propriété intellectuelle ou autre droit d’un tiers de quelque manière que ce soit relativement aux conditions d’utilisation, au site, au service ou au contenu. 
+        <div class="mb-3">
+            L’hébergeur du service peut, à sa seule discrétion, accorder un délai de 15 jours pour remédier aux activités qui contreviennent aux présentes conditions d’utilisation ou les faire cesser. Si l’hébergeur du service accorde une période de remédiation et que l’on ne remédie pas aux activités contrevenantes ou qu’on n’y met pas fin au cours de ladite période, ou si l’hébergeur du service détermine que l’on ne peut remédier à la contravention des présentes conditions d’utilisation, votre compte ou votre accès au site et au service sera résilié.
+        </div>
 
-### 8.4 Règlement des différends
+        <h3 id="82-avis-de-nonresponsabilite">8.2 Avis de non-responsabilité</h3>
 
-Les présentes conditions d’utilisation, votre utilisation du site et du service et tous les différends qui en découlent relativement aux présentes sont exclusivement régis et interprétés conformément aux lois de l’Ontario et aux lois fédérales du Canada applicables en Ontario, sans égard aux conflits de principes de droit. Vous convenez que, même s’il est disponible dans divers territoires de compétence, le site et le service sont réputés être situés uniquement dans la province de l’Ontario, au Canada. En outre, le site et le service sont réputés être de nature passive et ne sauraient favoriser une compétence personnelle sur l’hébergeur du service dans des territoires de compétences autres que la province de l’Ontario. Les parties se soumettent irrévocablement à la compétence exclusive des tribunaux de la province de l’Ontario pour toute action ou procédure découlant de l’application des présentes conditions d’utilisation. Toutefois, vous convenez que rien dans les présentes ne saurait empêcher l’hébergeur du service de demander des recours injonctifs ou d’autres mesures judiciaires urgentes dans quelque territoire de compétence que ce soit.
+        <div class="mb-3">
+            Le site, le service et le contenu sont mis « TELS QUELS » à la disposition des déposants et des utilisateurs. Vous reconnaissez et convenez que l’utilisation que vous faites du site, du service et du contenu est à vos risques.
+        </div>
 
-### 8.5 Intégralité de l’entente et divisibilité
+        <div class="mb-3">
+            L’hébergeur du service ne saurait déclarer ou garantir (ni prendre d’engagement en ce sens) que :
+        </div>
 
-Les présentes conditions d’utilisation, ainsi que la politique de confidentialité et les autres documents incorporés par renvoi dans les présentes, constituent l’intégralité de l’entente conclue entre vous et l’hébergeur du service en ce qui a trait à l’objet des présentes et remplacent toutes les ententes, négociations, communications et propositions (verbales, écrites ou électroniques) antérieures ou existantes entre vous et l’hébergeur du service en ce qui a trait à l’objet des présentes.
+        <ul>
+            <li>le site, le service ou le contenu satisferont à vos exigences ou que vous obtiendrez tout résultat, particulier ou non, de l’utilisation du site ou du service;</li>
 
-### 8.6 Modification des conditions d’utilisation
+            <li>l’accès au site ou au service sera ininterrompu, rapide, sécurisé ou exempt d’erreur;</li>
 
-L’hébergeur du service se réserve le droit, à sa seule discrétion, de modifier ou de remplacer les présentes conditions d’utilisation à tout moment, auquel cas les conditions d’utilisation modifiées ou mises à jour remplaceront les versions précédentes. Si l’hébergeur du service apporte des modifications aux présentes, les conditions d’utilisation mises à jour seront affichées sur le site.
+            <li>la qualité ou la fiabilité du site, du service ou du contenu répondra à vos attentes ou que le contenu est exact, complet, fiable, utile, opportun ou à jour;</li>
+        </ul>
+        <div class="mb-3">
+            Sauf dans les cas prévus aux présentes et dans la mesure où la loi le permet, l’hébergeur du service se dégage de toute déclaration, garantie ou condition relative au site, au service ou au contenu, qu’elle soit expresse, implicite, légale ou autre ou découle de la poursuite d’activités commerciales, notamment les garanties de titre, d’absence de contrefaçon, de qualité, de rendement, de compatibilité, de qualité marchande ou de réponse à une fin particulière. L’hébergeur du service ne saurait être tenu responsable et n’assume aucune responsabilité en ce qui a trait à tout dommage à votre équipement, à vos données ou à vos autres biens en raison de votre accès au site ou aux services, de votre utilisation de ceux-ci, de votre navigation dans ceux-ci ou de votre téléchargement de tout contenu ou de tout autre matériel, ou de votre incapacité à effectuer l’une ou l’autre des actions ci-dessus.
+        </div>
 
-Il vous incombe de vérifier périodiquement les conditions d’utilisation au cas où des modifications y auraient été apportées. Votre utilisation continue du site ou du service à la suite de l’affichage de modifications aux conditions d’utilisation constitue une acceptation de ces modifications.
+        <h3 id="83-responsabilite-et-indemnisation">8.3 Responsabilité et indemnisation</h3>
 
-### 8.7 Pour nous joindre
+        <div class="mb-3">
+            Dans la mesure où la loi ne l’interdit pas, l’hébergeur du service ne saurait être responsable de quelque dommage que ce soit, notamment les dommages directs, indirects, accessoires, punitifs, spéciaux ou exemplaires découlant de ce qui suit :
+        </div>
 
-Si vous avez des questions ou des commentaires au sujet du site ou du service, si vous n’êtes pas certain(e) que votre utilisation prévue est conforme aux présentes conditions d’utilisation ou si vous demandez l’autorisation pour une utilisation qui sort du cadre des présentes conditions d’utilisation, veuillez communiquer avec nous au [support@frdr-dfdr.ca](mailto:support@frdr-dfdr.ca).
+        <ul>
+            <li>l’utilisation du site, du service ou du contenu ou l’incapacité d’utiliser ceux-ci;</li>
 
-Si vous avez des questions ou des préoccupations au sujet de la collecte, de l’utilisation ou de la divulgation de renseignements personnels concernant le DFDR, veuillez consulter la politique sur la protection de la vie privée ou communiquer avec nous au [privacy@frdr-dfdr.ca](mailto:privacy@frdr-dfdr.ca).
+            <li>la divulgation ou la modification de votre compte ou l’accès non autorisé à celui-ci;</li>
 
-### 8.8 Droits patrimoniaux
+            <li>les actions ou le défaut d’agir d’autres utilisateurs, déposants ou tiers pour quelque raison que ce soit;</li>
 
-Vous reconnaissez et acceptez que tous les droits, titres et intérêts relatifs aux sites, au service, à toutes les données supplémentaires ajoutées par l’hébergeur du service au contenu et à tous marque de commerce, logiciel de recherche, guide d’utilisateur, documentation et autres droits de propriété intellectuelle créés par ou pour le compte de l’hébergeur du service concernant le site ou le service, notamment la soumission du contenu, demeurent la propriété exclusive de l’hébergeur du service et de ses titulaires de licence.
+            <li>toute autre question découlant du site, du service, du contenu ou des présentes conditions d’utilisation, ou y étant liée.</li>
+        </ul>
+
+        <div class="mb-3">
+            Il s’agit d’une limitation complète de la responsabilité qui s’applique à tous les dommages de quelque nature que ce soit (qu’ils soient généraux, spéciaux, indirects, accessoires, exemplaires, punitifs ou autres, notamment la perte de données, de revenus ou de bénéfice ou le défaut de réaliser les avantages prévus), qu’il s’agisse de responsabilité assumée par contrat (notamment du fait d’une violation fondamentale), de responsabilité délictuelle (notamment du fait de négligence), de responsabilité stricte ou autre, même si l’hébergeur du service a été avisé ou aurait dû être au courant de la possibilité de tels dommages. Si vous n’êtes pas satisfait du site, du service, du contenu ou des présentes conditions d’utilisation, votre seul recours consiste à cesser d’utiliser le site et le service. Ce qui précède ne saurait avoir d’incidence sur la responsabilité qui ne peut être exclue ou limitée en vertu des lois applicables. Par conséquent, dans la mesure où l’exclusion des garanties ou des limitations de responsabilité ne s’applique pas dans certains territoires de compétence, la responsabilité de l’hébergeur du service sera limitée dans la mesure maximale permise par les lois applicables; en outre, la responsabilité de l’hébergeur du service à votre égard en vertu de toute théorie de responsabilité ne saurait en aucun cas dépasser le montant de cinquante dollars canadiens.
+        </div>
+
+        <div class="mb-3">
+            Vous êtes tenu(e) d’indemniser et de dégager de toute responsabilité l’hébergeur du service, et de prendre en charge sa défense, en cas de réclamation, de demande, d’action, de perte, de frais, de responsabilité ou de dommages, notamment les frais juridiques raisonnables et les frais en matière d’enquête et de règlement, découlant (i) de l’utilisation ou la mauvaise utilisation du site ou du service; (ii) de votre accès au site, de votre utilisation des services, de l’utilisation du contenu ou d’une contravention aux présentes conditions d’utilisation; (iii) de tout préjudice, du décès ou de dommages matériels occasionnés directement ou indirectement par vous; (iv) de la violation, par vous ou par un tiers utilisant votre compte, de toute propriété intellectuelle ou autre droit d’un tiers de quelque manière que ce soit relativement aux conditions d’utilisation, au site, au service ou au contenu.
+        </div>
+
+        <h3 id="84-règlement-des-differends">8.4 Règlement des différends</h3>
+
+        <div class="mb-3">
+            Les présentes conditions d’utilisation, votre utilisation du site et du service et tous les différends qui en découlent relativement aux présentes sont exclusivement régis et interprétés conformément aux lois de l’Ontario et aux lois fédérales du Canada applicables en Ontario, sans égard aux conflits de principes de droit. Vous convenez que, même s’il est disponible dans divers territoires de compétence, le site et le service sont réputés être situés uniquement dans la province de l’Ontario, au Canada. En outre, le site et le service sont réputés être de nature passive et ne sauraient favoriser une compétence personnelle sur l’hébergeur du service dans des territoires de compétences autres que la province de l’Ontario. Les parties se soumettent irrévocablement à la compétence exclusive des tribunaux de la province de l’Ontario pour toute action ou procédure découlant de l’application des présentes conditions d’utilisation. Toutefois, vous convenez que rien dans les présentes ne saurait empêcher l’hébergeur du service de demander des recours injonctifs ou d’autres mesures judiciaires urgentes dans quelque territoire de compétence que ce soit.
+        </div>
+
+        <h3 id="85-integralite-de-l’entente-et-divisibilite">8.5 Intégralité de l’entente et divisibilité</h3>
+
+        <div class="mb-3">
+            Les présentes conditions d’utilisation, ainsi que la politique de confidentialité et les autres documents incorporés par renvoi dans les présentes, constituent l’intégralité de l’entente conclue entre vous et l’hébergeur du service en ce qui a trait à l’objet des présentes et remplacent toutes les ententes, négociations, communications et propositions (verbales, écrites ou électroniques) antérieures ou existantes entre vous et l’hébergeur du service en ce qui a trait à l’objet des présentes.
+        </div>
+
+         <h3 id="8.6-modification-des-conditions-d’utilisation">8.6 Modification des conditions d’utilisation</h3>
+
+        <div class="mb-3">
+            L’hébergeur du service se réserve le droit, à sa seule discrétion, de modifier ou de remplacer les présentes conditions d’utilisation à tout moment, auquel cas les conditions d’utilisation modifiées ou mises à jour remplaceront les versions précédentes. Si l’hébergeur du service apporte des modifications aux présentes, les conditions d’utilisation mises à jour seront affichées sur le site.
+        </div>
+
+        <div class="mb-3">
+            Il vous incombe de vérifier périodiquement les conditions d’utilisation au cas où des modifications y auraient été apportées. Votre utilisation continue du site ou du service à la suite de l’affichage de modifications aux conditions d’utilisation constitue une acceptation de ces modifications.
+        </div>
+
+        <h3 id="87-pour-nous-joindre">8.7 Pour nous joindre</h3>
+
+        <div class="mb-3">
+            Si vous avez des questions ou des commentaires au sujet du site ou du service, si vous n’êtes pas certain(e) que votre utilisation prévue est conforme aux présentes conditions d’utilisation ou si vous demandez l’autorisation pour une utilisation qui sort du cadre des présentes conditions d’utilisation, veuillez communiquer avec nous au <a href="mailto:support@frdr-dfdr.ca">support@frdr-dfdr.ca</a>.
+        </div>
+
+        <div class="mb-3">
+            Si vous avez des questions ou des préoccupations au sujet de la collecte, de l’utilisation ou de la divulgation de renseignements personnels concernant le DFDR, veuillez consulter la politique sur la protection de la vie privée ou communiquer avec nous au <a href="mailto:privacy@frdr-dfdr.ca">privacy@frdr-dfdr.ca</a>.
+        </div>
+
+        <h3 id="88-droits-patrimoniaux">8.8 Droits patrimoniaux</h3>
+
+        <div class="mb-3">
+            Vous reconnaissez et acceptez que tous les droits, titres et intérêts relatifs aux sites, au service, à toutes les données supplémentaires ajoutées par l’hébergeur du service au contenu et à tous marque de commerce, logiciel de recherche, guide d’utilisateur, documentation et autres droits de propriété intellectuelle créés par ou pour le compte de l’hébergeur du service concernant le site ou le service, notamment la soumission du contenu, demeurent la propriété exclusive de l’hébergeur du service et de ses titulaires de licence.
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 Derrière révision: 2023-06-17
