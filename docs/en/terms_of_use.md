@@ -344,22 +344,7 @@ If you are not of the age of majority in your place of residence, do not agree w
         <div class="mb-3">
             You acknowledge and agree that the all rights, title and interest in and to the Sites, Service, any additional data added by the Service Host to the Content and any trademarks, search software, user guides, documentation and other intellectual property that is created by or on behalf the Service Host relating to the Site or Service, including the submission of Content, is owned solely by the Service Host and their licensees.
         </div>
-
-        <div class="mb-3">
-            Last Revised: 2023-06-17
-        </div>
     </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
+Last Revised: 2023-06-17
