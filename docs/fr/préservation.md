@@ -18,7 +18,7 @@
         <h2 id="20-politiques-et-documents-connexes">2.0 Politiques et documents connexes</h2>
 
         <div class="mb-3">
-            Il faut appliquer la présente politique en respectant les <a href="/policies/fr/conditions_d'utilisation/">conditions d’utilisation</a>, la <a href="/policies/fr/confidentialité/">politique de confidentialité</a>, le <a href="/policies/fr/glossaire/">glossaire terminologique</a> du service et les autres politiques applicables du service, comme la <a href="/policies/fr/rétention_des_données/">politique en matière de rétention et de déréférencement des données</a>, qui régit les fonctions relatives au maintien d’un accès raisonnable à l’ensemble du contenu disponible par l’intermédiaire du service. La politique s’articule avec la planification de la préservation et les processus de l’Alliance de recherche numérique du Canada.
+            Il faut appliquer la présente politique en respectant les <a href="/policies/fr/conditions_d'utilisation/">conditions d’utilisation</a>, la <a href="/policies/fr/confidentialité/">politique de confidentialité</a>, le <a href="/policies/fr/glossaire/">glossaire terminologique</a> du service et les autres politiques applicables du service, comme la <a href="/policies/fr/rétention_des_données/">politique en matière de conservation et de retrait des données</a>, qui régit les fonctions relatives au maintien d’un accès raisonnable à l’ensemble du contenu disponible par l’intermédiaire du service. La politique s’articule avec la planification de la préservation et les processus de l’Alliance de recherche numérique du Canada.
         </div>
     </div>
 </div>
@@ -65,7 +65,7 @@
              <li>Suivi : L’équipe du service calcule des sommes de contrôle pour chaque fichier et les conserve. L’intégrité des fichiers est assurée en permanence au moyen de vérifications de la fixité.</li>
              <li>Reproduction : Les copies de préservation sont stockées à plusieurs endroits dispersés géographiquement.</li>
              <li>Migration : Lorsque c’est nécessaire et possible, le contenu est converti dans de nouveaux formats de fichier pour en assurer l’accessibilité en permanence.</li>
-             <li>Préservation : Les copies de préservation du contenu sont conservées à long terme conformément à la <a href="/policies/fr/rétention_des_données/">politique en matière de rétention et de déréférencement des données</a> du service. </li>
+             <li>Préservation : Les copies de préservation du contenu sont conservées à long terme conformément à la <a href="/policies/fr/rétention_des_données/">politique en matière de conservation et de retrait des données</a> du service. </li>
         </ol>
     </div>
 </div>
@@ -75,7 +75,7 @@
         <h2 id="60-selection-et-evaluation">6.0 Sélection et évaluation</h2>
 
         <div class="mb-3">
-            L’hôte du service évalue le contenu publié dans le service en vue de sa préservation à long terme en se fondant sur un cadre d’orientation pensé en fonction des pratiques exemplaires du domaine. Il est possible de sélectionner du contenu pour une préservation à long terme quand cette préservation est jugée utile après la vie active du jeu de données dans le dépôt d’après la <a href="/policies/fr/rétention_des_données/">politique en matière de rétention et de déréférencement des données</a>.
+            L’hôte du service évalue le contenu publié dans le service en vue de sa préservation à long terme en se fondant sur un cadre d’orientation pensé en fonction des pratiques exemplaires du domaine. Il est possible de sélectionner du contenu pour une préservation à long terme quand cette préservation est jugée utile après la vie active du jeu de données dans le dépôt d’après la <a href="/policies/fr/rétention_des_données/">politique en matière de conservation et de retrait des données</a>.
         </div>
         <div class="mb-3">
             Les déposantes et déposants peuvent contribuer au processus d’évaluation et de sélection en réfléchissant à ce qui sera nécessaire pour comprendre et reproduire leurs travaux de recherche. Elles et ils doivent bien organiser et décrire les fichiers pour faciliter le travail des curatrices et curateurs et de la coordonnatrice ou du coordonnateur de la préservation, qui prendront les décisions au nom du service relativement à l’évaluation.
@@ -101,7 +101,7 @@
         <h2 id="80-dereferencement-et-retention-des-donnees">8.0 Déréférencement et rétention des données</h2>
 
         <div class="mb-3">
-            Comme l’indique la <a href="/policies/fr/rétention_des_données/">politique en matière de rétention et de déréférencement des données</a>, l’équipe du service peut, à sa discrétion, déréférencer du contenu stocké.
+            Comme l’indique la <a href="/policies/fr/rétention_des_données/">politique en matière de conservation et de retrait des données</a>, l’équipe du service peut, à sa discrétion, déréférencer du contenu stocké.
         </div>
     </div>
 </div>
@@ -116,4 +116,4 @@
     </div>
 </div>
 
-Dernière mise à jour : 2024-08-28
+Dernière mise à jour : 2025-12-17

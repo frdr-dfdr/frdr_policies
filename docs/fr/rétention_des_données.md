@@ -1,11 +1,11 @@
-# Politique en matière de rétention et de déréférencement des données
+# Politique en matière de conservation et de retrait des données
 
 <div class="card-shadow mb-3">
     <div class="card-body">
         <h2 id="10-portee-et-objectif">1.0 Portée et objectif</h2>
 
         <div class="mb-3">
-            La présente politique couvre la rétention, la préservation et le déréférencement du contenu soumis au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, ainsi que les services offerts sur le site ou à partir de celui-ci (collectivement, le service). Elle emploie la terminologie établie dans le <a href="/policies/fr/glossaire/">glossaire</a> et est conforme aux <a href="/policies/fr/conditions_d'utilisation/">conditions d’utilisation</a>, à la <a href="/policies/fr/confidentialité/">politique de confidentialité</a> et à toute autre politique pertinente.
+            La présente politique couvre la conservation, la préservation et le retrait du contenu soumis au site web du Dépôt fédéré de données de recherche (DFDR) (le site), <a href="https://www.frdr-dfdr.ca/">https://www.frdr-dfdr.ca/</a>, ainsi que les services offerts sur le site ou à partir de celui-ci (collectivement, le service). Elle emploie la terminologie établie dans le <a href="/policies/fr/glossaire/">glossaire</a> et est conforme aux <a href="/policies/fr/conditions_d'utilisation/">conditions d’utilisation</a>, à la <a href="/policies/fr/confidentialité/">politique de confidentialité</a> et à toute autre politique pertinente.
         </div>
     </div>
 </div>
@@ -13,7 +13,7 @@
 
 <div class="card-shadow mb-3">
     <div class="card-body">
-        <h2 id="20-retention-des-donnees">2.0 Rétention des données</h2>
+        <h2 id="20-conservation-des-donnees">2.0 Conservation des données</h2>
 
         <div class="mb-3">
             Le service a pour responsabilité de fournir aux déposantes et déposants admissibles – conformément à la <a href="/policies/fr/soumission_données/">politique en matière de soumission de données</a> – un lieu sûr où déposer leurs données de recherche, y compris les métadonnées et la documentation connexes (ci-après « le contenu »), pour en améliorer la découvrabilité et l’accessibilité à des fins de réutilisation.
@@ -29,10 +29,10 @@
 
 <div class="card-shadow mb-3">
     <div class="card-body">
-        <h2 id="30-dereferencement-de-jeux-de-donnees">3.0 Déréférencement de jeux de données</h2>
+        <h2 id="30-retrait-de-jeux-de-donnees">3.0 Retrait de jeux de données</h2>
 
         <div class="mb-3">
-            Le service se réserve le droit de déréférencer le contenu pour les raisons suivantes :
+            Le service se réserve le droit de retirer le contenu pour les raisons suivantes :
         </div>
 
         <ul>
@@ -45,10 +45,10 @@
         </ul>
 
         <div class="mb-3">
-            Après la publication du contenu sur le service, les déposantes et déposants ne peuvent plus éditer, modifier, augmenter ou supprimer le contenu, sauf à la discrétion d’une curatrice ou d’un curateur. Le déréférencement ne doit se produire pendant la période de rétention que s’il existe une raison légale ou autre justification valable pour que le jeu de données ne soit plus accessible au public, et il doit être approuvé par une curatrice ou un curateur (conformément aux <a href="/policies/fr/conditions_d'utilisation/">conditions d’utilisation</a>).
+            Après la publication du contenu sur le service, les déposantes et déposants ne peuvent plus éditer, modifier, augmenter ou supprimer le contenu, sauf à la discrétion d’une curatrice ou d’un curateur. Le retrait ne doit se produire pendant la période de conservation que s’il existe une raison légale ou autre justification valable pour que le jeu de données ne soit plus accessible au public, et il doit être approuvé par une curatrice ou un curateur (conformément aux <a href="/policies/fr/conditions_d'utilisation/">conditions d’utilisation</a>).
         </div>
         <div class="mb-3">
-            Si le contenu est déréférencé pour l’une des raisons mentionnées précédemment, le service se réserve le droit de conserver l’enregistrement des métadonnées de citation dans le dépôt. Une page de renvoi résiduelle contenant les métadonnées de base de la citation et une déclaration de déréférencement sera mise à la disposition du public par l’intermédiaire de l’identifiant d’objet numérique (DOI) fourni dans la citation pour ce contenu. Les utilisatrices et utilisateurs ne pourront pas consulter les fichiers ou les métadonnées supplémentaires qui étaient disponibles avant la suppression; toutefois, les métadonnées de citation du contenu déréférencé pourront être consultées. Si le contenu est déréférencé pour des raisons juridiques ou éthiques, la déclaration de déréférencement dissimulera toute information qui pourrait contribuer au risque ou au préjudice potentiel que pourrait entraîner la divulgation.
+            Si le contenu est retiré pour l’une des raisons mentionnées précédemment, le service se réserve le droit de conserver l’enregistrement des métadonnées de citation dans le dépôt. Une page de renvoi résiduelle contenant les métadonnées de base de la citation et une déclaration de retrait sera mise à la disposition du public par l’intermédiaire de l’identifiant d’objet numérique (DOI) fourni dans la citation pour ce contenu. Les utilisatrices et utilisateurs ne pourront pas consulter les fichiers ou les métadonnées supplémentaires qui étaient disponibles avant la suppression; toutefois, les métadonnées de citation du contenu retiré pourront être consultées. Si le contenu est retiré pour des raisons juridiques ou éthiques, la déclaration de retrait dissimulera toute information qui pourrait contribuer au risque ou au préjudice potentiel que pourrait entraîner la divulgation.
         </div>
     </div>
 </div>
@@ -63,4 +63,4 @@
     </div>
 </div>
 
-Dernière révision : 2024-03-27
+Dernière révision : 2025-12-17
